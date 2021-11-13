@@ -1,4 +1,4 @@
-[live_naver]
+[live]
 title = "네이버 공연 live beta"
 url = "https://live.naver.com/"
 entrySelector = "ul.list-item li.item"
