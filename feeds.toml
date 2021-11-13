@@ -7,3 +7,13 @@ linkSelector = "div.detail-info a"
 contentSelector = "p.date.ico-before"
 imageSelector = "div.mask-box img._lazyImage"
 waitUntil = "networkidle"
+
+[live_ top]
+title = "네이버 공연 live beta ─ 하이라이트"
+url = "https://live.naver.com/"
+entrySelector = "div.eg-flick-camera div.video-box.eg-flick-panel"
+titleSelector = "p.sub-title.ellipsis2"
+linkSelector = "a.video"
+contentSelector = "span.badge_middle.badge_bg--00ca7b"
+imageSelector = "img._lazyImage"
+waitUntil = "networkidle"
