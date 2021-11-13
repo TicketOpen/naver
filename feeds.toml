@@ -1,0 +1,9 @@
+[live_naver]
+title = "네이버 공연 live beta"
+url = "https://live.naver.com/"
+entrySelector = "ul.list-item li.item"
+titleSelector = "div.detail-info a"
+linkSelector = "div.detail-info a"
+contentSelector = "p.date.ico-before"
+imageSelector = "div.mask-box img._lazyImage"
+waitUntil = "networkidle"
