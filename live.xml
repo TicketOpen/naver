@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 10:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 11:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[KSO국제지휘콩쿠르 - 결선]]></title>
-            <link>https://blog.naver.com/ksoblog/222543922582</link>
-            <guid>https://blog.naver.com/ksoblog/222543922582</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[11월 14일(일) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_131/PZVcy_1634805018019frMUg_PNG/1634805017988.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											포르테 디 콰트로 토크 콘서트: 그땐 그랬지]]></title>
@@ -93,6 +85,15 @@
             <pubDate>Sun, 14 Nov 2021 09:14:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 18일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_259/fI1ji_1635147247799TAJl3_PNG/1635147247778.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <명동로망스>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[11월 19일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_282/23U2R_1634287215883dlib7_PNG/1634287215605.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
