@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211105_50/1636094685460czmrX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포르테 디 콰트로 토크 콘서트: 그땐 그랬지 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/artsnartists</link>
-            <guid>https://patron.naver.com/ntv/c/intro/artsnartists</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211105_246/1636081187919VJqPD_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> Live 관객과 평단 모두가 선택한 웰메이드 창작 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
@@ -160,14 +152,6 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211105_50/1636094685460czmrX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르테 디 콰트로 토크 콘서트: 그땐 그랬지 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/artsnartists</link>
-            <guid>https://patron.naver.com/ntv/c/intro/artsnartists</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211105_246/1636081187919VJqPD_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> Live 관객과 평단 모두가 선택한 웰메이드 창작 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
