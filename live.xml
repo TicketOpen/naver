@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 08:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <메이사의 노래> 생중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
-            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[11월 14일(일) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_235/YM6aN_1635926510017mn3lx_JPEG/1635926509980.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[KSO국제지휘콩쿠르 - 결선]]></title>
             <link>https://blog.naver.com/ksoblog/222543922582</link>
@@ -94,6 +85,14 @@
             <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
             <content:encoded><![CDATA[11월 18일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_83/e3J8D_1634287075926BYeC7_PNG/1634287075833.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <제 1강 : 거절하는 방법> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222530628797</link>
+            <guid>https://blog.naver.com/jump_arko/222530628797</guid>
+            <pubDate>Sun, 14 Nov 2021 09:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_259/fI1ji_1635147247799TAJl3_PNG/1635147247778.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
