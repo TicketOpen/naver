@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 12:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 13:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[11월 15일(월) 16:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_33/0SOZK_1634286155438UPsHk_PNG/1634286155394.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <어쩌면 해피엔딩> Live｜정욱진, 홍지희, 이선근]]></title>
@@ -94,6 +85,15 @@
             <pubDate>Sun, 14 Nov 2021 13:19:23 GMT</pubDate>
             <content:encoded><![CDATA[11월 19일(금) 20:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_110/Z5A94_1634799718270365EQ_JPEG/1634799718228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <메이사의 노래> 생중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
+            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
+            <pubDate>Mon, 15 Nov 2021 13:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 21일(일) 14:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_219/b4KLs_1635854581285kIAB6_JPEG/1635854581237.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
