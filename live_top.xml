@@ -4,9 +4,17 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 07:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 08:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021년의 마지막을 장식할 황홀한 연회!국립오페라단 <라 트라비아타>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 15 Nov 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211115_206/16369625168915lusG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[촌철살인의 업그레이드된 웃음뮤지컬<홀연했던 사나이>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
@@ -56,6 +64,14 @@
 										</div>
 									</a>]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년의 마지막을 장식할 황홀한 연회!국립오페라단 <라 트라비아타>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 15 Nov 2021 08:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211115_206/16369625168915lusG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[촌철살인의 업그레이드된 웃음뮤지컬<홀연했던 사나이>]]></title>
