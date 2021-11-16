@@ -4,10 +4,18 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 04:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/seoulphil</link>
+            <guid>https://patron.naver.com/ntv/c/intro/seoulphil</guid>
+            <pubDate>Tue, 16 Nov 2021 05:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211116_158/1637039116008DG7uf_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공예트렌드페어X레인보우 고우리랜선 공예품 쇼핑]]></title>
             <link>https://shoppinglive.naver.com/livebridge/312828</link>
             <guid>https://shoppinglive.naver.com/livebridge/312828</guid>
@@ -72,22 +80,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211018_111/16345371932242zJcl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원 라이브 8천원 할인받는 꿀팁!1달에 2번 기회를 놓치지 마세요~]]></title>
-            <link>https://live.naver.com/live/coupon/home.grfl</link>
-            <guid>https://live.naver.com/live/coupon/home.grfl</guid>
-            <pubDate>Sun, 14 Nov 2021 06:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://live.naver.com/live/coupon/home.grfl" class="video">
-										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" alt="후원 라이브 8천원 할인받는 꿀팁!<br>1달에 2번 기회를 놓치지 마세요~ 이미지">
-										<div class="text-info-box" style="opacity: 1;">
-											<p class="date ellipsis">5월 18일부터 12월 5일까지</p>
-											<div class="text-info">
-												
-												
-												<p class="sub-title ellipsis2">후원 라이브 8천원 할인받는 꿀팁!<br>1달에 2번 기회를 놓치지 마세요~</p>
-											</div>
-										</div>
-									</a>]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/seoulphil</link>
+            <guid>https://patron.naver.com/ntv/c/intro/seoulphil</guid>
+            <pubDate>Tue, 16 Nov 2021 05:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211116_158/1637039116008DG7uf_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공예트렌드페어X레인보우 고우리랜선 공예품 쇼핑]]></title>
@@ -152,24 +150,6 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211018_111/16345371932242zJcl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원 라이브 8천원 할인받는 꿀팁!1달에 2번 기회를 놓치지 마세요~]]></title>
-            <link>https://live.naver.com/live/coupon/home.grfl</link>
-            <guid>https://live.naver.com/live/coupon/home.grfl</guid>
-            <pubDate>Sun, 14 Nov 2021 06:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://live.naver.com/live/coupon/home.grfl" class="video">
-										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" alt="후원 라이브 8천원 할인받는 꿀팁!<br>1달에 2번 기회를 놓치지 마세요~ 이미지">
-										<div class="text-info-box" style="opacity:0;">
-											<p class="date ellipsis">5월 18일부터 12월 5일까지</p>
-											<div class="text-info">
-												
-												
-												<p class="sub-title ellipsis2">후원 라이브 8천원 할인받는 꿀팁!<br>1달에 2번 기회를 놓치지 마세요~</p>
-											</div>
-										</div>
-									</a>]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
