@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 18:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 19:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211115_78/1636968074491t93B5_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 군 창작뮤지컬 <메이사의 노래> Live]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
+            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
+            <pubDate>Thu, 18 Nov 2021 19:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211108_86/1636352064543qJL2U_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021년의 마지막을 장식할 황홀한 연회!국립오페라단 <라 트라비아타>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 날, 내게 찾아 ON 콘서트임재현/안예은/마크툽/이예준/사비나앤드론즈]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/audioguy</link>
-            <guid>https://patron.naver.com/ntv/c/intro/audioguy</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211022_163/1634893237151rgmY3_JPEG/750x420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜]]></title>
@@ -112,6 +112,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211115_78/1636968074491t93B5_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 군 창작뮤지컬 <메이사의 노래> Live]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
+            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
+            <pubDate>Thu, 18 Nov 2021 19:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211108_86/1636352064543qJL2U_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021년의 마지막을 장식할 황홀한 연회!국립오페라단 <라 트라비아타>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 날, 내게 찾아 ON 콘서트임재현/안예은/마크툽/이예준/사비나앤드론즈]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/audioguy</link>
-            <guid>https://patron.naver.com/ntv/c/intro/audioguy</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211022_163/1634893237151rgmY3_JPEG/750x420.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
