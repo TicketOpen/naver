@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 11:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 12:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,14 +15,6 @@
             <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
             <content:encoded><![CDATA[11월 18일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_83/e3J8D_1634287075926BYeC7_PNG/1634287075833.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <제 1강 : 거절하는 방법> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222530628797</link>
-            <guid>https://blog.naver.com/jump_arko/222530628797</guid>
-            <pubDate>Sun, 14 Nov 2021 09:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_259/fI1ji_1635147247799TAJl3_PNG/1635147247778.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
@@ -92,6 +84,15 @@
             <pubDate>Wed, 17 Nov 2021 17:18:31 GMT</pubDate>
             <content:encoded><![CDATA[11월 23일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_82/1OJ8G_1635147066647zNq2I_PNG/1635147066586.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											극단 봄 <도서관 생쥐>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Thu, 18 Nov 2021 12:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일(수) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_84/xSujH_1635384738812ImSR2_JPEG/1635384738784.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
