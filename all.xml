@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 12:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 13:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
             <content:encoded><![CDATA[11월 19일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_282/23U2R_1634287215883dlib7_PNG/1634287215605.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											어느 날, 내게 찾아 ON 콘서트 -2회차 (마크툽/이예준) (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/audioguy</link>
-            <guid>https://patron.naver.com/ntv/c/intro/audioguy</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 19일(금) 20:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_110/Z5A94_1634799718270365EQ_JPEG/1634799718228.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -53,12 +44,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_86/vHeyJ_1634712577760oaxNF_JPEG/1634712577725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김장훈과 영탁의 <가족> 힐링 콘서트 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/91621</link>
-            <guid>https://tv.naver.com/l/91621</guid>
-            <pubDate>Tue, 16 Nov 2021 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[11월 22일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_90/f69YY_1636551256495caKDq_JPEG/1636551256468.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[희망은 시처럼 온다 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/kccf2007/222571072025</link>
+            <guid>https://blog.naver.com/kccf2007/222571072025</guid>
+            <pubDate>Fri, 19 Nov 2021 13:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 23일(화) 14:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_120/xLTAB_1637301177006UzBQL_PNG/1637301176987.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국예술종합학교&스웨덴 예테보리﻿ 대학교 교류 공연 (네이버 공연 live beta)]]></title>
@@ -92,6 +83,15 @@
             <pubDate>Fri, 19 Nov 2021 11:13:02 GMT</pubDate>
             <content:encoded><![CDATA[11월 24일(수) 11:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211107_111/hP3Au_1636265193756Rukzg_JPEG/1636265193721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											극단 봄 <도서관 생쥐> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Fri, 19 Nov 2021 13:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일(수) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_84/xSujH_1635384738812ImSR2_JPEG/1635384738784.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜 (네이버 공연 live beta ─ 하이라이트)]]></title>
