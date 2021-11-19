@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 10:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 11:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											공예트렌드페어X레인보우 고우리]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/312828</link>
-            <guid>https://shoppinglive.naver.com/livebridge/312828</guid>
-            <pubDate>Mon, 15 Nov 2021 10:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[11월 19일(금) 18:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211115_236/16369679256492PNcl_JPEG/246X138.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <명동로망스>]]></title>
@@ -93,6 +84,14 @@
             <pubDate>Wed, 17 Nov 2021 17:18:31 GMT</pubDate>
             <content:encoded><![CDATA[11월 23일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_82/1OJ8G_1635147066647zNq2I_PNG/1635147066586.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[11시콘서트＜재즈 조윤성 밴드＞]]></title>
+            <link>https://blog.naver.com/caactalk/222554999689</link>
+            <guid>https://blog.naver.com/caactalk/222554999689</guid>
+            <pubDate>Fri, 19 Nov 2021 11:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일(수) 11:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211107_111/hP3Au_1636265193756Rukzg_JPEG/1636265193721.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

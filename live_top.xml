@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 10:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 11:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,30 +16,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211116_158/1637039116008DG7uf_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공예트렌드페어X레인보우 고우리랜선 공예품 쇼핑]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/312828</link>
-            <guid>https://shoppinglive.naver.com/livebridge/312828</guid>
-            <pubDate>Mon, 15 Nov 2021 10:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/312828" class="video">
-										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20211115_78/1636968074491t93B5_JPEG/688X386.jpg" alt="공예트렌드페어X레인보우 고우리<br>랜선 공예품 쇼핑 이미지">
-										<div class="text-info-box" style="opacity: 1;">
-											<p class="date ellipsis">11/19(금) 오후 6시</p>
-											<div class="text-info">
-												
-													
-													
-													
-														<span class="badge_middle badge_bg--f43319">쇼핑</span>
-													
-												
-												
-												<p class="sub-title ellipsis2">공예트렌드페어X레인보우 고우리<br>랜선 공예품 쇼핑</p>
-											</div>
-										</div>
-									</a>]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211115_78/1636968074491t93B5_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 군 창작뮤지컬 <메이사의 노래> Live]]></title>
             <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
             <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
@@ -78,6 +54,14 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 날, 내게 찾아 ON 콘서트임재현/안예은/마크툽/이예준/사비나앤드론즈]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/audioguy</link>
+            <guid>https://patron.naver.com/ntv/c/intro/audioguy</guid>
+            <pubDate>Fri, 19 Nov 2021 11:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211022_163/1634893237151rgmY3_JPEG/750x420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜]]></title>
@@ -88,30 +72,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211116_158/1637039116008DG7uf_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공예트렌드페어X레인보우 고우리랜선 공예품 쇼핑]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/312828</link>
-            <guid>https://shoppinglive.naver.com/livebridge/312828</guid>
-            <pubDate>Mon, 15 Nov 2021 10:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/312828" class="video">
-										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20211115_78/1636968074491t93B5_JPEG/688X386.jpg" alt="공예트렌드페어X레인보우 고우리<br>랜선 공예품 쇼핑 이미지">
-										<div class="text-info-box" style="opacity:0;">
-											<p class="date ellipsis">11/19(금) 오후 6시</p>
-											<div class="text-info">
-												
-													
-													
-													
-														<span class="badge_middle badge_bg--f43319">쇼핑</span>
-													
-												
-												
-												<p class="sub-title ellipsis2">공예트렌드페어X레인보우 고우리<br>랜선 공예품 쇼핑</p>
-											</div>
-										</div>
-									</a>]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211115_78/1636968074491t93B5_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 군 창작뮤지컬 <메이사의 노래> Live]]></title>
             <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
             <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
@@ -150,6 +110,14 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 날, 내게 찾아 ON 콘서트임재현/안예은/마크툽/이예준/사비나앤드론즈]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/audioguy</link>
+            <guid>https://patron.naver.com/ntv/c/intro/audioguy</guid>
+            <pubDate>Fri, 19 Nov 2021 11:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211022_163/1634893237151rgmY3_JPEG/750x420.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
