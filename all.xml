@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 08:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 09:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <메이사의 노래> 생중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
-            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
-            <pubDate>Mon, 15 Nov 2021 13:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 21일(일) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_219/b4KLs_1635854581285kIAB6_JPEG/1635854581237.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <명동로망스> (네이버 공연 live beta)]]></title>
@@ -92,6 +83,15 @@
             <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
             <content:encoded><![CDATA[11월 24일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_254/PIrbP_1634287781818Xii6F_PNG/1634287781748.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											꿈동이인형극단 <버드나무를 타고 올라간 용궁> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Fri, 19 Nov 2021 13:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 25일(목) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_247/G3Vna_1635386218416WB0Ou_JPEG/1635386218400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜 (네이버 공연 live beta ─ 하이라이트)]]></title>
