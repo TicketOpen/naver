@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <어쩌면 해피엔딩> Live｜신성민, 한재아, 이선근]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[11월 22일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_86/vHeyJ_1634712577760oaxNF_JPEG/1634712577725.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[희망은 시처럼 온다]]></title>
             <link>https://blog.naver.com/kccf2007/222571072025</link>
@@ -92,6 +83,14 @@
             <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
             <content:encoded><![CDATA[11월 25일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_255/NmCrb_16342878937846UPSW_PNG/1634287893684.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가족환경오페라<빛아이 어둠아이> 녹화중계]]></title>
+            <link>https://tv.naver.com/l/90161</link>
+            <guid>https://tv.naver.com/l/90161</guid>
+            <pubDate>Mon, 22 Nov 2021 15:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[11월 25일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_211/CYz3X_1635146826722dpBQ7_PNG/1635146826699.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
