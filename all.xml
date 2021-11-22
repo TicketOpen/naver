@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 12:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 13:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[11월 22일(월) 16:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_209/UFKXQ_1634287417794xwbIe_PNG/1634287417715.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <어쩌면 해피엔딩> Live｜신성민, 한재아, 이선근 (네이버 공연 live beta)]]></title>
@@ -92,6 +83,15 @@
             <pubDate>Fri, 19 Nov 2021 13:21:20 GMT</pubDate>
             <content:encoded><![CDATA[11월 25일(목) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211028_247/G3Vna_1635386218416WB0Ou_JPEG/1635386218400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <명동로망스> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
+            <content:encoded><![CDATA[11월 25일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_255/NmCrb_16342878937846UPSW_PNG/1634287893684.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜 (네이버 공연 live beta ─ 하이라이트)]]></title>
