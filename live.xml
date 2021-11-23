@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 06:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 07:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[희망은 시처럼 온다]]></title>
-            <link>https://blog.naver.com/kccf2007/222571072025</link>
-            <guid>https://blog.naver.com/kccf2007/222571072025</guid>
-            <pubDate>Fri, 19 Nov 2021 13:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 23일(화) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_120/xLTAB_1637301177006UzBQL_PNG/1637301176987.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[한국예술종합학교&스웨덴 예테보리﻿ 대학교 교류 공연]]></title>
             <link>https://blog.naver.com/karts_/222559310246</link>
@@ -91,6 +83,15 @@
             <pubDate>Mon, 22 Nov 2021 15:15:49 GMT</pubDate>
             <content:encoded><![CDATA[11월 25일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_211/CYz3X_1635146826722dpBQ7_PNG/1635146826699.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											극단 영 <호두까기 인형>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Fri, 19 Nov 2021 13:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일(금) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_89/0gARU_1635386380066olo4g_JPEG/1635386380027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
