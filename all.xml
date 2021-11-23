@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 16:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[11월 23일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_164/6OFOA_1634287582953gmKim_PNG/1634287582846.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[11시콘서트＜재즈 조윤성 밴드＞ (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/caactalk/222554999689</link>
@@ -94,6 +85,15 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[11월 26일(금) 20:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_116/PLtyr_1634807291861Pv7fk_JPEG/1634807291826.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <메이사의 노래> 생중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
+            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
+            <pubDate>Mon, 15 Nov 2021 13:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 27일(토) 14:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_234/zzhIU_1635854345860Lqpl9_JPEG/1635854345816.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
