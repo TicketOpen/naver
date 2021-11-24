@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[11시콘서트＜재즈 조윤성 밴드＞ (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/caactalk/222554999689</link>
-            <guid>https://blog.naver.com/caactalk/222554999689</guid>
-            <pubDate>Fri, 19 Nov 2021 11:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일(수) 11:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211107_111/hP3Au_1636265193756Rukzg_JPEG/1636265193721.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											극단 봄 <도서관 생쥐> (네이버 공연 live beta)]]></title>
@@ -94,6 +86,15 @@
             <pubDate>Mon, 15 Nov 2021 13:21:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 27일(토) 14:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_234/zzhIU_1635854345860Lqpl9_JPEG/1635854345816.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											서울시립교향악단 <쇼팽 콩쿠르 스페셜> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/seoulphil</link>
+            <guid>https://patron.naver.com/ntv/c/intro/seoulphil</guid>
+            <pubDate>Tue, 16 Nov 2021 05:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[11월 27일(토) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_43/lk3J9_1636942133908rdSbd_JPEG/1636942133891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
