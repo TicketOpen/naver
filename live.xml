@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 16:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[11월 25일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_255/NmCrb_16342878937846UPSW_PNG/1634287893684.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											극단 영 <호두까기 인형>]]></title>
@@ -95,6 +86,15 @@
             <pubDate>Thu, 25 Nov 2021 10:16:04 GMT</pubDate>
             <content:encoded><![CDATA[11월 28일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211103_60/2Mdzo_1635931672556K24rS_JPEG/1635931672532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <명동로망스>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[11월 29일(월) 16:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_223/f5FHi_1634288130404u2K1x_PNG/1634288130318.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
