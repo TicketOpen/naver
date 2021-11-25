@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 11:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 12:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,14 +15,6 @@
             <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
             <content:encoded><![CDATA[11월 25일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_255/NmCrb_16342878937846UPSW_PNG/1634287893684.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가족환경오페라<빛아이 어둠아이> 녹화중계]]></title>
-            <link>https://tv.naver.com/l/90161</link>
-            <guid>https://tv.naver.com/l/90161</guid>
-            <pubDate>Mon, 22 Nov 2021 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[11월 25일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_211/CYz3X_1635146826722dpBQ7_PNG/1635146826699.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -94,6 +86,15 @@
             <pubDate>Thu, 25 Nov 2021 10:16:04 GMT</pubDate>
             <content:encoded><![CDATA[11월 27일(토) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211103_15/YqdGK_1635931637212NFJTt_JPEG/1635931637189.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 11/28(일)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Thu, 25 Nov 2021 10:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[11월 28일(일) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_60/2Mdzo_1635931672556K24rS_JPEG/1635931672532.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
