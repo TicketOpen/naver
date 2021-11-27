@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 10:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 11:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <pubDate>Mon, 15 Nov 2021 13:21:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 27일(토) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_280/39MHN_1635854476746RWAWd_JPEG/1635854476711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오세득 셰프의 요리 콘서트 with 나태주 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/yjsjcf/222572203338</link>
-            <guid>https://blog.naver.com/yjsjcf/222572203338</guid>
-            <pubDate>Wed, 24 Nov 2021 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[11월 27일(토) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_134/iAMwE_1637231400137rr4U7_JPEG/1637231400110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -94,6 +86,15 @@
             <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[11월 29일(월) 21:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_44/16376767814550eDOr_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 [인계점] 삶과 죽음이 결정되는 경계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/cont2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/cont2021</guid>
+            <pubDate>Sat, 27 Nov 2021 11:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[11월 30일(화) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_23/xMcYL_1636344641391n2ac0_JPEG/1636344641377.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
