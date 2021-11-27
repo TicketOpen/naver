@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 11:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 12:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											서울시립교향악단 <쇼팽 콩쿠르 스페셜>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/seoulphil</link>
-            <guid>https://patron.naver.com/ntv/c/intro/seoulphil</guid>
-            <pubDate>Wed, 24 Nov 2021 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[11월 27일(토) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_43/lk3J9_1636942133908rdSbd_JPEG/1636942133891.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <메이사의 노래> 생중계 - 11월 27일 오후 7시]]></title>
@@ -95,6 +86,14 @@
             <pubDate>Sat, 27 Nov 2021 11:12:27 GMT</pubDate>
             <content:encoded><![CDATA[11월 30일(화) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_23/xMcYL_1636344641391n2ac0_JPEG/1636344641377.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영마스터즈 8. 첼리스트 이원해]]></title>
+            <link>https://tv.naver.com/l/92629</link>
+            <guid>https://tv.naver.com/l/92629</guid>
+            <pubDate>Sat, 27 Nov 2021 12:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[11월 30일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_228/wSSUg_1637647523677j89dO_PNG/1637647523592.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

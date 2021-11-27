@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 11:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 12:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/seoulphil</link>
-            <guid>https://patron.naver.com/ntv/c/intro/seoulphil</guid>
-            <pubDate>Tue, 16 Nov 2021 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211116_158/1637039116008DG7uf_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 군 창작뮤지컬 <메이사의 노래> Live]]></title>
             <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
             <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
@@ -62,6 +54,14 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <명동로망스> 녹화중계 1956년 명동의 로암스 다방, 그 곳의 예술가]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 27 Nov 2021 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211018_111/16345371932242zJcl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념]]></title>
@@ -72,14 +72,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021년 서울시향쇼팽 콩쿠르 스페셜]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/seoulphil</link>
-            <guid>https://patron.naver.com/ntv/c/intro/seoulphil</guid>
-            <pubDate>Tue, 16 Nov 2021 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211116_158/1637039116008DG7uf_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 군 창작뮤지컬 <메이사의 노래> Live]]></title>
             <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
             <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
@@ -118,6 +110,14 @@
             <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <명동로망스> 녹화중계 1956년 명동의 로암스 다방, 그 곳의 예술가]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 27 Nov 2021 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211018_111/16345371932242zJcl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
