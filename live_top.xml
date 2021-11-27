@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 12:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 13:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 군 창작뮤지컬 <메이사의 노래> Live]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
-            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
-            <pubDate>Thu, 18 Nov 2021 19:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211108_86/1636352064543qJL2U_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021년의 마지막을 장식할 황홀한 연회!국립오페라단 <라 트라비아타>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -62,6 +54,24 @@
             <pubDate>Sat, 27 Nov 2021 12:22:15 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211018_111/16345371932242zJcl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원 라이브 8천원 할인받는 꿀팁!1달에 2번 기회를 놓치지 마세요~]]></title>
+            <link>https://live.naver.com/live/coupon/home.grfl</link>
+            <guid>https://live.naver.com/live/coupon/home.grfl</guid>
+            <pubDate>Sat, 27 Nov 2021 13:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://live.naver.com/live/coupon/home.grfl" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" alt="후원 라이브 8천원 할인받는 꿀팁!<br>1달에 2번 기회를 놓치지 마세요~ 이미지">
+										<div class="text-info-box" style="opacity: 1;">
+											<p class="date ellipsis">5월 18일부터 12월 5일까지</p>
+											<div class="text-info">
+												
+												
+												<p class="sub-title ellipsis2">후원 라이브 8천원 할인받는 꿀팁!<br>1달에 2번 기회를 놓치지 마세요~</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념]]></title>
@@ -72,14 +82,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 군 창작뮤지컬 <메이사의 노래> Live]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
-            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
-            <pubDate>Thu, 18 Nov 2021 19:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211108_86/1636352064543qJL2U_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021년의 마지막을 장식할 황홀한 연회!국립오페라단 <라 트라비아타>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -118,6 +120,24 @@
             <pubDate>Sat, 27 Nov 2021 12:22:15 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211018_111/16345371932242zJcl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원 라이브 8천원 할인받는 꿀팁!1달에 2번 기회를 놓치지 마세요~]]></title>
+            <link>https://live.naver.com/live/coupon/home.grfl</link>
+            <guid>https://live.naver.com/live/coupon/home.grfl</guid>
+            <pubDate>Sat, 27 Nov 2021 13:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://live.naver.com/live/coupon/home.grfl" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" alt="후원 라이브 8천원 할인받는 꿀팁!<br>1달에 2번 기회를 놓치지 마세요~ 이미지">
+										<div class="text-info-box" style="opacity:0;">
+											<p class="date ellipsis">5월 18일부터 12월 5일까지</p>
+											<div class="text-info">
+												
+												
+												<p class="sub-title ellipsis2">후원 라이브 8천원 할인받는 꿀팁!<br>1달에 2번 기회를 놓치지 마세요~</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20210518_12/1621318198493vxf28_JPEG/688x386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
