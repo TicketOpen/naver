@@ -4,36 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <어쩌면 해피엔딩> Live｜임준혁, 해나, 성종완]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
-            <pubDate>Fri, 26 Nov 2021 13:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_235/tY9MJ_1634712954894Tqfh9_JPEG/1634712954851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<홀연했던 사나이> 녹화 중계 - 11/29(월)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Thu, 25 Nov 2021 10:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_222/wNjBR_1635931699137kCrx7_JPEG/1635931699124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - Norwegian Night]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(월) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_44/16376767814550eDOr_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 [인계점] 삶과 죽음이 결정되는 경계]]></title>
@@ -93,6 +66,31 @@
             <pubDate>Mon, 29 Nov 2021 13:22:07 GMT</pubDate>
             <content:encoded><![CDATA[12월 01일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_257/Zflzm_1637861239187MHz39_PNG/1637861239176.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021-22 뮤지컬 팬레터 시츠프로브 중계]]></title>
+            <link>https://blog.naver.com/livecorp12/222578552827</link>
+            <guid>https://blog.naver.com/livecorp12/222578552827</guid>
+            <pubDate>Mon, 29 Nov 2021 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 01일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_257/Zflzm_1637861239187MHz39_PNG/1637861239176.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - Dutch Night]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[12월 01일(수) 21:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_166/1637677001379IMjhg_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[종로고음악제 2021 DAY1. <클라라의 사랑과 생애>]]></title>
+            <link>https://tv.naver.com/l/92794</link>
+            <guid>https://tv.naver.com/l/92794</guid>
+            <pubDate>Mon, 29 Nov 2021 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 02일(목) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_201/bMAlu_16378054091501f3Th_JPEG/1637805409113.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

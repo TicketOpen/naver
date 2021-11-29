@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,28 +32,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211115_206/16369625168915lusG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[촌철살인의 업그레이드된 웃음뮤지컬<홀연했던 사나이>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211105_50/1636094685460czmrX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[막주금 라이브 Festa ( FNL / SNL )]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
             <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
             <pubDate>Tue, 16 Nov 2021 14:14:10 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211116_30/1637069303460RzQX7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> Live 관객과 평단 모두가 선택한 웰메이드 창작 뮤지컬]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <명동로망스> 녹화중계 1956년 명동의 로암스 다방, 그 곳의 예술가]]></title>
@@ -88,28 +72,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211115_206/16369625168915lusG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[촌철살인의 업그레이드된 웃음뮤지컬<홀연했던 사나이>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211105_50/1636094685460czmrX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[막주금 라이브 Festa ( FNL / SNL )]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
             <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
             <pubDate>Tue, 16 Nov 2021 14:14:10 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211116_30/1637069303460RzQX7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> Live 관객과 평단 모두가 선택한 웰메이드 창작 뮤지컬]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <명동로망스> 녹화중계 1956년 명동의 로암스 다방, 그 곳의 예술가]]></title>

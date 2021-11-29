@@ -4,36 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <어쩌면 해피엔딩> Live｜임준혁, 해나, 성종완 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_235/tY9MJ_1634712954894Tqfh9_JPEG/1634712954851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<홀연했던 사나이> 녹화 중계 - 11/29(월) (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_222/wNjBR_1635931699137kCrx7_JPEG/1635931699124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - Norwegian Night (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(월) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_44/16376767814550eDOr_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 [인계점] 삶과 죽음이 결정되는 경계 (네이버 공연 live beta)]]></title>
@@ -95,6 +68,31 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_257/Zflzm_1637861239187MHz39_PNG/1637861239176.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[2021-22 뮤지컬 팬레터 시츠프로브 중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/livecorp12/222578552827</link>
+            <guid>https://blog.naver.com/livecorp12/222578552827</guid>
+            <pubDate>Mon, 29 Nov 2021 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 01일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_257/Zflzm_1637861239187MHz39_PNG/1637861239176.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - Dutch Night (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[12월 01일(수) 21:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_166/1637677001379IMjhg_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[종로고음악제 2021 DAY1. <클라라의 사랑과 생애> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/92794</link>
+            <guid>https://tv.naver.com/l/92794</guid>
+            <pubDate>Mon, 29 Nov 2021 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 02일(목) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_201/bMAlu_16378054091501f3Th_JPEG/1637805409113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
@@ -119,28 +117,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211115_206/16369625168915lusG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[촌철살인의 업그레이드된 웃음뮤지컬<홀연했던 사나이> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211105_50/1636094685460czmrX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[막주금 라이브 Festa ( FNL / SNL ) (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
             <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
             <pubDate>Tue, 16 Nov 2021 14:14:10 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211116_30/1637069303460RzQX7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> Live 관객과 평단 모두가 선택한 웰메이드 창작 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <명동로망스> 녹화중계 1956년 명동의 로암스 다방, 그 곳의 예술가 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -175,28 +157,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211115_206/16369625168915lusG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[촌철살인의 업그레이드된 웃음뮤지컬<홀연했던 사나이> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Sat, 13 Nov 2021 18:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211105_50/1636094685460czmrX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[막주금 라이브 Festa ( FNL / SNL ) (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
             <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
             <pubDate>Tue, 16 Nov 2021 14:14:10 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211116_30/1637069303460RzQX7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <어쩌면 해피엔딩> Live 관객과 평단 모두가 선택한 웰메이드 창작 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211025_117/16351492950491EDTb_JPEG/750X420_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <명동로망스> 녹화중계 1956년 명동의 로암스 다방, 그 곳의 예술가 (네이버 공연 live beta ─ 하이라이트)]]></title>
