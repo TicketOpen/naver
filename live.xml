@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 16:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 17:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스> 11월 30일(화) 20시 온라인 상영회]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_46/iiNEl_1634288289761cV8ul_PNG/1634288289664.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[무령왕릉 발굴 50주년 기념 특별전 소개]]></title>
             <link>https://blog.naver.com/gmuseum/222577172481</link>
@@ -91,6 +82,15 @@
             <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_136/1637677192945B2SLt_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[막주금라이브Festa : FNL] Junguk(정욱) / 이혜민]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
+            <pubDate>Tue, 30 Nov 2021 17:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_288/9M88k_1636007082948AC9TE_PNG/1636007082921.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
