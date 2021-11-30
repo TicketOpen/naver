@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 14:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 15:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											연극 [인계점] 삶과 죽음이 결정되는 경계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/cont2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/cont2021</guid>
-            <pubDate>Sat, 27 Nov 2021 11:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[11월 30일(화) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_23/xMcYL_1636344641391n2ac0_JPEG/1636344641377.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <명동로망스> 11월 30일(화) 20시 온라인 상영회]]></title>
@@ -24,15 +15,6 @@
             <pubDate>Sat, 13 Nov 2021 17:56:41 GMT</pubDate>
             <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_46/iiNEl_1634288289761cV8ul_PNG/1634288289664.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - Swiss Night]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 30일(화) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_267/1637676942578cf1s8_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무령왕릉 발굴 50주년 기념 특별전 소개]]></title>
@@ -92,6 +74,23 @@
             <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[12월 02일(목) 21:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_278/1637677134892vOPms_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[종로고음악제 2021 DAY 2. <이브의 눈물>]]></title>
+            <link>https://tv.naver.com/l/92805</link>
+            <guid>https://tv.naver.com/l/92805</guid>
+            <pubDate>Tue, 30 Nov 2021 15:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[12월 03일(금) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_173/mtm1N_16378182685216ISPq_JPEG/1637818268492.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 201 - 박진영 트리오]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_136/1637677192945B2SLt_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
