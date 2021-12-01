@@ -4,26 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 12:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 13:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											뮤지컬 팬레터 시츠프로브 쇼핑라이브]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/329348</link>
-            <guid>https://shoppinglive.naver.com/livebridge/329348</guid>
-            <pubDate>Mon, 29 Nov 2021 13:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[12월 01일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_257/Zflzm_1637861239187MHz39_PNG/1637861239176.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 뮤지컬 팬레터 시츠프로브 중계]]></title>
-            <link>https://blog.naver.com/livecorp12/222578552827</link>
-            <guid>https://blog.naver.com/livecorp12/222578552827</guid>
-            <pubDate>Mon, 29 Nov 2021 15:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 01일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_257/Zflzm_1637861239187MHz39_PNG/1637861239176.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - Dutch Night]]></title>
@@ -92,6 +75,24 @@
             <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_31/1637677318180niOYW_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <라 트라비아타>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 01 Dec 2021 13:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_244/y9SM0_16366162936567b8wD_JPEG/1636616293637.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - Tribute to ECM Pt,2]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_145/1637677401076WXMl1_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
