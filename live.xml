@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[무령왕릉 발굴 50주년 기념 특별전 소개]]></title>
-            <link>https://blog.naver.com/gmuseum/222577172481</link>
-            <guid>https://blog.naver.com/gmuseum/222577172481</guid>
-            <pubDate>Sun, 28 Nov 2021 15:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[12월 01일(수) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_297/HcaTh_1637652722348jLC8Q_JPEG/1637652722334.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[쇼핑
 											뮤지컬 팬레터 시츠프로브 쇼핑라이브]]></title>
@@ -91,6 +83,15 @@
             <pubDate>Tue, 30 Nov 2021 17:21:11 GMT</pubDate>
             <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_288/9M88k_1636007082948AC9TE_PNG/1636007082921.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_31/1637677318180niOYW_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
