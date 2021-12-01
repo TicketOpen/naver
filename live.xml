@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 14:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 15:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - Dutch Night]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[12월 01일(수) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_166/1637677001379IMjhg_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[종로고음악제 2021 DAY1. <클라라의 사랑과 생애>]]></title>
             <link>https://tv.naver.com/l/92794</link>
@@ -93,6 +84,14 @@
             <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_145/1637677401076WXMl1_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앰비규어스댄스컴퍼니 ‘얼이섞다’]]></title>
+            <link>https://blog.naver.com/caactalk/222563226087</link>
+            <guid>https://blog.naver.com/caactalk/222563226087</guid>
+            <pubDate>Wed, 01 Dec 2021 15:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_69/ihU2G_16376503491664pWyt_JPEG/1637650349148.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
