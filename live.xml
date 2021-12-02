@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 12:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 13:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 SPAF <오버더떼창 : 문전본풀이> 녹화중계]]></title>
-            <link>https://tv.naver.com/l/89820</link>
-            <guid>https://tv.naver.com/l/89820</guid>
-            <pubDate>Tue, 30 Nov 2021 12:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[12월 02일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_159/LRSHs_1634793891707cFEgR_PNG/1634793891686.PNG" length="0" type="image/PNG"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 - French Night]]></title>
@@ -92,6 +84,15 @@
             <pubDate>Thu, 02 Dec 2021 12:23:49 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_224/9K8xO_1637818795097Xf7KP_JPEG/1637818795044.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
