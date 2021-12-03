@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/l/92805</link>
             <guid>https://tv.naver.com/l/92805</guid>
             <pubDate>Tue, 30 Nov 2021 15:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[12월 03일(금) 19:00]]></content:encoded>
+            <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_173/mtm1N_16378182685216ISPq_JPEG/1637818268492.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
