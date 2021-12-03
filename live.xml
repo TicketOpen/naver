@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 10:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 11:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,15 +23,6 @@
             <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_136/1637677192945B2SLt_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											[막주금라이브Festa : FNL] Junguk(정욱) / 이혜민]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
-            <pubDate>Tue, 30 Nov 2021 17:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_288/9M88k_1636007082948AC9TE_PNG/1636007082921.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -92,6 +83,15 @@
             <pubDate>Thu, 02 Dec 2021 12:23:49 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_224/9K8xO_1637818795097Xf7KP_JPEG/1637818795044.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
