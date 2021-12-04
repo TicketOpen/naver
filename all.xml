@@ -4,26 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 10:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 11:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제주국제관악제(겨울시즌) 박물관 관악제 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93526</link>
-            <guid>https://tv.naver.com/l/93526</guid>
-            <pubDate>Fri, 03 Dec 2021 10:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_195/iMGS1_1638516085371Jh9Wg_PNG/1638516085327.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											[막주금라이브Festa : SNL] YEYEBEEN / Starry Nightt Music (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
-            <pubDate>Tue, 16 Nov 2021 14:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_269/82Fea_1636007630352eJaA9_PNG/1636007630328.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[종로고음악제 2021 DAY 3. <세 여인의 운명> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/92806</link>
@@ -91,6 +74,22 @@
             <pubDate>Sat, 04 Dec 2021 10:16:03 GMT</pubDate>
             <content:encoded><![CDATA[12월 07일(화) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_41/G4Dmn_16385181980216pUcn_PNG/1638518198001.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/hanwhadays/222578435885</link>
+            <guid>https://blog.naver.com/hanwhadays/222578435885</guid>
+            <pubDate>Sat, 04 Dec 2021 11:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[12월 07일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_132/vYg4O_16378292555038dNyC_JPEG/1637829255467.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울국제공연예술제 <놀이터> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222551384987</link>
+            <guid>https://blog.naver.com/jump_arko/222551384987</guid>
+            <pubDate>Sat, 04 Dec 2021 11:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[12월 07일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_99/zOhyb_1636087281889fwHy1_PNG/1636087281829.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
