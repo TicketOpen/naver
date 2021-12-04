@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 13:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 14:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - 마틴 야콥센 쿼텟]]></title>
@@ -90,6 +81,15 @@
             <pubDate>Sat, 04 Dec 2021 11:12:34 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_132/vYg4O_16378292555038dNyC_JPEG/1637829255467.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											김장훈의 Christmas Concert 부스터샷]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/339476</link>
+            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
+            <pubDate>Sat, 04 Dec 2021 14:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
