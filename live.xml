@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 07:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 08:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 마틴 야콥센 쿼텟]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Sat, 27 Nov 2021 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(일) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_267/1637677512367CUr7B_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[제주국제관악제(겨울시즌)]]></title>
             <link>https://tv.naver.com/l/93528</link>
@@ -90,6 +81,15 @@
             <pubDate>Sat, 04 Dec 2021 14:13:50 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											프랑스 국립자연사박물관 특별전]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/337128</link>
+            <guid>https://shoppinglive.naver.com/livebridge/337128</guid>
+            <pubDate>Sun, 05 Dec 2021 08:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[12월 09일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211201_151/1638342034129JC2dJ_PNG/246x138.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
