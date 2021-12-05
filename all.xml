@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 11:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 12:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제주국제관악제(겨울시즌) (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93528</link>
-            <guid>https://tv.naver.com/l/93528</guid>
-            <pubDate>Fri, 03 Dec 2021 15:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(일) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_36/B1s3E_1638517190109UjYcK_PNG/1638517190075.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - 원격 솔로 피아노 (네이버 공연 live beta)]]></title>
@@ -90,6 +82,14 @@
             <pubDate>Sun, 05 Dec 2021 08:17:11 GMT</pubDate>
             <content:encoded><![CDATA[12월 09일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211201_151/1638342034129JC2dJ_PNG/246x138.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울국제공연예술제(SPAF) <디스토피아> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222559489102</link>
+            <guid>https://blog.naver.com/jump_arko/222559489102</guid>
+            <pubDate>Sun, 05 Dec 2021 12:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 09일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_148/tr9C9_1636006012581nDxgz_PNG/1636006012560.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[베토벤 탄생일 기념 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta ─ 하이라이트)]]></title>
