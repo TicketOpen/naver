@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 11:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 12:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제주국제관악제(겨울시즌) 제주관악작곡콩쿠르 결선 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93530</link>
-            <guid>https://tv.naver.com/l/93530</guid>
-            <pubDate>Sat, 04 Dec 2021 09:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[12월 06일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_218/t1okd_1638517785298BUzNl_PNG/1638517785234.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
@@ -89,6 +81,14 @@
             <pubDate>Sun, 05 Dec 2021 13:19:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_149/AEBIA_1638425684236qdxvW_JPEG/1638425684214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<동행, 다시 함께> DIMF The Concert (딤프 더 콘서트) (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/93333</link>
+            <guid>https://tv.naver.com/l/93333</guid>
+            <pubDate>Mon, 06 Dec 2021 12:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_65/Lfajy_16383514557467hkGl_JPEG/1638351455715.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
