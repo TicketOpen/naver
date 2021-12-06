@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 14:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 15:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Tue, 23 Nov 2021 14:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[12월 06일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_187/rnBHb_1637310644103zOCN8_JPEG/1637310644046.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[제주국제관악제(겨울시즌) - 시상식 입상자 음악회 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/93532</link>
@@ -89,6 +80,15 @@
             <pubDate>Mon, 06 Dec 2021 12:23:54 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_65/Lfajy_16383514557467hkGl_JPEG/1638351455715.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Sun, 05 Dec 2021 05:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_177/0mZ1Z_1638173044005y3PN7_JPEG/1638173043948.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
