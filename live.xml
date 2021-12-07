@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 12:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 13:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트]]></title>
-            <link>https://blog.naver.com/hanwhadays/222578435885</link>
-            <guid>https://blog.naver.com/hanwhadays/222578435885</guid>
-            <pubDate>Sat, 04 Dec 2021 11:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 07일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_132/vYg4O_16378292555038dNyC_JPEG/1637829255467.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트]]></title>
             <link>https://blog.naver.com/hanwhadays/222578435885</link>
@@ -89,6 +81,14 @@
             <pubDate>Tue, 07 Dec 2021 12:25:32 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부>]]></title>
+            <link>https://blog.naver.com/art_cbs/222589172507</link>
+            <guid>https://blog.naver.com/art_cbs/222589172507</guid>
+            <pubDate>Tue, 07 Dec 2021 13:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
