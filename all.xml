@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 11:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 12:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,9 +18,9 @@
         <item>
             <title><![CDATA[쇼핑
 											김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Wed, 08 Dec 2021 06:18:40 GMT</pubDate>
+            <link>https://shoppinglive.naver.com/lives/339476</link>
+            <guid>https://shoppinglive.naver.com/lives/339476</guid>
+            <pubDate>Wed, 08 Dec 2021 12:24:27 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
