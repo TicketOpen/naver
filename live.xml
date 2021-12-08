@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 13:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 14:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											김장훈의 Christmas Concert 부스터샷]]></title>
-            <link>https://shoppinglive.naver.com/lives/339476</link>
-            <guid>https://shoppinglive.naver.com/lives/339476</guid>
-            <pubDate>Wed, 08 Dec 2021 12:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[쇼핑
 											프랑스 국립자연사박물관 특별전]]></title>
@@ -65,6 +56,15 @@
             <pubDate>Tue, 07 Dec 2021 12:25:32 GMT</pubDate>
             <content:encoded><![CDATA[12월 14일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_194/wso8G_1635836067709VKaqO_PNG/1635836067658.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											국내 최초 대규모 <살바도르 달리전> 타임한정 50%]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/339938</link>
+            <guid>https://shoppinglive.naver.com/livebridge/339938</guid>
+            <pubDate>Wed, 08 Dec 2021 14:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[12월 14일(화) 20:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211208_190/163897181206473JDz_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Live] 박종훈의 Romantic Seasons 4. 차이콥스키의 겨울]]></title>
