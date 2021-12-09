@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 10:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 11:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,12 +25,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_148/tr9C9_1636006012581nDxgz_PNG/1636006012560.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/338023</link>
+            <guid>https://shoppinglive.naver.com/livebridge/338023</guid>
+            <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211209_64/1639046211191lGGel_JPEG/364x180.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트]]></title>
-            <link>https://tv.naver.com/l/94011</link>
-            <guid>https://tv.naver.com/l/94011</guid>
-            <pubDate>Thu, 09 Dec 2021 10:16:51 GMT</pubDate>
+            <link>https://blog.naver.com/dimfmusical/222585812044</link>
+            <guid>https://blog.naver.com/dimfmusical/222585812044</guid>
+            <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_36/xb7fq_1639038396592LjKtc_JPEG/1639038396574.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											<동행, 다시 함께> DIMF The Concert]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/338051</link>
+            <guid>https://shoppinglive.naver.com/livebridge/338051</guid>
+            <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211209_48/1639046424654jQjbg_JPEG/246X138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<동행, 다시 함께> DIMF The Concert]]></title>
+            <link>https://blog.naver.com/dimfmusical/222585818125</link>
+            <guid>https://blog.naver.com/dimfmusical/222585818125</guid>
+            <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_103/3l4Yf_163903881893445ohD_JPEG/1639038818891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 서울국제음악제 '연결,만남']]></title>
@@ -39,14 +65,6 @@
             <pubDate>Thu, 09 Dec 2021 02:39:45 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_92/SNXcd_1638927316404uo3Hs_JPEG/1638927316317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<동행, 다시 함께> DIMF The Concert]]></title>
-            <link>https://tv.naver.com/l/94013</link>
-            <guid>https://tv.naver.com/l/94013</guid>
-            <pubDate>Thu, 09 Dec 2021 10:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_103/3l4Yf_163903881893445ohD_JPEG/1639038818891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -72,23 +90,6 @@
             <pubDate>Tue, 07 Dec 2021 12:25:32 GMT</pubDate>
             <content:encoded><![CDATA[12월 14일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_194/wso8G_1635836067709VKaqO_PNG/1635836067658.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											국내 최초 대규모 <살바도르 달리전> 타임한정 50%]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339938</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339938</guid>
-            <pubDate>Wed, 08 Dec 2021 14:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[12월 14일(화) 20:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211208_190/163897181206473JDz_JPEG/246X138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Live] 박종훈의 Romantic Seasons 4. 차이콥스키의 겨울]]></title>
-            <link>https://tv.naver.com/l/93155</link>
-            <guid>https://tv.naver.com/l/93155</guid>
-            <pubDate>Tue, 07 Dec 2021 12:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
