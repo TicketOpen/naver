@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 12:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 13:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											프랑스 국립자연사박물관 특별전]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/337128</link>
-            <guid>https://shoppinglive.naver.com/livebridge/337128</guid>
-            <pubDate>Sun, 05 Dec 2021 08:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[12월 09일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211201_151/1638342034129JC2dJ_PNG/246x138.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[쇼핑
 											<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트]]></title>
@@ -91,6 +82,14 @@
             <pubDate>Thu, 09 Dec 2021 12:24:15 GMT</pubDate>
             <content:encoded><![CDATA[12월 14일(화) 20:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211208_190/163897181206473JDz_JPEG/246X138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Live] 박종훈의 Romantic Seasons 4. 차이콥스키의 겨울]]></title>
+            <link>https://tv.naver.com/l/93155</link>
+            <guid>https://tv.naver.com/l/93155</guid>
+            <pubDate>Thu, 09 Dec 2021 13:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
