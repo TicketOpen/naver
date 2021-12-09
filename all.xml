@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 02:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_149/AEBIA_1638425684236qdxvW_JPEG/1638425684214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/93868</link>
+            <guid>https://tv.naver.com/l/93868</guid>
+            <pubDate>Thu, 09 Dec 2021 02:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_92/SNXcd_1638927316404uo3Hs_JPEG/1638927316317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<동행, 다시 함께> DIMF The Concert (딤프 더 콘서트) (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/93333</link>
             <guid>https://tv.naver.com/l/93333</guid>
@@ -48,6 +56,14 @@
             <pubDate>Sun, 05 Dec 2021 05:14:14 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_177/0mZ1Z_1638173044005y3PN7_JPEG/1638173043948.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울국제음악제 실내악 시리즈 2 '시냇물' (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/93870</link>
+            <guid>https://tv.naver.com/l/93870</guid>
+            <pubDate>Thu, 09 Dec 2021 02:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[12월 14일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_111/dZlFb_16389295597547hPJB_JPEG/1638929559678.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계 (네이버 공연 live beta)]]></title>
@@ -73,22 +89,6 @@
             <pubDate>Tue, 07 Dec 2021 12:25:32 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베토벤의 시간 - 김다솔 Piano (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93436</link>
-            <guid>https://tv.naver.com/l/93436</guid>
-            <pubDate>Wed, 08 Dec 2021 06:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211208_60/1638940952147h3pSI_JPEG/142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부> (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/art_cbs/222589172507</link>
-            <guid>https://blog.naver.com/art_cbs/222589172507</guid>
-            <pubDate>Wed, 08 Dec 2021 13:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국내 최초 대규모 <살바도르 달리전>타임한정 50% (네이버 공연 live beta ─ 하이라이트)]]></title>
