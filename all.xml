@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 09:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 10:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,11 +26,11 @@
         </item>
         <item>
             <title><![CDATA[<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93332</link>
-            <guid>https://tv.naver.com/l/93332</guid>
-            <pubDate>Thu, 09 Dec 2021 09:15:40 GMT</pubDate>
+            <link>https://tv.naver.com/l/94011</link>
+            <guid>https://tv.naver.com/l/94011</guid>
+            <pubDate>Thu, 09 Dec 2021 10:16:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_149/AEBIA_1638425684236qdxvW_JPEG/1638425684214.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_36/xb7fq_1639038396592LjKtc_JPEG/1639038396574.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta)]]></title>
@@ -41,12 +41,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_92/SNXcd_1638927316404uo3Hs_JPEG/1638927316317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<동행, 다시 함께> DIMF The Concert (딤프 더 콘서트) (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93333</link>
-            <guid>https://tv.naver.com/l/93333</guid>
-            <pubDate>Thu, 09 Dec 2021 09:15:40 GMT</pubDate>
+            <title><![CDATA[<동행, 다시 함께> DIMF The Concert (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/94013</link>
+            <guid>https://tv.naver.com/l/94013</guid>
+            <pubDate>Thu, 09 Dec 2021 10:16:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_65/Lfajy_16383514557467hkGl_JPEG/1638351455715.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_103/3l4Yf_163903881893445ohD_JPEG/1639038818891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
