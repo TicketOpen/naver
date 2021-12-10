@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211208_81/1638971992029uc31E_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을!]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 30 Nov 2021 08:15:28 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 29 Nov 2021 06:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 최초 대규모 <살바도르 달리전>타임한정 50%]]></title>
@@ -104,6 +104,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211208_81/1638971992029uc31E_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을!]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 30 Nov 2021 08:15:28 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 29 Nov 2021 06:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
