@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 07:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 08:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,14 +15,6 @@
             <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211209_64/1639046211191lGGel_JPEG/364x180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트]]></title>
-            <link>https://blog.naver.com/dimfmusical/222585812044</link>
-            <guid>https://blog.naver.com/dimfmusical/222585812044</guid>
-            <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_36/xb7fq_1639038396592LjKtc_JPEG/1639038396574.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
@@ -90,6 +82,14 @@
             <pubDate>Thu, 09 Dec 2021 13:22:40 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[베토벤의 시간 - 김다솔 Piano]]></title>
+            <link>https://tv.naver.com/l/93436</link>
+            <guid>https://tv.naver.com/l/93436</guid>
+            <pubDate>Sun, 12 Dec 2021 08:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211208_60/1638940952147h3pSI_JPEG/142.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
