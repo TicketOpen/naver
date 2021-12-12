@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 09:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트 (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/338023</link>
-            <guid>https://shoppinglive.naver.com/livebridge/338023</guid>
-            <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211209_64/1639046211191lGGel_JPEG/364x180.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[쇼핑
 											<동행, 다시 함께> DIMF The Concert (네이버 공연 live beta)]]></title>
@@ -90,6 +81,14 @@
             <pubDate>Sun, 12 Dec 2021 08:17:13 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211208_60/1638940952147h3pSI_JPEG/142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부> (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/art_cbs/222589172507</link>
+            <guid>https://blog.naver.com/art_cbs/222589172507</guid>
+            <pubDate>Sun, 12 Dec 2021 10:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국내 최초 대규모 <살바도르 달리전>타임한정 50% (네이버 공연 live beta ─ 하이라이트)]]></title>
