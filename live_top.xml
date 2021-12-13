@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 12:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 13:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베토벤 탄생일 기념 뮤지컬 <루드윅:베토벤 더 피아노>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Sun, 05 Dec 2021 05:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211205_272/1638679632841KqBNC_JPEG/364X180_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ART-9세종 뮤지컬<조선삼총사>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
             <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
@@ -78,6 +70,14 @@
             <pubDate>Tue, 30 Nov 2021 08:15:28 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 13 Dec 2021 13:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 최초 대규모 <살바도르 달리전>타임한정 50%]]></title>
@@ -128,14 +128,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베토벤 탄생일 기념 뮤지컬 <루드윅:베토벤 더 피아노>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Sun, 05 Dec 2021 05:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211205_272/1638679632841KqBNC_JPEG/364X180_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ART-9세종 뮤지컬<조선삼총사>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
             <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
@@ -150,6 +142,14 @@
             <pubDate>Tue, 30 Nov 2021 08:15:28 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 13 Dec 2021 13:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
