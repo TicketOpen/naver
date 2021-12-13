@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 10:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 11:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,14 +15,6 @@
             <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211209_48/1639046424654jQjbg_JPEG/246X138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<동행, 다시 함께> DIMF The Concert (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/dimfmusical/222585818125</link>
-            <guid>https://blog.naver.com/dimfmusical/222585818125</guid>
-            <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_103/3l4Yf_163903881893445ohD_JPEG/1639038818891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta)]]></title>
@@ -89,6 +81,14 @@
             <pubDate>Sun, 12 Dec 2021 10:15:52 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <안간힘> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222542714494</link>
+            <guid>https://blog.naver.com/jump_arko/222542714494</guid>
+            <pubDate>Mon, 13 Dec 2021 11:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국내 최초 대규모 <살바도르 달리전>타임한정 50% (네이버 공연 live beta ─ 하이라이트)]]></title>
