@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 14:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 15:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <루드윅:베토벤 더 피아노>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Mon, 06 Dec 2021 15:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_177/0mZ1Z_1638173044005y3PN7_JPEG/1638173043948.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021 서울국제음악제 실내악 시리즈 2 '시냇물']]></title>
             <link>https://tv.naver.com/l/93870</link>
@@ -89,6 +80,15 @@
             <pubDate>Mon, 13 Dec 2021 12:23:56 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_273/1wEdR_1638161301439Y6qjR_JPEG/1638161301345.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 13 Dec 2021 15:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
