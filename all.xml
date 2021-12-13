@@ -4,26 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 11:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 12:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											<동행, 다시 함께> DIMF The Concert (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/338051</link>
-            <guid>https://shoppinglive.naver.com/livebridge/338051</guid>
-            <pubDate>Thu, 09 Dec 2021 11:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211209_48/1639046424654jQjbg_JPEG/246X138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93868</link>
-            <guid>https://tv.naver.com/l/93868</guid>
-            <pubDate>Thu, 09 Dec 2021 02:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_92/SNXcd_1638927316404uo3Hs_JPEG/1638927316317.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta)]]></title>
@@ -89,6 +72,23 @@
             <pubDate>Mon, 13 Dec 2021 11:12:49 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 세종꿈나무오케스트라 정기연주회 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/92845</link>
+            <guid>https://tv.naver.com/l/92845</guid>
+            <pubDate>Mon, 13 Dec 2021 12:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[12월 17일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_187/61umc_16387761900901pXre_JPEG/1638776190062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											12/19 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 1회차 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 13 Dec 2021 12:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_273/1wEdR_1638161301439Y6qjR_JPEG/1638161301345.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 최초 대규모 <살바도르 달리전>타임한정 50% (네이버 공연 live beta ─ 하이라이트)]]></title>
