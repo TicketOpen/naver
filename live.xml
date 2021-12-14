@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 11:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 12:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 서울국제음악제 실내악 시리즈 2 '시냇물']]></title>
-            <link>https://tv.naver.com/l/93870</link>
-            <guid>https://tv.naver.com/l/93870</guid>
-            <pubDate>Thu, 09 Dec 2021 02:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[12월 14일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_111/dZlFb_16389295597547hPJB_JPEG/1638929559678.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222529432243</link>
@@ -89,6 +81,14 @@
             <pubDate>Mon, 13 Dec 2021 15:16:13 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <슈미> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222550118322</link>
+            <guid>https://blog.naver.com/jump_arko/222550118322</guid>
+            <pubDate>Tue, 14 Dec 2021 12:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_19/UNY0n_1635843645346bBFyg_PNG/1635843645298.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
