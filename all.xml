@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 16:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,7 +63,7 @@
             <guid>https://shoppinglive.naver.com/livebridge/345022</guid>
             <pubDate>Tue, 14 Dec 2021 16:23:14 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 18:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211215_72/1639498837814iNsd1_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_219/1639500091786MhNWH_JPEG/1639110854062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <썸씽로튼> 시츠프로브 녹화중계 (네이버 공연 live beta)]]></title>
@@ -74,77 +74,63 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_292/Eu206_1639110854095IemLI_JPEG/1639110854062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 13 Dec 2021 15:16:13 GMT</pubDate>
+            <title><![CDATA[쇼핑
+											리움미술관 산책(현대미술) with 조수빈 아나운서 (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/349915</link>
+            <guid>https://shoppinglive.naver.com/livebridge/349915</guid>
+            <pubDate>Tue, 14 Dec 2021 17:20:36 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_270/16395000257684CSkq_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222550118322</link>
-            <guid>https://blog.naver.com/jump_arko/222550118322</guid>
-            <pubDate>Tue, 14 Dec 2021 12:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_19/UNY0n_1635843645346bBFyg_PNG/1635843645298.png" length="0" type="image/png"/>
+            <title><![CDATA[리움미술관 산책(현대미술) with 조수빈 아나운서 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/93909</link>
+            <guid>https://tv.naver.com/l/93909</guid>
+            <pubDate>Tue, 14 Dec 2021 17:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_55/3G9Mc_16389532962126oNmn_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
-            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
-            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[리움미술관 재개관 기념-현대미술 상설전무료 초대 이벤트 진행 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/349915</link>
+            <guid>https://shoppinglive.naver.com/livebridge/349915</guid>
+            <pubDate>Tue, 14 Dec 2021 17:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/349915" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20211215_186/1639499404845eGsaL_JPEG/688X386_.jpg" alt="리움미술관 재개관 기념-현대미술 상설전<br>무료 초대 이벤트 진행 이미지">
+										<div class="text-info-box" style="opacity: 1;">
+											<p class="date ellipsis">12/20(월) 오후 8시</p>
+											<div class="text-info">
+												
+												
+												<p class="sub-title ellipsis2">리움미술관 재개관 기념-현대미술 상설전<br>무료 초대 이벤트 진행</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_186/1639499404845eGsaL_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 03 Dec 2021 05:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 30 Nov 2021 08:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 13 Dec 2021 12:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 13 Dec 2021 15:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 썸씽로튼 연말 시즌 티켓 할인X 첫 시츠프로브 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/345022</link>
+            <guid>https://shoppinglive.naver.com/livebridge/345022</guid>
+            <pubDate>Tue, 14 Dec 2021 16:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/345022" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20211215_83/16394989986389hoql_JPEG/688X386_.jpg" alt="뮤지컬 썸씽로튼 연말 시즌 티켓 할인<br>X 첫 시츠프로브 중계 이미지">
+										<div class="text-info-box" style="opacity: 1;">
+											<p class="date ellipsis">12/20(월) 오후 6시</p>
+											<div class="text-info">
+												
+													
+													
+													
+														<span class="badge_middle badge_bg--f43319">쇼핑</span>
+													
+												
+												
+												<p class="sub-title ellipsis2">뮤지컬 썸씽로튼 연말 시즌 티켓 할인<br>X 첫 시츠프로브 중계</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_83/16394989986389hoql_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -187,20 +173,86 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 13 Dec 2021 12:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[리움미술관 재개관 기념-현대미술 상설전무료 초대 이벤트 진행 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/349915</link>
+            <guid>https://shoppinglive.naver.com/livebridge/349915</guid>
+            <pubDate>Tue, 14 Dec 2021 17:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/349915" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20211215_186/1639499404845eGsaL_JPEG/688X386_.jpg" alt="리움미술관 재개관 기념-현대미술 상설전<br>무료 초대 이벤트 진행 이미지">
+										<div class="text-info-box" style="opacity:0;">
+											<p class="date ellipsis">12/20(월) 오후 8시</p>
+											<div class="text-info">
+												
+												
+												<p class="sub-title ellipsis2">리움미술관 재개관 기념-현대미술 상설전<br>무료 초대 이벤트 진행</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_186/1639499404845eGsaL_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 13 Dec 2021 15:16:13 GMT</pubDate>
+            <title><![CDATA[뮤지컬 썸씽로튼 연말 시즌 티켓 할인X 첫 시츠프로브 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/345022</link>
+            <guid>https://shoppinglive.naver.com/livebridge/345022</guid>
+            <pubDate>Tue, 14 Dec 2021 16:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/345022" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20211215_83/16394989986389hoql_JPEG/688X386_.jpg" alt="뮤지컬 썸씽로튼 연말 시즌 티켓 할인<br>X 첫 시츠프로브 중계 이미지">
+										<div class="text-info-box" style="opacity:0;">
+											<p class="date ellipsis">12/20(월) 오후 6시</p>
+											<div class="text-info">
+												
+													
+													
+													
+														<span class="badge_middle badge_bg--f43319">쇼핑</span>
+													
+												
+												
+												<p class="sub-title ellipsis2">뮤지컬 썸씽로튼 연말 시즌 티켓 할인<br>X 첫 시츠프로브 중계</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_83/16394989986389hoql_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
+            <pubDate>Fri, 03 Dec 2021 05:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Tue, 30 Nov 2021 08:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

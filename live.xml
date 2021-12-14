@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 16:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,7 +63,7 @@
             <guid>https://shoppinglive.naver.com/livebridge/345022</guid>
             <pubDate>Tue, 14 Dec 2021 16:23:14 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 18:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211215_72/1639498837814iNsd1_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_219/1639500091786MhNWH_JPEG/1639110854062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <썸씽로튼> 시츠프로브 녹화중계]]></title>
@@ -74,21 +74,21 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_292/Eu206_1639110854095IemLI_JPEG/1639110854062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <브라더스 까라마조프>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 13 Dec 2021 15:16:13 GMT</pubDate>
+            <title><![CDATA[쇼핑
+											리움미술관 산책(현대미술) with 조수빈 아나운서]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/349915</link>
+            <guid>https://shoppinglive.naver.com/livebridge/349915</guid>
+            <pubDate>Tue, 14 Dec 2021 17:20:36 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_270/16395000257684CSkq_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <슈미> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222550118322</link>
-            <guid>https://blog.naver.com/jump_arko/222550118322</guid>
-            <pubDate>Tue, 14 Dec 2021 12:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_19/UNY0n_1635843645346bBFyg_PNG/1635843645298.png" length="0" type="image/png"/>
+            <title><![CDATA[리움미술관 산책(현대미술) with 조수빈 아나운서]]></title>
+            <link>https://tv.naver.com/l/93909</link>
+            <guid>https://tv.naver.com/l/93909</guid>
+            <pubDate>Tue, 14 Dec 2021 17:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_55/3G9Mc_16389532962126oNmn_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
