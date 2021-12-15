@@ -4,10 +4,34 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 02:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 03:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/352471</link>
+            <guid>https://shoppinglive.naver.com/livebridge/352471</guid>
+            <pubDate>Wed, 15 Dec 2021 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/352471" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20211215_94/1639537008408Br1ID_JPEG/688X386.jpg" alt="초보 콜렉터를 위한 오정연의 아트 라이브<br>(G-아트페어) 이미지">
+										<div class="text-info-box" style="opacity: 1;">
+											<p class="date ellipsis">12/22(수) 오후 7시</p>
+											<div class="text-info">
+												
+													
+													
+													
+														<span class="badge_middle badge_bg--f43319">쇼핑</span>
+													
+												
+												
+												<p class="sub-title ellipsis2">초보 콜렉터를 위한 오정연의 아트 라이브<br>(G-아트페어)</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_94/1639537008408Br1ID_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[리움미술관 재개관 기념-현대미술 상설전무료 초대 이벤트 진행]]></title>
             <link>https://shoppinglive.naver.com/livebridge/349915</link>
             <guid>https://shoppinglive.naver.com/livebridge/349915</guid>
@@ -82,12 +106,28 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 30 Nov 2021 08:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+            <title><![CDATA[초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/352471</link>
+            <guid>https://shoppinglive.naver.com/livebridge/352471</guid>
+            <pubDate>Wed, 15 Dec 2021 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/352471" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20211215_94/1639537008408Br1ID_JPEG/688X386.jpg" alt="초보 콜렉터를 위한 오정연의 아트 라이브<br>(G-아트페어) 이미지">
+										<div class="text-info-box" style="opacity:0;">
+											<p class="date ellipsis">12/22(수) 오후 7시</p>
+											<div class="text-info">
+												
+													
+													
+													
+														<span class="badge_middle badge_bg--f43319">쇼핑</span>
+													
+												
+												
+												<p class="sub-title ellipsis2">초보 콜렉터를 위한 오정연의 아트 라이브<br>(G-아트페어)</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_94/1639537008408Br1ID_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리움미술관 재개관 기념-현대미술 상설전무료 초대 이벤트 진행]]></title>
@@ -162,14 +202,6 @@
             <pubDate>Fri, 03 Dec 2021 05:14:15 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 30 Nov 2021 08:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
