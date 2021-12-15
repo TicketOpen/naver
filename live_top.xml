@@ -4,10 +4,18 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 04:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[X-mas at HOME조수미 & 이 무지치]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
+            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
+            <pubDate>Wed, 15 Dec 2021 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_257/1639544743668tyurX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/352471</link>
             <guid>https://shoppinglive.naver.com/livebridge/352471</guid>
@@ -98,12 +106,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 03 Dec 2021 05:14:15 GMT</pubDate>
+            <title><![CDATA[X-mas at HOME조수미 & 이 무지치]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
+            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
+            <pubDate>Wed, 15 Dec 2021 05:14:04 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_257/1639544743668tyurX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어)]]></title>
@@ -194,14 +202,6 @@
             <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 03 Dec 2021 05:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
