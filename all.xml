@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 11:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 12:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Live] 박종훈의 Romantic Seasons 4. 차이콥스키의 겨울 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93155</link>
-            <guid>https://tv.naver.com/l/93155</guid>
-            <pubDate>Thu, 09 Dec 2021 13:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[베토벤의 시간 - 김다솔 Piano (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/93436</link>
@@ -30,14 +22,6 @@
             <pubDate>Sun, 12 Dec 2021 10:15:52 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무용 <안간힘> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222542714494</link>
-            <guid>https://blog.naver.com/jump_arko/222542714494</guid>
-            <pubDate>Mon, 13 Dec 2021 11:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2021 세종꿈나무오케스트라 정기연주회 (네이버 공연 live beta)]]></title>
@@ -89,6 +73,23 @@
             <pubDate>Tue, 14 Dec 2021 17:20:36 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_55/3G9Mc_16389532962126oNmn_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Thu, 16 Dec 2021 12:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222550118322</link>
+            <guid>https://blog.naver.com/jump_arko/222550118322</guid>
+            <pubDate>Thu, 16 Dec 2021 12:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_19/UNY0n_1635843645346bBFyg_PNG/1635843645298.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[X-mas at HOME조수미 & 이 무지치 (네이버 공연 live beta ─ 하이라이트)]]></title>
