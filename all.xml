@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 12:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 13:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[베토벤의 시간 - 김다솔 Piano (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93436</link>
-            <guid>https://tv.naver.com/l/93436</guid>
-            <pubDate>Sun, 12 Dec 2021 08:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211208_60/1638940952147h3pSI_JPEG/142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부> (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/art_cbs/222589172507</link>
-            <guid>https://blog.naver.com/art_cbs/222589172507</guid>
-            <pubDate>Sun, 12 Dec 2021 10:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[2021 세종꿈나무오케스트라 정기연주회 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/92845</link>
@@ -90,6 +74,23 @@
             <pubDate>Thu, 16 Dec 2021 12:24:21 GMT</pubDate>
             <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_19/UNY0n_1635843645346bBFyg_PNG/1635843645298.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[해설이 있는 11시콘서트 - 남성 팝페라그룹 아파쇼나토 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/caactalk/222580170740</link>
+            <guid>https://blog.naver.com/caactalk/222580170740</guid>
+            <pubDate>Thu, 16 Dec 2021 13:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(수) 11:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_272/YYTyR_16393941254218NHI5_JPEG/1639394125381.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어) (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/352471</link>
+            <guid>https://shoppinglive.naver.com/livebridge/352471</guid>
+            <pubDate>Wed, 15 Dec 2021 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[X-mas at HOME조수미 & 이 무지치 (네이버 공연 live beta ─ 하이라이트)]]></title>
