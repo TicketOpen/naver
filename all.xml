@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 10:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 11:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,6 +93,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://tv.naver.com/l/94502</link>
+            <guid>https://tv.naver.com/l/94502</guid>
+            <pubDate>Fri, 17 Dec 2021 11:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211217_262/1639738402947RKDjG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[X-mas at HOME조수미 & 이 무지치 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
             <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
@@ -183,12 +191,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
+            <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://tv.naver.com/l/94502</link>
+            <guid>https://tv.naver.com/l/94502</guid>
+            <pubDate>Fri, 17 Dec 2021 11:11:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211217_262/1639738402947RKDjG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[X-mas at HOME조수미 & 이 무지치 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -279,14 +287,6 @@
             <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
