@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 06:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 07:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,9 +94,9 @@
         </item>
         <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://tv.naver.com/l/94502</link>
-            <guid>https://tv.naver.com/l/94502</guid>
-            <pubDate>Fri, 17 Dec 2021 11:11:19 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
+            <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
+            <pubDate>Mon, 20 Dec 2021 07:15:37 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211217_262/1639738402947RKDjG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
@@ -192,9 +192,9 @@
         </item>
         <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://tv.naver.com/l/94502</link>
-            <guid>https://tv.naver.com/l/94502</guid>
-            <pubDate>Fri, 17 Dec 2021 11:11:19 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
+            <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
+            <pubDate>Mon, 20 Dec 2021 07:15:37 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211217_262/1639738402947RKDjG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
