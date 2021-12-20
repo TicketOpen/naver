@@ -4,26 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 11:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 12:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											리움미술관 산책(현대미술) with 조수빈 아나운서]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/349915</link>
-            <guid>https://shoppinglive.naver.com/livebridge/349915</guid>
-            <pubDate>Tue, 14 Dec 2021 17:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211215_270/16395000257684CSkq_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리움미술관 산책(현대미술) with 조수빈 아나운서]]></title>
-            <link>https://tv.naver.com/l/93909</link>
-            <guid>https://tv.naver.com/l/93909</guid>
-            <pubDate>Tue, 14 Dec 2021 17:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_55/3G9Mc_16389532962126oNmn_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <브라더스 까라마조프>]]></title>
@@ -91,6 +74,24 @@
             <pubDate>Mon, 20 Dec 2021 11:12:44 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 13:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_216/rY4Up_1638507837427JhStV_JPEG/1638507837395.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 <작은 아씨들> 공연 실황]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
+            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
+            <pubDate>Mon, 20 Dec 2021 12:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_199/W1U76_1638332072060hBu8r_JPEG/1638332071851.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											국립오페라단 크리스마스 오페라 <라 트라비아타>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 20 Dec 2021 12:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
