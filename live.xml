@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 13:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 14:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,6 +31,14 @@
             <pubDate>Thu, 16 Dec 2021 13:21:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(수) 11:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_272/YYTyR_16393941254218NHI5_JPEG/1639394125381.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 K-Arts 오디션 전통원 본선]]></title>
+            <link>https://tv.naver.com/l/94908</link>
+            <guid>https://tv.naver.com/l/94908</guid>
+            <pubDate>Mon, 20 Dec 2021 14:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_268/2OrwN_1640008167178y8lAy_JPEG/1640008167164.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
@@ -83,15 +91,6 @@
             <pubDate>Mon, 20 Dec 2021 12:25:13 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_199/W1U76_1638332072060hBu8r_JPEG/1638332071851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											국립오페라단 크리스마스 오페라 <라 트라비아타>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 20 Dec 2021 12:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
