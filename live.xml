@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 10:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 11:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,15 +14,6 @@
             <pubDate>Mon, 20 Dec 2021 14:14:38 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_268/2OrwN_1640008167178y8lAy_JPEG/1640008167164.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/352471</link>
-            <guid>https://shoppinglive.naver.com/livebridge/352471</guid>
-            <pubDate>Thu, 16 Dec 2021 13:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -93,6 +84,15 @@
             <pubDate>Mon, 20 Dec 2021 15:15:50 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211204_144/CXL2d_1638606374262kPM9E_JPEG/1638606374143.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[생중계] X-mas at HOME : 조수미 & 이 무지치]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
+            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
+            <pubDate>Wed, 22 Dec 2021 11:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_216/q0fac_1639375020193N4Su3_JPEG/1639375020163.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
