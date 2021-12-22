@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 02:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 03:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해설이 있는 11시콘서트 - 남성 팝페라그룹 아파쇼나토]]></title>
-            <link>https://blog.naver.com/caactalk/222580170740</link>
-            <guid>https://blog.naver.com/caactalk/222580170740</guid>
-            <pubDate>Thu, 16 Dec 2021 13:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(수) 11:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_272/YYTyR_16393941254218NHI5_JPEG/1639394125381.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021 K-Arts 오디션 전통원 본선]]></title>
             <link>https://tv.naver.com/l/94908</link>
@@ -92,6 +84,15 @@
             <pubDate>Mon, 20 Dec 2021 11:12:44 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(토) 13:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_135/yGFYr_1638508252690RPjOR_JPEG/1638508252668.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											국립오페라단 크리스마스 오페라 <라 보엠>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 20 Dec 2021 15:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_144/CXL2d_1638606374262kPM9E_JPEG/1638606374143.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
