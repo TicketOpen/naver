@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 14:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 15:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Mon, 20 Dec 2021 12:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
             <pubDate>Wed, 22 Dec 2021 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Wed, 22 Dec 2021 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Great Adios 2021with Letteamor]]></title>
@@ -104,20 +104,20 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Mon, 20 Dec 2021 12:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
             <pubDate>Wed, 22 Dec 2021 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Wed, 22 Dec 2021 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

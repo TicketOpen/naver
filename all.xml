@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 14:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 15:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 17 Dec 2021 12:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_196/QCusQ_16379238729887RAXq_JPEG/1637923872977.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[《대지의 시간》 국립현대미술관 큐레이터 전시투어 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/94694</link>
@@ -96,60 +87,13 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
-            <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
-            <pubDate>Mon, 20 Dec 2021 07:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211217_262/1639738402947RKDjG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[X-mas at HOME조수미 & 이 무지치 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
-            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
-            <pubDate>Wed, 15 Dec 2021 05:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211215_257/1639544743668tyurX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
-            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
-            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 17 Dec 2021 12:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <title><![CDATA[후원
+											뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
             <pubDate>Wed, 22 Dec 2021 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_67/jbxWm_1638164239089YVENj_JPEG/1638164239070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -192,12 +136,60 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 17 Dec 2021 12:23:29 GMT</pubDate>
+            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Wed, 22 Dec 2021 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Wed, 22 Dec 2021 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
+            <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
+            <pubDate>Mon, 20 Dec 2021 07:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211217_262/1639738402947RKDjG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[X-mas at HOME조수미 & 이 무지치 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
+            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
+            <pubDate>Wed, 15 Dec 2021 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_257/1639544743668tyurX_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -206,6 +198,14 @@
             <pubDate>Wed, 22 Dec 2021 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Wed, 22 Dec 2021 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
