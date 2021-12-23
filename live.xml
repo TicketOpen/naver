@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 11:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 12:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가족음악극 <나무의 아이> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222557097685</link>
-            <guid>https://blog.naver.com/jump_arko/222557097685</guid>
-            <pubDate>Mon, 20 Dec 2021 09:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[12월 23일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_195/ehJ10_1636006706230TAm9R_PNG/1636006706164.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
@@ -88,13 +80,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_67/jbxWm_1638164239089YVENj_JPEG/1638164239070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											연극 <작은 아씨들> 공연 실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Mon, 20 Dec 2021 12:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 26일(일) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_112/wQ0H7_1638332104340IGX6K_JPEG/1638332104255.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 1부]]></title>
+            <link>https://tv.naver.com/l/95057</link>
+            <guid>https://tv.naver.com/l/95057</guid>
+            <pubDate>Thu, 23 Dec 2021 12:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[12월 26일(일) 12:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_194/dJ8a6_1640159918119Ehp4p_PNG/1640159918085.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 2부]]></title>
+            <link>https://tv.naver.com/l/95058</link>
+            <guid>https://tv.naver.com/l/95058</guid>
+            <pubDate>Thu, 23 Dec 2021 12:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[12월 26일(일) 16:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_241/w7fRC_1640160235690dbatr_PNG/1640160235646.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
