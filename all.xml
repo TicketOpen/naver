@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 07:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 08:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211204_144/CXL2d_1638606374262kPM9E_JPEG/1638606374143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											[생중계] X-mas at HOME : 조수미 & 이 무지치 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
-            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
-            <pubDate>Wed, 15 Dec 2021 05:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_216/q0fac_1639375020193N4Su3_JPEG/1639375020163.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -96,6 +87,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211215_172/1639500065103P6d9X_JPEG/1638953151087.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리움미술관 산책(고미술) with 조수빈 아나운서 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/93910</link>
+            <guid>https://tv.naver.com/l/93910</guid>
+            <pubDate>Sat, 25 Dec 2021 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[12월 27일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_217/7z3Mh_1638953151120KiLlW_JPEG/1638953151087.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
             <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
@@ -118,14 +117,6 @@
             <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -174,14 +165,6 @@
             <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
