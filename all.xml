@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 04:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 05:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 1부 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/95057</link>
-            <guid>https://tv.naver.com/l/95057</guid>
-            <pubDate>Thu, 23 Dec 2021 12:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[12월 26일(일) 12:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_194/dJ8a6_1640159918119Ehp4p_PNG/1640159918085.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 2부 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/95058</link>
@@ -91,6 +83,14 @@
             <pubDate>Sat, 25 Dec 2021 15:15:01 GMT</pubDate>
             <content:encoded><![CDATA[12월 30일(목) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_271/gkBNs_16381699976592K9oX_JPEG/1638169997618.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랩X씨어터 <헌책방 래퍼> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222557298364</link>
+            <guid>https://blog.naver.com/jump_arko/222557298364</guid>
+            <pubDate>Sun, 26 Dec 2021 05:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_15/CyWKM_1636616878736e2Xpw_PNG/1636616878698.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
