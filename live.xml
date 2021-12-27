@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 14:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 15:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <모차르트!> 실황공연 스페셜 에디션]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Wed, 22 Dec 2021 15:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[12월 27일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_242/HpP6M_1638164292046lVObG_JPEG/1638164292026.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <죄와벌_파란 관성의 시대> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222561685350</link>
@@ -93,6 +84,14 @@
             <pubDate>Mon, 27 Dec 2021 12:24:32 GMT</pubDate>
             <content:encoded><![CDATA[01월 03일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_265/4Vj8u_1637387924371IbttB_JPEG/1637387924352.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <바바리맨-킬라이크아이두> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222571622742</link>
+            <guid>https://blog.naver.com/jump_arko/222571622742</guid>
+            <pubDate>Mon, 27 Dec 2021 15:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[01월 04일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_218/rMYA8_1637219369525WcuGB_PNG/1637219369504.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
