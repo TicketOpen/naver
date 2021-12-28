@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 12:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 13:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <죄와벌_파란 관성의 시대> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222561685350</link>
-            <guid>https://blog.naver.com/jump_arko/222561685350</guid>
-            <pubDate>Sat, 25 Dec 2021 14:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[12월 28일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_72/rwOu3_1636523446999GFDkG_PNG/1636523446957.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[영마스터즈 9. 클라리네티스트 조성호 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/95146</link>
@@ -92,6 +84,14 @@
             <pubDate>Mon, 27 Dec 2021 15:16:03 GMT</pubDate>
             <content:encoded><![CDATA[01월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_218/rMYA8_1637219369525WcuGB_PNG/1637219369504.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222551382493</link>
+            <guid>https://blog.naver.com/jump_arko/222551382493</guid>
+            <pubDate>Tue, 28 Dec 2021 13:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[01월 06일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_115/SELWU_1637219676789sdcr6_PNG/1637219676736.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
