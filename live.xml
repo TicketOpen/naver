@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 10:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 11:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,12 +86,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_218/rMYA8_1637219369525WcuGB_PNG/1637219369504.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222551382493</link>
-            <guid>https://blog.naver.com/jump_arko/222551382493</guid>
-            <pubDate>Tue, 28 Dec 2021 13:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[01월 06일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_115/SELWU_1637219676789sdcr6_PNG/1637219676736.png" length="0" type="image/png"/>
+            <title><![CDATA[2022 신년음악회]]></title>
+            <link>https://blog.naver.com/i_love_sac/222608656354</link>
+            <guid>https://blog.naver.com/i_love_sac/222608656354</guid>
+            <pubDate>Thu, 30 Dec 2021 11:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[01월 05일(수) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_170/cXXRI_1640860073554cxAiA_JPEG/1640860073536.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
