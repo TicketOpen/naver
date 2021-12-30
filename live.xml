@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 15:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬1976할란카운티 공연실황 후원LIVE]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/eternaljourney</link>
-            <guid>https://patron.naver.com/ntv/c/intro/eternaljourney</guid>
-            <pubDate>Sat, 25 Dec 2021 15:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일(목) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_271/gkBNs_16381699976592K9oX_JPEG/1638169997618.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
@@ -93,6 +84,15 @@
             <pubDate>Thu, 30 Dec 2021 13:22:36 GMT</pubDate>
             <content:encoded><![CDATA[01월 09일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 27 Dec 2021 12:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_9/oUCJC_1637502479544yrdhp_JPEG/1637502479533.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
