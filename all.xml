@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 12:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 13:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,14 +15,6 @@
             <pubDate>Sat, 25 Dec 2021 15:15:01 GMT</pubDate>
             <content:encoded><![CDATA[12월 30일(목) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_271/gkBNs_16381699976592K9oX_JPEG/1638169997618.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랩X씨어터 <헌책방 래퍼> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222557298364</link>
-            <guid>https://blog.naver.com/jump_arko/222557298364</guid>
-            <pubDate>Sun, 26 Dec 2021 07:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_15/CyWKM_1636616878736e2Xpw_PNG/1636616878698.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -92,6 +84,15 @@
             <pubDate>Thu, 30 Dec 2021 12:24:13 GMT</pubDate>
             <content:encoded><![CDATA[01월 06일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_115/SELWU_1637219676789sdcr6_PNG/1637219676736.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											1/9 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 2회차 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Wed, 22 Dec 2021 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[01월 09일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
