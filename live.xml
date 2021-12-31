@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 14:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 15:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬1976할란카운티 공연실황 후원LIVE]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/eternaljourney</link>
-            <guid>https://patron.naver.com/ntv/c/intro/eternaljourney</guid>
-            <pubDate>Sat, 25 Dec 2021 15:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[12월 31일(금) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_137/kiGZK_16381700637409XQ4V_JPEG/1638170063703.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
@@ -92,6 +83,14 @@
             <pubDate>Mon, 27 Dec 2021 12:24:32 GMT</pubDate>
             <content:encoded><![CDATA[01월 10일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211121_9/oUCJC_1637502479544yrdhp_JPEG/1637502479533.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만>]]></title>
+            <link>https://blog.naver.com/jump_arko/222531036695</link>
+            <guid>https://blog.naver.com/jump_arko/222531036695</guid>
+            <pubDate>Fri, 31 Dec 2021 15:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[01월 11일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_18/fyu1w_1638436949725HGUdb_PNG/1638436949649.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
