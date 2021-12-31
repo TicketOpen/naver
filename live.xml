@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 06:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 07:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
-            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
-            <pubDate>Sun, 26 Dec 2021 09:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[12월 31일(금) 13:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_236/tAJz0_1638508401986mIXAU_JPEG/1638508401939.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬1976할란카운티 공연실황 후원LIVE]]></title>
@@ -92,6 +83,15 @@
             <pubDate>Thu, 30 Dec 2021 12:24:13 GMT</pubDate>
             <content:encoded><![CDATA[01월 06일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_115/SELWU_1637219676789sdcr6_PNG/1637219676736.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											1/9 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 2회차]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Fri, 31 Dec 2021 07:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[01월 09일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
