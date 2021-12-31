@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 12:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 13:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Sat, 25 Dec 2021 15:15:01 GMT</pubDate>
             <content:encoded><![CDATA[12월 31일(금) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_137/kiGZK_16381700637409XQ4V_JPEG/1638170063703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											Great Adios 2021 with Letteamor]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
-            <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
-            <pubDate>Sun, 26 Dec 2021 15:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[12월 31일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_5/gSdH0_1639547655973b8mpY_JPEG/1639547655926.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -92,6 +83,15 @@
             <pubDate>Fri, 31 Dec 2021 07:14:53 GMT</pubDate>
             <content:encoded><![CDATA[01월 09일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 27 Dec 2021 12:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_9/oUCJC_1637502479544yrdhp_JPEG/1637502479533.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
