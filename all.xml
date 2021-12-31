@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 02:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 03:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,30 +69,29 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_170/cXXRI_1640860073554cxAiA_JPEG/1640860073536.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <곤 투모로우> 전막 실황 생중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/95642</link>
+            <guid>https://tv.naver.com/l/95642</guid>
+            <pubDate>Fri, 31 Dec 2021 03:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_25/1mAVe_1640843282697iQgd8_JPEG/1640843282667.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인 (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/373205</link>
+            <guid>https://shoppinglive.naver.com/livebridge/373205</guid>
+            <pubDate>Fri, 31 Dec 2021 03:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211231_281/1640917219128jpWF9_JPEG/700X400_PC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/jump_arko/222551382493</link>
             <guid>https://blog.naver.com/jump_arko/222551382493</guid>
             <pubDate>Thu, 30 Dec 2021 12:24:13 GMT</pubDate>
             <content:encoded><![CDATA[01월 06일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_115/SELWU_1637219676789sdcr6_PNG/1637219676736.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											1/9 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 2회차 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Wed, 22 Dec 2021 15:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[01월 09일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Fri, 24 Dec 2021 13:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[01월 10일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_9/oUCJC_1637502479544yrdhp_JPEG/1637502479533.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
