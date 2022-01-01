@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 06:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 07:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
-            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
-            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[01월 01일(토) 13:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_252/DWWxx_1638508560733E5lk3_JPEG/1638508560664.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
@@ -93,12 +84,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_18/fyu1w_1638436949725HGUdb_PNG/1638436949649.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
-            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
-            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전통 <마음의 노래14> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222544688919</link>
+            <guid>https://blog.naver.com/jump_arko/222544688919</guid>
+            <pubDate>Sat, 01 Jan 2022 07:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[01월 13일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_41/tWF0Y_1637226316531z4t1d_PNG/1637226316502.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -115,14 +106,6 @@
             <pubDate>Fri, 24 Dec 2021 13:22:44 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
-            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
-            <pubDate>Fri, 10 Dec 2021 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
