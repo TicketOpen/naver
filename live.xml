@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 12:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 13:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <바바리맨-킬라이크아이두> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222571622742</link>
-            <guid>https://blog.naver.com/jump_arko/222571622742</guid>
-            <pubDate>Mon, 27 Dec 2021 15:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[01월 04일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_218/rMYA8_1637219369525WcuGB_PNG/1637219369504.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[2022 신년음악회]]></title>
             <link>https://blog.naver.com/i_love_sac/222608656354</link>
@@ -90,6 +82,15 @@
             <pubDate>Fri, 31 Dec 2021 07:14:53 GMT</pubDate>
             <content:encoded><![CDATA[01월 16일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_272/uNXZF_1638161377890thYFx_JPEG/1638161377857.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											1/17 8PM 뮤지컬 <풍월주> 녹화중계 LIVE!]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Fri, 31 Dec 2021 07:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[01월 17일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_117/jT7ws_1641191923585hdt4V_JPEG/1641191923515.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
