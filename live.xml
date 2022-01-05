@@ -4,26 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 12:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 13:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <곤 투모로우> 전막 실황 생중계]]></title>
-            <link>https://tv.naver.com/l/95642</link>
-            <guid>https://tv.naver.com/l/95642</guid>
-            <pubDate>Fri, 31 Dec 2021 03:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_25/1mAVe_1640843282697iQgd8_JPEG/1640843282667.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/373205</link>
-            <guid>https://shoppinglive.naver.com/livebridge/373205</guid>
-            <pubDate>Fri, 31 Dec 2021 03:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211231_281/1640917219128jpWF9_JPEG/700X400_PC.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222551382493</link>
@@ -91,6 +74,22 @@
             <pubDate>Wed, 05 Jan 2022 12:25:06 GMT</pubDate>
             <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <3rd Altimeets> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222579094754</link>
+            <guid>https://blog.naver.com/jump_arko/222579094754</guid>
+            <pubDate>Wed, 05 Jan 2022 13:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_70/uoLWJ_1638255547601GgQc5_PNG/1638255547576.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <월드다방> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222595437263</link>
+            <guid>https://blog.naver.com/jump_arko/222595437263</guid>
+            <pubDate>Wed, 05 Jan 2022 13:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
