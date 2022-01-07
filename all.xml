@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 11:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 12:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후원
+											유희스카 음원발매기념[니나노 콘서트'유희스카']생중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/uhee</link>
+            <guid>https://patron.naver.com/ntv/c/intro/uhee</guid>
+            <pubDate>Fri, 07 Jan 2022 12:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[01월 08일(토) 16:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_190/KRtG5_1641451246663MfSG3_JPEG/1641451246613.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[후원
 											1/9 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 2회차 (네이버 공연 live beta)]]></title>
@@ -83,14 +92,6 @@
             <pubDate>Wed, 22 Dec 2021 15:16:24 GMT</pubDate>
             <content:encoded><![CDATA[01월 17일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_117/jT7ws_1641191923585hdt4V_JPEG/1641191923515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222563827577</link>
-            <guid>https://blog.naver.com/jump_arko/222563827577</guid>
-            <pubDate>Thu, 06 Jan 2022 12:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
