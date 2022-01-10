@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 15:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Fri, 24 Dec 2021 13:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[01월 10일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_9/oUCJC_1637502479544yrdhp_JPEG/1637502479533.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만> (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/jump_arko/222531036695</link>
@@ -89,6 +80,14 @@
             <pubDate>Mon, 10 Jan 2022 13:24:55 GMT</pubDate>
             <content:encoded><![CDATA[01월 23일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_188/fS8n6_164153416313960bz7_JPEG/1641534163111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222595437263</link>
+            <guid>https://blog.naver.com/jump_arko/222595437263</guid>
+            <pubDate>Mon, 10 Jan 2022 15:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
