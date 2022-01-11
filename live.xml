@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 12:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 13:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만>]]></title>
-            <link>https://blog.naver.com/jump_arko/222531036695</link>
-            <guid>https://blog.naver.com/jump_arko/222531036695</guid>
-            <pubDate>Fri, 31 Dec 2021 15:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[01월 11일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_18/fyu1w_1638436949725HGUdb_PNG/1638436949649.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[전통 <마음의 노래14> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222544688919</link>
@@ -88,6 +80,14 @@
             <pubDate>Mon, 10 Jan 2022 15:16:51 GMT</pubDate>
             <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222554896496</link>
+            <guid>https://blog.naver.com/jump_arko/222554896496</guid>
+            <pubDate>Tue, 11 Jan 2022 13:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[01월 27일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_236/Pfx5F_1638438358816iaavy_PNG/1638438358750.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
