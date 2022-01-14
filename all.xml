@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 08:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 09:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<월드 클래식 오페라 시리즈Ⅰ> 하이라이트 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/gmopera2019/222614661509</link>
-            <guid>https://blog.naver.com/gmopera2019/222614661509</guid>
-            <pubDate>Thu, 06 Jan 2022 09:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[01월 14일(금) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_156/EWPeY_1641452599674EV0zh_JPEG/1641452599659.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차 (네이버 공연 live beta)]]></title>
