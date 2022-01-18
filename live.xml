@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 12:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 13:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 13 Jan 2022 13:24:40 GMT</pubDate>
             <content:encoded><![CDATA[02월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_203/vj0gP_163843864628030jHp_PNG/1638438646241.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <터키행진곡> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222600668644</link>
+            <guid>https://blog.naver.com/jump_arko/222600668644</guid>
+            <pubDate>Tue, 18 Jan 2022 13:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[02월 08일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211221_64/jJf8m_16400900237012eBo8_PNG/1640090023662.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
