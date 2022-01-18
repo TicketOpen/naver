@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 11:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 12:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222563827577</link>
-            <guid>https://blog.naver.com/jump_arko/222563827577</guid>
-            <pubDate>Sat, 08 Jan 2022 09:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
-        </item>
         <item>
             <title><![CDATA[<금호라이징스타 - 아레테 콰르텟 String Quartet> (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/kaculture/222614789208</link>
