@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 14:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 15:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한-러 상호 문화교류의 해 폐막공연 <문화로 잇는 미래> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/97093</link>
-            <guid>https://tv.naver.com/l/97093</guid>
-            <pubDate>Wed, 19 Jan 2022 01:55:03 GMT</pubDate>
-            <content:encoded><![CDATA[01월 21일(금) 21:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_223/urOWQ_1642549203341AJTSe_JPEG/1642549203254.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[다비트 라일란트 ‘빛을 향해’ (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/ksoblog/222613557002</link>
