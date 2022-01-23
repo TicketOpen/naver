@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 09:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 10:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다비트 라일란트 ‘빛을 향해’ (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/ksoblog/222613557002</link>
-            <guid>https://blog.naver.com/ksoblog/222613557002</guid>
-            <pubDate>Mon, 10 Jan 2022 13:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[01월 23일(일) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_188/fS8n6_164153416313960bz7_JPEG/1641534163111.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/jump_arko/222595437263</link>
