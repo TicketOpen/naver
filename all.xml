@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 08:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 09:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,15 @@
             <pubDate>Wed, 19 Jan 2022 04:18:16 GMT</pubDate>
             <content:encoded><![CDATA[02월 10일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_62/kmCJD_1638438876424kS46N_PNG/1638438876365.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] 뮤지컬 <이토록 보통의> 녹화중계 LIVE (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
+            <pubDate>Mon, 24 Jan 2022 09:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[02월 14일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_152/M1pgp_1642681882881jtvEV_JPEG/1642681882848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울예술단청년예술가 웹뮤지컬 창작콘텐츠 최강자전 (네이버 공연 live beta ─ 하이라이트)]]></title>
