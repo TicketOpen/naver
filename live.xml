@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 12:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 13:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <월드다방> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222595437263</link>
-            <guid>https://blog.naver.com/jump_arko/222595437263</guid>
-            <pubDate>Mon, 10 Jan 2022 15:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222554896496</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 11 Jan 2022 13:23:45 GMT</pubDate>
             <content:encoded><![CDATA[01월 27일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_236/Pfx5F_1638438358816iaavy_PNG/1638438358750.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립중앙박물관 홍보대사 정일우 X  '조선의 승려 장인']]></title>
+            <link>https://blog.naver.com/100museum/222630950440</link>
+            <guid>https://blog.naver.com/100museum/222630950440</guid>
+            <pubDate>Tue, 25 Jan 2022 13:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[01월 28일(금) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_103/Hz3Ve_1643085855727zI25R_JPEG/1643085855700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <데미안 비더게부르트> 녹화중계]]></title>
@@ -63,6 +63,14 @@
             <pubDate>Mon, 24 Jan 2022 09:13:29 GMT</pubDate>
             <content:encoded><![CDATA[02월 14일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_152/M1pgp_1642681882881jtvEV_JPEG/1642681882848.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <욕망의 불가능한 대상> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222627507055</link>
+            <guid>https://blog.naver.com/jump_arko/222627507055</guid>
+            <pubDate>Tue, 25 Jan 2022 13:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[02월 15일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_294/IY5eb_1642557053816MIVk0_PNG/1642557053755.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
