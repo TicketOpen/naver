@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 12:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 13:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222554896496</link>
-            <guid>https://blog.naver.com/jump_arko/222554896496</guid>
-            <pubDate>Tue, 11 Jan 2022 13:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[01월 27일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_236/Pfx5F_1638438358816iaavy_PNG/1638438358750.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[국립중앙박물관 홍보대사 정일우 X  '조선의 승려 장인' (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/100museum/222630950440</link>
