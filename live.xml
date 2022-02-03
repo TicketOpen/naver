@@ -4,9 +4,17 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 11:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 12:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <데미안 비더게부르트> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222556047943</link>
+            <guid>https://blog.naver.com/jump_arko/222556047943</guid>
+            <pubDate>Thu, 03 Feb 2022 12:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[02월 03일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_203/vj0gP_163843864628030jHp_PNG/1638438646241.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[무용 senseless violence (부제: 이해할 수 없는 폭력) 공연 실황]]></title>
             <link>https://tv.naver.com/l/98338</link>
