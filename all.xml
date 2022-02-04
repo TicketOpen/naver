@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 06:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 07:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Fri, 04 Feb 2022 06:14:22 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 06:14:16 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
@@ -103,7 +103,7 @@
             <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Fri, 04 Feb 2022 06:14:22 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 06:14:16 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
