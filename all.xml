@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 06:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,6 +57,23 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_294/IY5eb_1642557053816MIVk0_PNG/1642557053755.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											2/18 8시 뮤지컬 쿠로이 저택엔 누가 살고  있을까? (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Fri, 04 Feb 2022 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[02월 18일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_145/qZvUv_16439033616019sHcI_JPEG/1643903361572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Fri, 04 Feb 2022 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웰메이드 감성 로맨스 뮤지컬 <이토록 보통의> Live (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
@@ -81,6 +98,14 @@
 										</div>
 									</a>]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220117_281/16423982481100N1KM_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Fri, 04 Feb 2022 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웰메이드 감성 로맨스 뮤지컬 <이토록 보통의> Live (네이버 공연 live beta ─ 하이라이트)]]></title>
