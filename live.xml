@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 07:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 08:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											무용 senseless violence (부제: 이해할 수 없는 폭력) 공연 실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Sat, 05 Feb 2022 09:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[02월 06일(일) 16:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220203_265/1643883433627O1Qxm_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <터키행진곡> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222600668644</link>
