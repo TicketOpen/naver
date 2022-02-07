@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 08:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 09:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,14 @@
             <pubDate>Tue, 25 Jan 2022 13:17:44 GMT</pubDate>
             <content:encoded><![CDATA[02월 15일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_294/IY5eb_1642557053816MIVk0_PNG/1642557053755.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[코리안심포니오케스트라 '해방' (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/ksoblog/222637860410</link>
+            <guid>https://blog.naver.com/ksoblog/222637860410</guid>
+            <pubDate>Mon, 07 Feb 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[02월 17일(목) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_85/tSSUc_1643271906857IHd7C_JPEG/1643271906816.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
