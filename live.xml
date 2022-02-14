@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 10:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 11:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] 뮤지컬 <이토록 보통의> 녹화중계 LIVE]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
-            <pubDate>Mon, 24 Jan 2022 09:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[02월 14일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_152/M1pgp_1642681882881jtvEV_JPEG/1642681882848.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <욕망의 불가능한 대상> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222627507055</link>
