@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 13:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 14:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,28 +16,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웰메이드 감성 로맨스 뮤지컬 <이토록 보통의> Live]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
-            <pubDate>Tue, 25 Jan 2022 13:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220125_134/1643115058217rcxsq_JPEG/688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
             <pubDate>Fri, 04 Feb 2022 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰메이드 감성 로맨스 뮤지컬 <이토록 보통의> Live]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
-            <pubDate>Tue, 25 Jan 2022 13:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220125_134/1643115058217rcxsq_JPEG/688.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
