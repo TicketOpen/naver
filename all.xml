@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 06:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 07:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,6 +57,15 @@
             <pubDate>Fri, 04 Feb 2022 06:14:16 GMT</pubDate>
             <content:encoded><![CDATA[02월 18일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_145/qZvUv_16439033616019sHcI_JPEG/1643903361572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											달리에서 마그리트까지 (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/412312</link>
+            <guid>https://shoppinglive.naver.com/livebridge/412312</guid>
+            <pubDate>Mon, 14 Feb 2022 07:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[02월 21일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220214_62/1644821042812NRhKd_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제13회 ARKO 한국창작음악제_국악부문 (네이버 공연 live beta)]]></title>
