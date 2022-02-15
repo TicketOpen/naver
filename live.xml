@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 11:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 12:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <욕망의 불가능한 대상> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222627507055</link>
-            <guid>https://blog.naver.com/jump_arko/222627507055</guid>
-            <pubDate>Tue, 25 Jan 2022 13:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[02월 15일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_294/IY5eb_1642557053816MIVk0_PNG/1642557053755.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[창작뮤지컬 <심청> 전막 무료 중계]]></title>
             <link>https://tv.naver.com/l/99173</link>
