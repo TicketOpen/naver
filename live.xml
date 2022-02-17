@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 11:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 12:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[코리안심포니오케스트라 '해방']]></title>
-            <link>https://blog.naver.com/ksoblog/222637860410</link>
-            <guid>https://blog.naver.com/ksoblog/222637860410</guid>
-            <pubDate>Mon, 07 Feb 2022 09:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[02월 17일(목) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_85/tSSUc_1643271906857IHd7C_JPEG/1643271906816.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											2/18 8시 뮤지컬 쿠로이 저택엔 누가 살고  있을까?]]></title>
@@ -57,6 +49,15 @@
             <pubDate>Thu, 17 Feb 2022 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[02월 26일(토) 11:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_290/dh5HM_164499687025609XSA_JPEG/1644996870205.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/onstage</link>
+            <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
+            <pubDate>Thu, 17 Feb 2022 12:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[03월 03일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
