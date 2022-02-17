@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 12:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 13:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,7 +63,7 @@
             <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
             <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
-            <pubDate>Thu, 17 Feb 2022 12:22:50 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 12:22:45 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
@@ -79,7 +79,7 @@
             <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
             <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
-            <pubDate>Thu, 17 Feb 2022 12:22:50 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 12:22:45 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
