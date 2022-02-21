@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 11:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 12:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											달리에서 마그리트까지]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/412312</link>
-            <guid>https://shoppinglive.naver.com/livebridge/412312</guid>
-            <pubDate>Mon, 14 Feb 2022 07:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[02월 21일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220214_62/1644821042812NRhKd_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[판타지 퍼포먼스 <구미호> 녹화 중계]]></title>
             <link>https://tv.naver.com/l/99640</link>
