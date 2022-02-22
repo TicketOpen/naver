@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 07:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 08:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,12 +42,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mindblowingent</guid>
+            <pubDate>Thu, 17 Feb 2022 09:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220222_150/1645516538633HL2fK_JPEG/688_386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
             <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
             <pubDate>Thu, 17 Feb 2022 12:22:45 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mindblowingent</guid>
+            <pubDate>Thu, 17 Feb 2022 09:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220222_150/1645516538633HL2fK_JPEG/688_386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연 (네이버 공연 live beta ─ 하이라이트)]]></title>
