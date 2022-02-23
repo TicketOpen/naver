@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <pubDate>Thu, 17 Feb 2022 12:22:45 GMT</pubDate>
             <content:encoded><![CDATA[03월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실내악 시리즈 <카르멘 판타지> (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/ksoblog/222649310125</link>
+            <guid>https://blog.naver.com/ksoblog/222649310125</guid>
+            <pubDate>Wed, 23 Feb 2022 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[03월 04일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_113/l5kbP_1645600991308wwfeu_JPEG/1645600991268.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 하이라이트)]]></title>
