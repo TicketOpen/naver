@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 10:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 11:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제13회 ARKO 한국창작음악제_국악부문 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/98330</link>
-            <guid>https://tv.naver.com/l/98330</guid>
-            <pubDate>Wed, 09 Feb 2022 00:57:38 GMT</pubDate>
-            <content:encoded><![CDATA[02월 24일(목) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_291/mGGup_1643872773239tnYLa_PNG/1643872773182.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta)]]></title>
