@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 11:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 12:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,28 +16,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220302_174/16462070221497lHxx_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/onstage</link>
-            <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
-            <pubDate>Thu, 17 Feb 2022 12:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <레드북>자신에 대한 긍지와 존엄을 찾아가는 성장 드라마]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ateod</link>
             <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
             <pubDate>Wed, 02 Mar 2022 08:18:49 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220302_174/16462070221497lHxx_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/onstage</link>
-            <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
-            <pubDate>Thu, 17 Feb 2022 12:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
