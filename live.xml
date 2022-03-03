@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 03:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 04:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제142회 클래식품격콘서트 - 강남심포니오케스트라]]></title>
-            <link>https://tv.naver.com/l/100634</link>
-            <guid>https://tv.naver.com/l/100634</guid>
-            <pubDate>Wed, 02 Mar 2022 10:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[03월 03일(목) 11:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220302_268/1646215524768sx8Ou_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연]]></title>
