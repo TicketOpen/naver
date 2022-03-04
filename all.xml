@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 12:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 13:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[실내악 시리즈 <카르멘 판타지> (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/ksoblog/222649310125</link>
-            <guid>https://blog.naver.com/ksoblog/222649310125</guid>
-            <pubDate>Wed, 23 Feb 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[03월 04일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_113/l5kbP_1645600991308wwfeu_JPEG/1645600991268.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <레드북> (네이버 공연 live beta)]]></title>
