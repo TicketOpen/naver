@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 06:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 07:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <pubDate>Wed, 02 Mar 2022 08:18:43 GMT</pubDate>
             <content:encoded><![CDATA[03월 16일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_105/sq0yw_1646040093898T8RVX_JPEG/1646040093848.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											신중현 주크박스 뮤지컬 <미인>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
+            <pubDate>Tue, 08 Mar 2022 07:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[03월 21일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_158/c80Wl_1646660807006MRoEs_JPEG/1646660806955.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
