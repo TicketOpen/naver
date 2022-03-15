@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 09:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220310_85/1646911029572osF51_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세종문화회관 3월 천원의 행복 <고잉 온 콘서트> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/102126</link>
+            <guid>https://tv.naver.com/l/102126</guid>
+            <pubDate>Tue, 15 Mar 2022 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[03월 29일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220315_213/1647334592476cxMo6_PNG/1647330236482.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											연극 <콜타임> 공연 실황 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -73,6 +81,14 @@
             <pubDate>Fri, 11 Mar 2022 12:25:17 GMT</pubDate>
             <content:encoded><![CDATA[03월 31일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220311_170/1647001257040HuShM_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <콜타임> 공연 실황전에 없던 시간을 마주하는 두 여인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Fri, 11 Mar 2022 12:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220315_52/1647335138120dOUdl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <레드북>자신에 대한 긍지와 존엄을 찾아가는 성장 드라마 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -89,6 +105,14 @@
             <pubDate>Tue, 08 Mar 2022 07:15:28 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220308_193/1646720762224j70Pd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <콜타임> 공연 실황전에 없던 시간을 마주하는 두 여인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Fri, 11 Mar 2022 12:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220315_52/1647335138120dOUdl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <레드북>자신에 대한 긍지와 존엄을 찾아가는 성장 드라마 (네이버 공연 live beta ─ 하이라이트)]]></title>
