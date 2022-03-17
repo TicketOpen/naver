@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 09:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 10:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,15 @@
             <pubDate>Fri, 11 Mar 2022 12:25:17 GMT</pubDate>
             <content:encoded><![CDATA[03월 31일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220311_170/1647001257040HuShM_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_132/wYYuY_164734260874627R6l_JPEG/1647342608729.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저스트 절크의 토크 콘서트 "LET'S GET TOGETHER" (네이버 공연 live beta ─ 하이라이트)]]></title>
