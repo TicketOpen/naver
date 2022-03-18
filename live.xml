@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 04:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 또!오해영 온라인 쇼케이스 생중계]]></title>
-            <link>https://tv.naver.com/l/101963</link>
-            <guid>https://tv.naver.com/l/101963</guid>
-            <pubDate>Sun, 13 Mar 2022 16:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[03월 18일(금) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_171/rBMQZ_1647160966304mGAIj_JPEG/1647160966284.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											신중현 주크박스 뮤지컬 <미인>]]></title>
@@ -90,6 +82,15 @@
             <pubDate>Fri, 11 Mar 2022 12:25:17 GMT</pubDate>
             <content:encoded><![CDATA[03월 31일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220311_170/1647001257040HuShM_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <와일드 그레이>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_132/wYYuY_164734260874627R6l_JPEG/1647342608729.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
