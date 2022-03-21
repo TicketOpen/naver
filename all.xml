@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											신중현 주크박스 뮤지컬 <미인> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Tue, 08 Mar 2022 07:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[03월 21일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_158/c80Wl_1646660807006MRoEs_JPEG/1646660806955.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[가이 브라운슈타인의 '환희로' (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/ksoblog/222667249608</link>
@@ -91,6 +82,15 @@
             <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
             <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_132/wYYuY_164734260874627R6l_JPEG/1647342608729.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[04월 11일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저스트 절크의 토크 콘서트 "LET'S GET TOGETHER" (네이버 공연 live beta ─ 하이라이트)]]></title>
