@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 23:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 01:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,12 +85,12 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[04월 11일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
+											오페라 <아틸라> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 22 Mar 2022 01:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[04월 09일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_143/aIzUE_1647827109075bIPmU_JPEG/1647827109060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저스트 절크의 토크 콘서트 "LET'S GET TOGETHER" (네이버 공연 live beta ─ 하이라이트)]]></title>
