@@ -4,25 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 12:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 13:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가이 브라운슈타인의 '환희로']]></title>
-            <link>https://blog.naver.com/ksoblog/222667249608</link>
-            <guid>https://blog.naver.com/ksoblog/222667249608</guid>
-            <pubDate>Thu, 10 Mar 2022 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[03월 22일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_146/pbQzl_16468982620281ANVp_JPEG/1646898262009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<정가악회 콘서트 - 탈춤은 탈춤> 공연 실황]]></title>
-            <link>https://tv.naver.com/l/101785</link>
-            <guid>https://tv.naver.com/l/101785</guid>
-            <pubDate>Thu, 10 Mar 2022 12:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[03월 22일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220310_37/1646910916940WQKK4_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[아름다운 열정 <오페라 클라이맥스>]]></title>
             <link>https://tv.naver.com/l/102028</link>
@@ -91,6 +75,24 @@
             <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
             <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_132/wYYuY_164734260874627R6l_JPEG/1647342608729.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <아틸라>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 22 Mar 2022 13:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[04월 09일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_143/aIzUE_1647827109075bIPmU_JPEG/1647827109060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <와일드 그레이>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[04월 11일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
