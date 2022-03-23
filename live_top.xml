@@ -4,9 +4,35 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 09:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 10:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <와일드 그레이>예술과 현실 사이에서 자유를 꿈꾸는 세 사람]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Wed, 23 Mar 2022 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://patron.naver.com/ntv/c/intro/newpro" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20220323_282/1648027271797ebkeb_JPEG/688X386_.jpg" alt="뮤지컬 <와일드 그레이><br>예술과 현실 사이에서 자유를 꿈꾸는 세 사람 이미지">
+										<div class="text-info-box" style="opacity: 1;">
+											<p class="date ellipsis">3/28, 4/4, 4/11(월) 오후 8시</p>
+											<div class="text-info">
+												
+												
+												<p class="sub-title ellipsis2">뮤지컬 &lt;와일드 그레이&gt;<br>예술과 현실 사이에서 자유를 꿈꾸는 세 사람</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220323_282/1648027271797ebkeb_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <곤 투모로우>혁명가, 암살자, 비운의 왕.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/page1</link>
+            <guid>https://patron.naver.com/ntv/c/intro/page1</guid>
+            <pubDate>Wed, 23 Mar 2022 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220323_250/1648027034437LRotr_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저스트 절크의 토크 콘서트 "LET'S GET TOGETHER"]]></title>
             <link>https://patron.naver.com/ntv/c/intro/loatv</link>
@@ -22,6 +48,32 @@
             <pubDate>Tue, 15 Mar 2022 09:16:09 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220315_52/1647335138120dOUdl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <와일드 그레이>예술과 현실 사이에서 자유를 꿈꾸는 세 사람]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Wed, 23 Mar 2022 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://patron.naver.com/ntv/c/intro/newpro" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20220323_282/1648027271797ebkeb_JPEG/688X386_.jpg" alt="뮤지컬 <와일드 그레이><br>예술과 현실 사이에서 자유를 꿈꾸는 세 사람 이미지">
+										<div class="text-info-box" style="opacity:0;">
+											<p class="date ellipsis">3/28, 4/4, 4/11(월) 오후 8시</p>
+											<div class="text-info">
+												
+												
+												<p class="sub-title ellipsis2">뮤지컬 &lt;와일드 그레이&gt;<br>예술과 현실 사이에서 자유를 꿈꾸는 세 사람</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220323_282/1648027271797ebkeb_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <곤 투모로우>혁명가, 암살자, 비운의 왕.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/page1</link>
+            <guid>https://patron.naver.com/ntv/c/intro/page1</guid>
+            <pubDate>Wed, 23 Mar 2022 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220323_250/1648027034437LRotr_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저스트 절크의 토크 콘서트 "LET'S GET TOGETHER"]]></title>
