@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 01:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,6 +60,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_12/q0qyH_1647837304859afc1I_JPEG/1647837304805.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <아이다> 캐스트 파티 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/102547</link>
+            <guid>https://tv.naver.com/l/102547</guid>
+            <pubDate>Thu, 24 Mar 2022 02:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[04월 04일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_103/DaYaA_1647827927571D07qv_JPEG/1647827927553.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											뮤지컬 <와일드 그레이> (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
@@ -85,15 +93,6 @@
             <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
             <content:encoded><![CDATA[04월 11일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] 뮤지컬 <곤 투모로우> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/page1</link>
-            <guid>https://patron.naver.com/ntv/c/intro/page1</guid>
-            <pubDate>Wed, 23 Mar 2022 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[04월 18일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_231/vHuOC_1647507988995FHqwk_JPEG/1647507988967.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ 하이라이트)]]></title>
