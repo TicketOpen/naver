@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 12:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[세종문화회관 3월 천원의 행복 <고잉 온 콘서트>]]></title>
-            <link>https://tv.naver.com/l/102126</link>
-            <guid>https://tv.naver.com/l/102126</guid>
-            <pubDate>Tue, 15 Mar 2022 09:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[03월 29일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220315_213/1647334592476cxMo6_PNG/1647330236482.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[제73회 크누아심포니오케스트라 정기연주회]]></title>
             <link>https://tv.naver.com/l/103169</link>
@@ -83,6 +75,15 @@
             <pubDate>Thu, 17 Mar 2022 10:17:56 GMT</pubDate>
             <content:encoded><![CDATA[04월 11일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<낮은 칼바람> 공연 실황 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Fri, 11 Mar 2022 12:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[04월 12일(화) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220329_159/1648556530704OqDYE_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<2022 금호아트홀 상주음악가> 김동현 Violin]]></title>
