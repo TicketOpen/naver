@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 10:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 11:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											연극 <콜타임> 공연 실황 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 11 Mar 2022 12:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[03월 31일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220311_170/1647001257040HuShM_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											창작뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
