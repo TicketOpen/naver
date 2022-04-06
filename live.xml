@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 06:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 07:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,6 +43,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220329_159/1648556530704OqDYE_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<광대가 리골레토> 공연 실황 녹화 중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222691201144</link>
+            <guid>https://blog.naver.com/jump_arko/222691201144</guid>
+            <pubDate>Wed, 06 Apr 2022 07:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[04월 14일(목) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220406_186/1649226611511pL6p6_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<2022 금호아트홀 상주음악가> 김동현 Violin]]></title>
             <link>https://tv.naver.com/l/103093</link>
             <guid>https://tv.naver.com/l/103093</guid>
@@ -58,6 +66,15 @@
             <pubDate>Tue, 29 Mar 2022 13:28:27 GMT</pubDate>
             <content:encoded><![CDATA[04월 18일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_231/vHuOC_1647507988995FHqwk_JPEG/1647507988967.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											IMMERSIVE BLIND CONCERT (1) 김지호, 이아름]]></title>
+            <link>https://tv.naver.com/l/103792</link>
+            <guid>https://tv.naver.com/l/103792</guid>
+            <pubDate>Wed, 06 Apr 2022 07:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[04월 22일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_117/VkS6R_1649207273198da082_JPEG/1649207273154.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
