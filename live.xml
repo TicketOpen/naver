@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 10:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 11:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											<낮은 칼바람> 공연 실황 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 11 Mar 2022 12:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[04월 12일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220329_159/1648556530704OqDYE_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[<광대가 리골레토> 공연 실황 녹화 중계]]></title>
             <link>https://blog.naver.com/jump_arko/222691201144</link>
