@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 13:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 14:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,12 +69,28 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220413_239/1649778051194uBsox_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 1]]></title>
+            <link>https://tv.naver.com/l/104354</link>
+            <guid>https://tv.naver.com/l/104354</guid>
+            <pubDate>Wed, 13 Apr 2022 14:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[04월 26일(화) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_253/9nZn2_1649846130041oQjzw_JPEG/1649846129992.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현대합창의 밤 모던 사운드(Modern Sound)]]></title>
             <link>https://blog.naver.com/nachorus1973/222676230683</link>
             <guid>https://blog.naver.com/nachorus1973/222676230683</guid>
             <pubDate>Wed, 13 Apr 2022 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_109/7qNCe_1649825601305CnEEN_JPEG/1649825601269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 2]]></title>
+            <link>https://tv.naver.com/l/104355</link>
+            <guid>https://tv.naver.com/l/104355</guid>
+            <pubDate>Wed, 13 Apr 2022 14:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[04월 27일(수) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_237/iWAld_1649846749144yQqng_JPEG/1649846749114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
