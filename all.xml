@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 11:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 12:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											IMMERSIVE BLIND CONCERT (1) 김지호, 이아름 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/103792</link>
-            <guid>https://tv.naver.com/l/103792</guid>
-            <pubDate>Wed, 06 Apr 2022 07:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[04월 22일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_117/VkS6R_1649207273198da082_JPEG/1649207273154.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											IMMERSIVE BLIND CONCERT (2) 한빛챔버오케스트라 (네이버 공연 live beta)]]></title>
@@ -89,6 +80,14 @@
             <pubDate>Tue, 19 Apr 2022 12:32:29 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(금) 18:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_184/MN8pf_16498471416546COAq_JPEG/1649847141624.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] 성기문 Trio + 박재홍 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/104359</link>
+            <guid>https://tv.naver.com/l/104359</guid>
+            <pubDate>Fri, 22 Apr 2022 12:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[04월 29일(금) 20:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_239/ptGrD_1649847433050iCoTx_JPEG/1649847433022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <태양의 노래> 2차 티켓 선오픈 & 시츠프로브 (네이버 공연 live beta ─ 하이라이트)]]></title>
