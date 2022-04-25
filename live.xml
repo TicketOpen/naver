@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 11:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 12:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											뮤지컬 <태양의 노래> 2차 티켓 선오픈 & 시츠프로브]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/483185</link>
-            <guid>https://shoppinglive.naver.com/livebridge/483185</guid>
-            <pubDate>Tue, 12 Apr 2022 16:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[04월 25일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220413_239/1649778051194uBsox_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 1]]></title>
             <link>https://tv.naver.com/l/104354</link>
@@ -87,6 +78,14 @@
             <pubDate>Sat, 23 Apr 2022 12:26:05 GMT</pubDate>
             <content:encoded><![CDATA[04월 30일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_76/TM780_1649847726861DMjux_JPEG/1649847726789.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] 재즈파크빅밴드]]></title>
+            <link>https://tv.naver.com/l/104361</link>
+            <guid>https://tv.naver.com/l/104361</guid>
+            <pubDate>Mon, 25 Apr 2022 12:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[04월 30일(토) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_26/OFa8u_1649847820650O53Rn_JPEG/1649847820573.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
