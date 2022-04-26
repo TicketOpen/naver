@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 10:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 11:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 19 Apr 2022 03:23:17 GMT</pubDate>
             <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220419_49/pWoPN_1650335572828ANFCC_JPEG/1650335572793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대합창의 밤 모던 사운드(Modern Sound)]]></title>
-            <link>https://blog.naver.com/nachorus1973/222676230683</link>
-            <guid>https://blog.naver.com/nachorus1973/222676230683</guid>
-            <pubDate>Wed, 13 Apr 2022 08:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_109/7qNCe_1649825601305CnEEN_JPEG/1649825601269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 2]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 25 Apr 2022 12:28:44 GMT</pubDate>
             <content:encoded><![CDATA[04월 30일(토) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_26/OFa8u_1649847820650O53Rn_JPEG/1649847820573.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] JAZZ all Stars]]></title>
+            <link>https://tv.naver.com/l/104362</link>
+            <guid>https://tv.naver.com/l/104362</guid>
+            <pubDate>Tue, 26 Apr 2022 11:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[04월 30일(토) 18:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220425_130/16508951462263gMbL_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
