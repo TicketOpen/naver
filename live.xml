@@ -4,25 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 11:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 12:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 1]]></title>
-            <link>https://tv.naver.com/l/104354</link>
-            <guid>https://tv.naver.com/l/104354</guid>
-            <pubDate>Wed, 13 Apr 2022 14:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_253/9nZn2_1649846130041oQjzw_JPEG/1649846129992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 4월 천원의행복 수어연극 사라지는 사람들]]></title>
-            <link>https://tv.naver.com/l/104745</link>
-            <guid>https://tv.naver.com/l/104745</guid>
-            <pubDate>Tue, 19 Apr 2022 03:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_49/pWoPN_1650335572828ANFCC_JPEG/1650335572793.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 2]]></title>
             <link>https://tv.naver.com/l/104355</link>
@@ -86,6 +70,22 @@
             <pubDate>Tue, 26 Apr 2022 11:14:17 GMT</pubDate>
             <content:encoded><![CDATA[04월 30일(토) 18:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_130/16508951462263gMbL_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (3)]]></title>
+            <link>https://tv.naver.com/l/104363</link>
+            <guid>https://tv.naver.com/l/104363</guid>
+            <pubDate>Tue, 26 Apr 2022 12:31:31 GMT</pubDate>
+            <content:encoded><![CDATA[05월 01일(일) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_73/Bx32Z_1649848069857SpJGk_JPEG/1649848069836.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] 강태환 Trio]]></title>
+            <link>https://tv.naver.com/l/104364</link>
+            <guid>https://tv.naver.com/l/104364</guid>
+            <pubDate>Tue, 26 Apr 2022 12:31:31 GMT</pubDate>
+            <content:encoded><![CDATA[05월 01일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_266/ew1r2_1649848122837k06sh_JPEG/1649848122787.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
