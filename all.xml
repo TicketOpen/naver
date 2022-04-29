@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 12:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 13:36:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] 성기문 Trio + 박재홍 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/104359</link>
-            <guid>https://tv.naver.com/l/104359</guid>
-            <pubDate>Fri, 22 Apr 2022 12:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[04월 29일(금) 20:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_239/ptGrD_1649847433050iCoTx_JPEG/1649847433022.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (2) (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/104360</link>
@@ -88,6 +80,15 @@
             <pubDate>Mon, 25 Apr 2022 12:28:49 GMT</pubDate>
             <content:encoded><![CDATA[05월 09일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_285/HIbm6_1649750926319pGKJQ_JPEG/1649750926266.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 25 Apr 2022 12:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[05월 16일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_80/ANepI_16500075047591eU5P_JPEG/1650007504728.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 세계재즈의날 기념공연한국을 대표하는 재즈 뮤지션들의 향연 (네이버 공연 live beta ─ 하이라이트)]]></title>
