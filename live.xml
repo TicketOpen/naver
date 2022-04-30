@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 11:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 12:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] JAZZ all Stars]]></title>
-            <link>https://tv.naver.com/l/104362</link>
-            <guid>https://tv.naver.com/l/104362</guid>
-            <pubDate>Tue, 26 Apr 2022 11:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[04월 30일(토) 18:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_130/16508951462263gMbL_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (3)]]></title>
             <link>https://tv.naver.com/l/104363</link>
