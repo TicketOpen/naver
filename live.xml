@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 07:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 08:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (2)]]></title>
-            <link>https://tv.naver.com/l/104360</link>
-            <guid>https://tv.naver.com/l/104360</guid>
-            <pubDate>Sat, 23 Apr 2022 12:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[04월 30일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_76/TM780_1649847726861DMjux_JPEG/1649847726789.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] 재즈파크빅밴드]]></title>
             <link>https://tv.naver.com/l/104361</link>
@@ -89,6 +81,14 @@
             <pubDate>Thu, 28 Apr 2022 10:18:04 GMT</pubDate>
             <content:encoded><![CDATA[05월 16일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_80/ANepI_16500075047591eU5P_JPEG/1650007504728.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 '전람회의 그림']]></title>
+            <link>https://blog.naver.com/ksoblog/222707182555</link>
+            <guid>https://blog.naver.com/ksoblog/222707182555</guid>
+            <pubDate>Sat, 30 Apr 2022 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[05월 29일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_254/zUFbs_1651022629562SJKu3_JPEG/1651022629510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
