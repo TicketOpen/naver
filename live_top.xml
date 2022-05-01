@@ -4,27 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 12:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 13:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 서울재즈페스타 폐막공연40개 황금손가락에 말로의 색이 더해지다]]></title>
-            <link>https://m.tv.naver.com/l/104366</link>
-            <guid>https://m.tv.naver.com/l/104366</guid>
-            <pubDate>Mon, 25 Apr 2022 14:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://m.tv.naver.com/l/104366" class="video">
-										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20220425_203/1650894839187GCSmC_JPEG/688X386_.jpg" alt="2022 서울재즈페스타 폐막공연<br>40개 황금손가락에 말로의 색이 더해지다 이미지">
-										<div class="text-info-box" style="opacity: 1;">
-											<p class="date ellipsis">5/1(일) 오후 7시</p>
-											<div class="text-info">
-												
-												
-												<p class="sub-title ellipsis2">2022 서울재즈페스타 폐막공연<br>40개 황금손가락에 말로의 색이 더해지다</p>
-											</div>
-										</div>
-									</a>]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_203/1650894839187GCSmC_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다.]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
@@ -32,24 +14,6 @@
             <pubDate>Mon, 25 Apr 2022 12:28:49 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 서울재즈페스타 폐막공연40개 황금손가락에 말로의 색이 더해지다]]></title>
-            <link>https://m.tv.naver.com/l/104366</link>
-            <guid>https://m.tv.naver.com/l/104366</guid>
-            <pubDate>Mon, 25 Apr 2022 14:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://m.tv.naver.com/l/104366" class="video">
-										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20220425_203/1650894839187GCSmC_JPEG/688X386_.jpg" alt="2022 서울재즈페스타 폐막공연<br>40개 황금손가락에 말로의 색이 더해지다 이미지">
-										<div class="text-info-box" style="opacity:0;">
-											<p class="date ellipsis">5/1(일) 오후 7시</p>
-											<div class="text-info">
-												
-												
-												<p class="sub-title ellipsis2">2022 서울재즈페스타 폐막공연<br>40개 황금손가락에 말로의 색이 더해지다</p>
-											</div>
-										</div>
-									</a>]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_203/1650894839187GCSmC_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다.]]></title>
