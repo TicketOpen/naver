@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 05:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 06:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (3)]]></title>
-            <link>https://tv.naver.com/l/104363</link>
-            <guid>https://tv.naver.com/l/104363</guid>
-            <pubDate>Tue, 26 Apr 2022 12:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[05월 01일(일) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_73/Bx32Z_1649848069857SpJGk_JPEG/1649848069836.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] 강태환 Trio]]></title>
             <link>https://tv.naver.com/l/104364</link>
