@@ -4,9 +4,33 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 08:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디뮤지엄 서울숲 개관 특별전 <어쨋든, 사랑>]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/502123</link>
+            <guid>https://shoppinglive.naver.com/livebridge/502123</guid>
+            <pubDate>Mon, 02 May 2022 09:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/502123" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20220502_16/16514810285742kOqv_JPEG/688X386_.jpg" alt="디뮤지엄 서울숲 개관 특별전 <어쨋든, 사랑> 이미지">
+										<div class="text-info-box" style="opacity: 1;">
+											<p class="date ellipsis">5/3(화) 오후 8시</p>
+											<div class="text-info">
+												
+													
+													
+													
+														<span class="badge_middle badge_bg--f43319">쇼핑</span>
+													
+												
+												
+												<p class="sub-title ellipsis2">디뮤지엄 서울숲 개관 특별전 &lt;어쨋든, 사랑&gt;</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_16/16514810285742kOqv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다.]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
@@ -14,6 +38,30 @@
             <pubDate>Mon, 25 Apr 2022 12:28:49 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디뮤지엄 서울숲 개관 특별전 <어쨋든, 사랑>]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/502123</link>
+            <guid>https://shoppinglive.naver.com/livebridge/502123</guid>
+            <pubDate>Mon, 02 May 2022 09:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://shoppinglive.naver.com/livebridge/502123" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20220502_16/16514810285742kOqv_JPEG/688X386_.jpg" alt="디뮤지엄 서울숲 개관 특별전 <어쨋든, 사랑> 이미지">
+										<div class="text-info-box" style="opacity:0;">
+											<p class="date ellipsis">5/3(화) 오후 8시</p>
+											<div class="text-info">
+												
+													
+													
+													
+														<span class="badge_middle badge_bg--f43319">쇼핑</span>
+													
+												
+												
+												<p class="sub-title ellipsis2">디뮤지엄 서울숲 개관 특별전 &lt;어쨋든, 사랑&gt;</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_16/16514810285742kOqv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다.]]></title>
