@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,12 +59,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_80/ANepI_16500075047591eU5P_JPEG/1650007504728.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											[후원전용] 음악극<올드 위키드 송> 5/23 남명렬&정휘]]></title>
+            <link>https://tv.naver.com/l/104149</link>
+            <guid>https://tv.naver.com/l/104149</guid>
+            <pubDate>Mon, 02 May 2022 08:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[05월 23일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_249/1651479439875FExhT_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립심포니오케스트라 '전람회의 그림']]></title>
             <link>https://blog.naver.com/ksoblog/222707182555</link>
             <guid>https://blog.naver.com/ksoblog/222707182555</guid>
             <pubDate>Sat, 30 Apr 2022 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[05월 29일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_254/zUFbs_1651022629562SJKu3_JPEG/1651022629510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] 음악극<올드 위키드 송> 5/30 남경읍&이재균]]></title>
+            <link>https://tv.naver.com/l/104153</link>
+            <guid>https://tv.naver.com/l/104153</guid>
+            <pubDate>Mon, 02 May 2022 08:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[05월 30일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
