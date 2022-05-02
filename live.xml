@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 01:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,12 +17,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_61/o9wqb_1649750380303EghyP_JPEG/1649750380256.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<화로> 공연 실황 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/105399</link>
+            <guid>https://tv.naver.com/l/105399</guid>
+            <pubDate>Mon, 02 May 2022 01:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_14/1651451343502whg37_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[디뮤지엄] ≪어쨌든, 사랑: Romantic Days≫ 라이브]]></title>
             <link>https://tv.naver.com/l/105389</link>
             <guid>https://tv.naver.com/l/105389</guid>
             <pubDate>Thu, 28 Apr 2022 12:31:58 GMT</pubDate>
             <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_234/21whH_1651026112599Rp5Ed_JPEG/1651026112559.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<모빌리티> 공연 실황 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/104959</link>
+            <guid>https://tv.naver.com/l/104959</guid>
+            <pubDate>Mon, 02 May 2022 01:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[05월 05일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_119/1651451721694iyFRO_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
