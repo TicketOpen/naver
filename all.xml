@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 03:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 04:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,12 +94,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 25 Apr 2022 12:28:49 GMT</pubDate>
+            <title><![CDATA[(전통예술) 콜비츠와의 대화 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 02 May 2022 09:17:01 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20220509_104/1652070275223Usulx_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -118,12 +118,28 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[(전통예술) 콜비츠와의 대화 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 02 May 2022 09:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220509_104/1652070275223Usulx_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
             <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
             <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220509_250/16520605920976rwlN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다. (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 25 Apr 2022 12:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
