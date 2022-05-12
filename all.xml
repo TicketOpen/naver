@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 12:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 13:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<김소라 LANDSCAPE> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/105774</link>
-            <guid>https://tv.naver.com/l/105774</guid>
-            <pubDate>Mon, 02 May 2022 14:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[05월 12일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_144/1651498957215LI5TJ_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta)]]></title>
@@ -90,6 +82,15 @@
             <pubDate>Thu, 12 May 2022 09:19:55 GMT</pubDate>
             <content:encoded><![CDATA[05월 31일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220512_238/16523452269774lsWN_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/104739</link>
+            <guid>https://tv.naver.com/l/104739</guid>
+            <pubDate>Thu, 12 May 2022 13:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
