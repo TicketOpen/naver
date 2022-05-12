@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,13 +84,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/104739</link>
-            <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Mon, 09 May 2022 15:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세종문화회관 5월 천원의 행복 <동요, 클래식이 되다> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/106580</link>
+            <guid>https://tv.naver.com/l/106580</guid>
+            <pubDate>Thu, 12 May 2022 09:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[05월 31일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220512_238/16523452269774lsWN_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
