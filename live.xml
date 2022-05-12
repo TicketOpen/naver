@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 01:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,6 +57,14 @@
             <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
             <content:encoded><![CDATA[05월 23일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220502_249/1651479439875FExhT_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비엔나바로크오케스트라 내한공연 Vienna Baroque Orchestra]]></title>
+            <link>https://blog.naver.com/art_cbs/222728539802</link>
+            <guid>https://blog.naver.com/art_cbs/222728539802</guid>
+            <pubDate>Thu, 12 May 2022 01:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[05월 24일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_76/c0PGH_1652236926123aUdOH_PNG/1652236926091.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 '전람회의 그림']]></title>
