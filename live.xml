@@ -4,43 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <풍월주> 앵콜 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Thu, 28 Apr 2022 10:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[05월 16일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_80/ANepI_16500075047591eU5P_JPEG/1650007504728.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<보더라인> 공연 실황 녹화 중계]]></title>
-            <link>https://tv.naver.com/l/105775</link>
-            <guid>https://tv.naver.com/l/105775</guid>
-            <pubDate>Mon, 02 May 2022 14:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[05월 17일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_177/1651499086641qe8gE_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <광주>, 5·18민주화운동 42주년 기념 대작!]]></title>
-            <link>https://tv.naver.com/l/105824</link>
-            <guid>https://tv.naver.com/l/105824</guid>
-            <pubDate>Mon, 02 May 2022 15:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[05월 18일(수) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_258/oXTZV_1651493238529KbIjK_JPEG/1651493238473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<윤회매십전> 공연 실황 녹화 중계]]></title>
-            <link>https://tv.naver.com/l/105768</link>
-            <guid>https://tv.naver.com/l/105768</guid>
-            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[05월 19일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_193/1651499184916oaUdw_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											[후원전용] 음악극<올드 위키드 송> 5/23 남명렬&정휘]]></title>
@@ -49,6 +15,14 @@
             <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
             <content:encoded><![CDATA[05월 23일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220502_249/1651479439875FExhT_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <아이다(AIDA)> 프레스 콜]]></title>
+            <link>https://tv.naver.com/l/106542</link>
+            <guid>https://tv.naver.com/l/106542</guid>
+            <pubDate>Sun, 22 May 2022 02:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[05월 24일(화) 16:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220517_219/16527631941102NYbc_JPEG/messageImage_1589339534203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비엔나바로크오케스트라 내한공연 Vienna Baroque Orchestra]]></title>
