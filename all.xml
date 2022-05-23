@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 15:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 16:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] 음악극<올드 위키드 송> 5/23 남명렬&정휘 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
-            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[05월 23일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_249/1651479439875FExhT_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <아이다(AIDA)> 프레스 콜 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/106542</link>
