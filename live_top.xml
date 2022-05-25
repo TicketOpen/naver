@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 06:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220509_250/16520605920976rwlN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 뮤지컬 엑스칼리버 서울 앙코르 공연 김준수ver]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Wed, 25 May 2022 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220525_186/1653455954768tnmnL_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[음악극 <올드 위키드 송>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
             <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
             <pubDate>Mon, 09 May 2022 03:20:18 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220509_250/16520605920976rwlN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 뮤지컬 엑스칼리버 서울 앙코르 공연 김준수ver]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Wed, 25 May 2022 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220525_186/1653455954768tnmnL_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
