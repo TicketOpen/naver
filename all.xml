@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 06:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 07:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬<아가사> 공연 실황 녹화 중계 - 1회차 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[06월 13일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_252/QMlAt_16527555373210idu7_JPEG/1652755537304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											2022 엑스칼리버 서울 앙코르 공연 (김준수ver.) - [06/14일] (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
@@ -76,6 +85,23 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220525_279/16534409701442UciM_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <아가사> 공연실황  1926년 실제 실종 사건을 재구성한 작품 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220525_91/1653460731319t49yz_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
             <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
@@ -84,7 +110,7 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220509_250/16520605920976rwlN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 뮤지컬 엑스칼리버 서울 앙코르 공연 김준수ver (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <title><![CDATA[2022 엑스칼리버 앙코르 공연 김준수ver  새로운 시대를 위한 위대한 여정 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
             <pubDate>Tue, 24 May 2022 05:21:15 GMT</pubDate>
@@ -92,6 +118,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220525_186/1653455954768tnmnL_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <아가사> 공연실황  1926년 실제 실종 사건을 재구성한 작품 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220525_91/1653460731319t49yz_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
             <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
@@ -100,7 +134,7 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220509_250/16520605920976rwlN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 뮤지컬 엑스칼리버 서울 앙코르 공연 김준수ver (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <title><![CDATA[2022 엑스칼리버 앙코르 공연 김준수ver  새로운 시대를 위한 위대한 여정 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
             <pubDate>Tue, 24 May 2022 05:21:15 GMT</pubDate>
