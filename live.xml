@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 11:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 12:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,7 +33,7 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220512_238/16523452269774lsWN_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<어느 수집가의 초대> 전시 중계]]></title>
+            <title><![CDATA[고故 이건희 회장 기증 1주년 기념전 <어느 수집가의 초대> 전시 중계]]></title>
             <link>https://tv.naver.com/l/107570</link>
             <guid>https://tv.naver.com/l/107570</guid>
             <pubDate>Wed, 25 May 2022 05:19:59 GMT</pubDate>
