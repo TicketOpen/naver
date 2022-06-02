@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 06:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											<라흐마니노프> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
+											<라흐마니노프> 공연 실황 녹화 중계 - CAST 정욱진 정민 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
             <pubDate>Fri, 27 May 2022 08:21:28 GMT</pubDate>
