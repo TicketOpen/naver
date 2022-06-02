@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 08:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 09:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,13 +87,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_19/D1tsV_1653467053043UQBAg_JPEG/1653467052980.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
-            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국립심포니오케스트라 Dr's PICK1 '바그너와 브루크너' (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/107903</link>
+            <guid>https://tv.naver.com/l/107903</guid>
+            <pubDate>Thu, 02 Jun 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[06월 19일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_24/eNnfH_1654155390080rDr6y_JPEG/1654155390046.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라흐마니노프> 공연 실황  정욱진, 정민 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
