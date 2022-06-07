@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 11:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 12:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220602_248/16541490909828QDL1_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <라흐마니노프> 공연 실황  정욱진, 정민 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 27 May 2022 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220530_106/1653913098907KVMBR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 엑스칼리버 앙코르 공연 김준수ver  새로운 시대를 위한 위대한 여정 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
@@ -118,14 +110,6 @@
             <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220525_91/1653460731319t49yz_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <라흐마니노프> 공연 실황  정욱진, 정민 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 27 May 2022 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220530_106/1653913098907KVMBR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 엑스칼리버 앙코르 공연 김준수ver  새로운 시대를 위한 위대한 여정 (네이버 공연 live beta ─ 하이라이트)]]></title>
