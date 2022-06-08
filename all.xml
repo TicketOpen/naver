@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_19/D1tsV_1653467053043UQBAg_JPEG/1653467052980.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립심포니오케스트라 Dr's PICK1 '바그너와 브루크너' (네이버 공연 live beta)]]></title>
+            <title><![CDATA[국립심포니오케스트라 Dr's PICK l '바그너와 브루크너' (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/107903</link>
             <guid>https://tv.naver.com/l/107903</guid>
             <pubDate>Thu, 02 Jun 2022 09:17:35 GMT</pubDate>
