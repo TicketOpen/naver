@@ -4,9 +4,81 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 10:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 11:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 2]]></title>
+            <link>https://tv.naver.com/l/108520</link>
+            <guid>https://tv.naver.com/l/108520</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 10일(금) 04:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_236/1654771321110EfqXW_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 협주곡 1]]></title>
+            <link>https://tv.naver.com/l/108589</link>
+            <guid>https://tv.naver.com/l/108589</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 10일(금) 09:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_184/1654771390369Tnkv4_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 3]]></title>
+            <link>https://tv.naver.com/l/108526</link>
+            <guid>https://tv.naver.com/l/108526</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 11일(토) 04:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_115/1654771451435Ey6wc_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 협주곡 2]]></title>
+            <link>https://tv.naver.com/l/108588</link>
+            <guid>https://tv.naver.com/l/108588</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 11일(토) 09:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_29/16547715043989VVwO_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 4]]></title>
+            <link>https://tv.naver.com/l/108590</link>
+            <guid>https://tv.naver.com/l/108590</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 12일(일) 04:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_246/1654771557982zAA8v_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 협주곡 3]]></title>
+            <link>https://tv.naver.com/l/108593</link>
+            <guid>https://tv.naver.com/l/108593</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 12일(일) 09:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_45/1654771594684qDJwN_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 5]]></title>
+            <link>https://tv.naver.com/l/108591</link>
+            <guid>https://tv.naver.com/l/108591</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 13일(월) 04:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_234/1654771646703HXQUg_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 6]]></title>
+            <link>https://tv.naver.com/l/108592</link>
+            <guid>https://tv.naver.com/l/108592</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 13일(월) 09:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_17/1654771732206xi2RR_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[NOW]뮤지컬 <번지점프를 하다> 시츠프로브]]></title>
+            <link>https://now.naver.com/show/5975</link>
+            <guid>https://now.naver.com/show/5975</guid>
+            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06월 13일(월) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_254/165477108800644QEV_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼핑
 											뮤지컬 <번지점프를 하다> 40% 티켓 할인X시츠프로브]]></title>
@@ -15,85 +87,6 @@
             <pubDate>Thu, 09 Jun 2022 08:29:21 GMT</pubDate>
             <content:encoded><![CDATA[06월 13일(월) 19:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220609_22/1654761976168pKTlh_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<아가사> 공연 실황 녹화 중계 - 1회차]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
-            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[06월 13일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_252/QMlAt_16527555373210idu7_JPEG/1652755537304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											2022 엑스칼리버 서울 앙코르 공연 (김준수ver.) - [06/14일]]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 24 May 2022 05:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[06월 14일(화) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_258/WMCya_1653285577541zy6cz_JPEG/1653285577523.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											뮤지컬 <볼륨업>]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/550443</link>
-            <guid>https://shoppinglive.naver.com/livebridge/550443</guid>
-            <pubDate>Thu, 09 Jun 2022 08:29:21 GMT</pubDate>
-            <content:encoded><![CDATA[06월 14일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220609_122/1654762190224h3zop_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											2022 엑스칼리버 서울 앙코르 공연 (김준수ver.) - [06/15일]]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 24 May 2022 05:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[06월 15일(수) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_81/fwUaH_1653290297735Q6G2G_JPEG/1653290297714.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영]]></title>
-            <link>https://blog.naver.com/artmplus/222744022353</link>
-            <guid>https://blog.naver.com/artmplus/222744022353</guid>
-            <pubDate>Sun, 29 May 2022 10:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[06월 16일(목) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220525_279/16534409701442UciM_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											2022 엑스칼리버 서울 앙코르 공연 (김준수ver.)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 24 May 2022 05:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[06월 17일(금) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_299/8Ki7g_1653466940453Sgh7D_JPEG/1653466940372.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											2022 엑스칼리버 서울 앙코르 공연 (김준수ver.)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 24 May 2022 05:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[06월 18일(토) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_19/D1tsV_1653467053043UQBAg_JPEG/1653467052980.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립심포니오케스트라 Dr's PICK l '바그너와 브루크너']]></title>
-            <link>https://tv.naver.com/l/107903</link>
-            <guid>https://tv.naver.com/l/107903</guid>
-            <pubDate>Thu, 02 Jun 2022 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[06월 19일(일) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_24/eNnfH_1654155390080rDr6y_JPEG/1654155390046.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
-            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
