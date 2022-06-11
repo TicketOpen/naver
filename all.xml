@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 21:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 22:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 4 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/108590</link>
-            <guid>https://tv.naver.com/l/108590</guid>
-            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[06월 12일(일) 04:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220609_246/1654771557982zAA8v_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 협주곡 3 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/108593</link>
@@ -91,6 +83,14 @@
             <pubDate>Tue, 24 May 2022 05:21:15 GMT</pubDate>
             <content:encoded><![CDATA[06월 15일(수) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220523_81/fwUaH_1653290297735Q6G2G_JPEG/1653290297714.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/artmplus/222744022353</link>
+            <guid>https://blog.naver.com/artmplus/222744022353</guid>
+            <pubDate>Sat, 11 Jun 2022 22:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[06월 16일(목) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220525_279/16534409701442UciM_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 엑스칼리버 앙코르 공연 김준수ver  새로운 시대를 위한 위대한 여정 (네이버 공연 live beta ─ 하이라이트)]]></title>
