@@ -4,26 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 10:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 11:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[NOW]뮤지컬 <번지점프를 하다> 시츠프로브]]></title>
-            <link>https://now.naver.com/show/5975</link>
-            <guid>https://now.naver.com/show/5975</guid>
-            <pubDate>Thu, 09 Jun 2022 11:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[06월 13일(월) 19:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220609_254/165477108800644QEV_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											뮤지컬 <번지점프를 하다> 40% 티켓 할인X시츠프로브]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/552233</link>
-            <guid>https://shoppinglive.naver.com/livebridge/552233</guid>
-            <pubDate>Thu, 09 Jun 2022 08:29:21 GMT</pubDate>
-            <content:encoded><![CDATA[06월 13일(월) 19:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220609_22/1654761976168pKTlh_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<아가사> 공연 실황 녹화 중계 - 1회차]]></title>
@@ -93,6 +76,23 @@
             <pubDate>Mon, 13 Jun 2022 03:35:21 GMT</pubDate>
             <content:encoded><![CDATA[06월 19일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_24/eNnfH_1654155390080rDr6y_JPEG/1654155390046.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Thu, 09 Jun 2022 22:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브]]></title>
+            <link>https://now.naver.com/show/5928</link>
+            <guid>https://now.naver.com/show/5928</guid>
+            <pubDate>Mon, 13 Jun 2022 11:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
