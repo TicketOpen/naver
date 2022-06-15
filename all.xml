@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,14 @@
             <pubDate>Tue, 24 May 2022 05:21:15 GMT</pubDate>
             <content:encoded><![CDATA[06월 15일(수) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220523_81/fwUaH_1653290297735Q6G2G_JPEG/1653290297714.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 2 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/109037</link>
+            <guid>https://tv.naver.com/l/109037</guid>
+            <pubDate>Wed, 15 Jun 2022 03:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[06월 16일(목) 09:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220615_150/1655256167045EQoi1_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영 (네이버 공연 live beta)]]></title>
@@ -42,6 +50,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_299/8Ki7g_1653466940453Sgh7D_JPEG/1653466940372.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 3 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/109038</link>
+            <guid>https://tv.naver.com/l/109038</guid>
+            <pubDate>Wed, 15 Jun 2022 03:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[06월 18일(토) 09:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220615_275/16552562019819KxgG_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											2022 엑스칼리버 서울 앙코르 공연 (김준수ver.) (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
@@ -59,37 +75,20 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220614_185/1655195208876puyGB_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 4 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/109039</link>
+            <guid>https://tv.naver.com/l/109039</guid>
+            <pubDate>Wed, 15 Jun 2022 03:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[06월 19일(일) 05:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220615_66/1655256259344K1VcM_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[국립심포니오케스트라 Dr's PICK l '바그너와 브루크너' (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/107903</link>
             <guid>https://tv.naver.com/l/107903</guid>
             <pubDate>Mon, 13 Jun 2022 03:35:21 GMT</pubDate>
             <content:encoded><![CDATA[06월 19일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_24/eNnfH_1654155390080rDr6y_JPEG/1654155390046.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
-            <pubDate>Tue, 03 May 2022 12:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계! (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/108986</link>
-            <guid>https://tv.naver.com/l/108986</guid>
-            <pubDate>Tue, 14 Jun 2022 12:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_193/Hogz0_1655179858008bIcU3_JPEG/1655179857990.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브 (네이버 공연 live beta)]]></title>
-            <link>https://now.naver.com/show/5928</link>
-            <guid>https://now.naver.com/show/5928</guid>
-            <pubDate>Tue, 14 Jun 2022 15:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 엑스칼리버 앙코르 공연 김준수ver  새로운 시대를 위한 위대한 여정 (네이버 공연 live beta ─ 하이라이트)]]></title>
