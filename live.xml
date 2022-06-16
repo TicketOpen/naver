@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 01:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 2]]></title>
-            <link>https://tv.naver.com/l/109037</link>
-            <guid>https://tv.naver.com/l/109037</guid>
-            <pubDate>Wed, 15 Jun 2022 03:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[06월 16일(목) 09:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220615_150/1655256167045EQoi1_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영]]></title>
             <link>https://blog.naver.com/artmplus/222744022353</link>
@@ -89,6 +81,14 @@
             <pubDate>Wed, 15 Jun 2022 15:17:58 GMT</pubDate>
             <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계!]]></title>
+            <link>https://tv.naver.com/l/108986</link>
+            <guid>https://tv.naver.com/l/108986</guid>
+            <pubDate>Thu, 16 Jun 2022 05:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_193/Hogz0_1655179858008bIcU3_JPEG/1655179857990.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
