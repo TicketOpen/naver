@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 11:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 12:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 제24회 서울드럼페스티벌 1일차 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/108988</link>
-            <guid>https://tv.naver.com/l/108988</guid>
-            <pubDate>Tue, 14 Jun 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[06월 17일(금) 18:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220614_124/1655195090507RfVMj_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											2022 엑스칼리버 서울 앙코르 공연 (김준수ver.) (네이버 공연 live beta)]]></title>
@@ -89,6 +81,15 @@
             <pubDate>Thu, 16 Jun 2022 12:33:03 GMT</pubDate>
             <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<라흐마니노프> 공연 실황 녹화 중계 - CAST 김현진 김경수 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Thu, 16 Jun 2022 05:30:42 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220602_248/16541490909828QDL1_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 뮤지컬 <엑스칼리버> 앙코르 공연 김준수ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
