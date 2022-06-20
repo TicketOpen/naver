@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 14:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 15:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
-            <pubDate>Wed, 15 Jun 2022 15:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계!]]></title>
             <link>https://tv.naver.com/l/108986</link>
@@ -90,6 +81,15 @@
             <pubDate>Sun, 19 Jun 2022 10:15:57 GMT</pubDate>
             <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <팬레터> - 공연 실황 녹화 온라인 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 20 Jun 2022 15:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[07월 04일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
