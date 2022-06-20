@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 15:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 16:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,6 +57,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_9/LeBs0_1655029949959K8crn_JPEG/1655029949941.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청]]></title>
+            <link>https://tv.naver.com/l/109216</link>
+            <guid>https://tv.naver.com/l/109216</guid>
+            <pubDate>Mon, 20 Jun 2022 16:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_220/sMyk4_1655388874014GG47m_JPEG/1655388873952.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											<라흐마니노프> 공연 실황 녹화 중계 - CAST 박유덕 정동화]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -74,22 +82,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_56/dVS4x_1655032126168q50Bx_JPEG/1655032126129.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											<해시태그> 공연 실황 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
-            <pubDate>Sun, 19 Jun 2022 10:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <팬레터> - 공연 실황 녹화 온라인 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 20 Jun 2022 15:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[07월 04일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국립합창단 제190회 정기연주회 <한국의 소리>]]></title>
+            <link>https://tv.naver.com/l/109424</link>
+            <guid>https://tv.naver.com/l/109424</guid>
+            <pubDate>Mon, 20 Jun 2022 16:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[06월 30일(목) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_31/FhNeR_1655690622337maIpV_JPEG/1655690622318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
