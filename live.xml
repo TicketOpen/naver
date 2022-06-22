@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 07:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_9/LeBs0_1655029949959K8crn_JPEG/1655029949941.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직>]]></title>
+            <link>https://tv.naver.com/l/109632</link>
+            <guid>https://tv.naver.com/l/109632</guid>
+            <pubDate>Wed, 22 Jun 2022 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_140/vLO5D_1655880510273Afyo8_JPEG/1655880510258.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청]]></title>
             <link>https://tv.naver.com/l/109216</link>
             <guid>https://tv.naver.com/l/109216</guid>
@@ -55,14 +63,6 @@
             <pubDate>Sat, 18 Jun 2022 22:14:05 GMT</pubDate>
             <content:encoded><![CDATA[06월 29일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_56/dVS4x_1655032126168q50Bx_JPEG/1655032126129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립합창단 제190회 정기연주회 <한국의 소리>]]></title>
-            <link>https://tv.naver.com/l/109424</link>
-            <guid>https://tv.naver.com/l/109424</guid>
-            <pubDate>Mon, 20 Jun 2022 16:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[06월 30일(목) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_31/FhNeR_1655690622337maIpV_JPEG/1655690622318.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
