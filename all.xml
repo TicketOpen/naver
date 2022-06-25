@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 03:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 04:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 18 Jun 2022 03:20:34 GMT</pubDate>
             <content:encoded><![CDATA[06월 25일(토) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_136/Etxpu_1655031743172UHSoo_JPEG/1655031743151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NOW] 뮤지컬 산들 (네이버 공연 live beta)]]></title>
+            <link>https://now.naver.com/l/1733560</link>
+            <guid>https://now.naver.com/l/1733560</guid>
+            <pubDate>Sat, 25 Jun 2022 04:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[06월 26일(일) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220625_79/16561299106018gV9x_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <산들> 제16회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
@@ -82,12 +90,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_16/vRdve_16553891352464jWFA_JPEG/1655389135223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <봄을 그리다> 제16회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/109218</link>
-            <guid>https://tv.naver.com/l/109218</guid>
-            <pubDate>Thu, 23 Jun 2022 11:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[07월 03일(일) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_108/M6Nu7_1655389511249QwMBs_JPEG/1655389511203.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <해시태그> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
+            <pubDate>Tue, 21 Jun 2022 15:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220625_201/1656130118918fH2y2_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <팬레터> 공연실황 뮤즈에게 보내는 편지 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -104,6 +112,14 @@
             <pubDate>Thu, 16 Jun 2022 05:30:42 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220616_250/1655351145358XQLMR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <해시태그> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
+            <pubDate>Tue, 21 Jun 2022 15:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220625_201/1656130118918fH2y2_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <팬레터> 공연실황 뮤즈에게 보내는 편지 (네이버 공연 live beta ─ 하이라이트)]]></title>
