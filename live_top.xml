@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 14:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220620_155/1655736672815synwc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <라흐마니노프> 공연 실황 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 16 Jun 2022 05:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220616_250/1655351145358XQLMR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <해시태그>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
@@ -46,14 +38,6 @@
             <pubDate>Mon, 20 Jun 2022 15:16:36 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220620_155/1655736672815synwc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <라흐마니노프> 공연 실황 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 16 Jun 2022 05:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220616_250/1655351145358XQLMR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
