@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 12:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 13:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/109216</link>
-            <guid>https://tv.naver.com/l/109216</guid>
-            <pubDate>Mon, 20 Jun 2022 16:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_220/sMyk4_1655388874014GG47m_JPEG/1655388873952.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											<라흐마니노프> 공연 실황 녹화 중계 - CAST 박유덕 정동화 (네이버 공연 live beta)]]></title>
@@ -90,6 +82,14 @@
             <pubDate>Tue, 28 Jun 2022 12:32:46 GMT</pubDate>
             <content:encoded><![CDATA[07월 10일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/yDPBn_1655977435760QAxAt_JPEG/1655977435717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼' (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/109415</link>
+            <guid>https://tv.naver.com/l/109415</guid>
+            <pubDate>Tue, 28 Jun 2022 13:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <해시태그> (네이버 공연 live beta ─ 하이라이트)]]></title>
