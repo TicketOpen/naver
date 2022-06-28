@@ -4,9 +4,26 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 01:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 03:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NOW]뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청]]></title>
+            <link>https://now.naver.com/l/1733260</link>
+            <guid>https://now.naver.com/l/1733260</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220628_239/1656386145594PJaMc_JPEG/messageImage_1589339534203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											세종문화회관 <해설이 있는 체임버뮤직>]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/558890</link>
+            <guid>https://shoppinglive.naver.com/livebridge/558890</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220628_28/1656385093808iMF6f_JPEG/1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직>]]></title>
             <link>https://tv.naver.com/l/109632</link>
@@ -73,23 +90,6 @@
             <pubDate>Sat, 25 Jun 2022 12:25:45 GMT</pubDate>
             <content:encoded><![CDATA[07월 04일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<깊은 사랑> 공연 실황 녹화 중계]]></title>
-            <link>https://tv.naver.com/l/109775</link>
-            <guid>https://tv.naver.com/l/109775</guid>
-            <pubDate>Sat, 25 Jun 2022 13:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[07월 05일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_20/1656047231094M84Q7_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<꼭두각시> 공연 실황 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 17 Jun 2022 12:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[07월 07일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_15/1656047333922SkCUK_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
