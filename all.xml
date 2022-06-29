@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 12:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 13:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Chinese Taipei 뮤지컬 <넌 리딩 클럽 EP.2 > 제16회 DIMF 해외공 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/108847</link>
-            <guid>https://tv.naver.com/l/108847</guid>
-            <pubDate>Sat, 18 Jun 2022 22:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[06월 29일(수) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_56/dVS4x_1655032126168q50Bx_JPEG/1655032126129.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											<해시태그> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
