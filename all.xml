@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 08:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 18 Jun 2022 22:14:05 GMT</pubDate>
             <content:encoded><![CDATA[06월 29일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_56/dVS4x_1655032126168q50Bx_JPEG/1655032126129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NOW] Chinese Taipei 뮤지컬 <넌 리딩 클럽 EP.2> (네이버 공연 live beta)]]></title>
+            <link>https://now.naver.com/l/1733260</link>
+            <guid>https://now.naver.com/l/1733260</guid>
+            <pubDate>Wed, 29 Jun 2022 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[06월 29일(수) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220629_247/1656490942286gee3v_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
