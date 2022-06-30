@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,14 @@
             <pubDate>Tue, 21 Jun 2022 15:22:24 GMT</pubDate>
             <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NOW] 뮤지컬 <브람스> 전막 중계 (네이버 공연 live beta)]]></title>
+            <link>http://now.naver.com/l/1733260</link>
+            <guid>http://now.naver.com/l/1733260</guid>
+            <pubDate>Thu, 30 Jun 2022 08:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[07월 02일(토) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220630_224/1656574800243Hkr3z_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <브람스> 제16회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
@@ -63,7 +71,7 @@
             <link>https://tv.naver.com/l/109737</link>
             <guid>https://tv.naver.com/l/109737</guid>
             <pubDate>Tue, 28 Jun 2022 12:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[07월 10일(일) 19:30]]></content:encoded>
+            <content:encoded><![CDATA[07월 10일(일) 17:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/yDPBn_1655977435760QAxAt_JPEG/1655977435717.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
