@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 15:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 16:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,15 @@
             <pubDate>Tue, 28 Jun 2022 12:32:46 GMT</pubDate>
             <content:encoded><![CDATA[07월 10일(일) 17:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/yDPBn_1655977435760QAxAt_JPEG/1655977435717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<이상한 나라의 아빠> 공연 실황 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/110038</link>
+            <guid>https://tv.naver.com/l/110038</guid>
+            <pubDate>Thu, 30 Jun 2022 16:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[07월 15일(금) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220701_240/1656602804184omEin_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼']]></title>
