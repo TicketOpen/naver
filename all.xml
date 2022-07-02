@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 23:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 01:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,7 +79,7 @@
             <link>https://tv.naver.com/l/110038</link>
             <guid>https://tv.naver.com/l/110038</guid>
             <pubDate>Thu, 30 Jun 2022 16:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[07월 15일(금) 20:00]]></content:encoded>
+            <content:encoded><![CDATA[07월 14일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220701_240/1656602804184omEin_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
