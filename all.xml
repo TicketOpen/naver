@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 06:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 07:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[NOW] 뮤지컬 <봄을 그리다> 전막 중계 (네이버 공연 live beta)]]></title>
-            <link>https://now.naver.com/l/1733560</link>
-            <guid>https://now.naver.com/l/1733560</guid>
-            <pubDate>Thu, 30 Jun 2022 10:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[07월 03일(일) 14:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220630_11/16565832505676MDeE_JPEG/messageImage_1589339534203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <봄을 그리다> 제16회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/109218</link>
-            <guid>https://tv.naver.com/l/109218</guid>
-            <pubDate>Sat, 25 Jun 2022 08:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[07월 03일(일) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_108/M6Nu7_1655389511249QwMBs_JPEG/1655389511203.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <팬레터> - 공연 실황 녹화 온라인 중계 (네이버 공연 live beta)]]></title>
