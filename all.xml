@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -65,6 +65,24 @@
             <pubDate>Mon, 04 Jul 2022 01:46:27 GMT</pubDate>
             <content:encoded><![CDATA[07월 25일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_5/oWZAb_16566411647030bD5I_JPEG/1656641164645.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[DAY1] 제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/110452</link>
+            <guid>https://tv.naver.com/l/110452</guid>
+            <pubDate>Mon, 04 Jul 2022 08:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[08월 06일(토) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_12/eziqM_1656906116546FXQ7P_JPEG/1656906116523.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[DAY2] 제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/110456</link>
+            <guid>https://tv.naver.com/l/110456</guid>
+            <pubDate>Mon, 04 Jul 2022 08:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[08월 07일(일) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_12/eziqM_1656906116546FXQ7P_JPEG/1656906116523.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼' (네이버 공연 live beta)]]></title>
