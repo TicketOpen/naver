@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 11:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 12:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<깊은 사랑> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/109775</link>
-            <guid>https://tv.naver.com/l/109775</guid>
-            <pubDate>Tue, 28 Jun 2022 12:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[07월 05일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_20/1656047231094M84Q7_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Chinese Taipei 뮤지컬 <넌 리딩 클럽 EP.2> 제16회 DIMF (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/109817</link>
