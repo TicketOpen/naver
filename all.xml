@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 15:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,14 +39,6 @@
             <pubDate>Thu, 30 Jun 2022 16:24:32 GMT</pubDate>
             <content:encoded><![CDATA[07월 14일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220701_240/1656602804184omEin_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NOW] 뮤지컬 <전설의 리틀 농구장> 공연실황 (네이버 공연 live beta)]]></title>
-            <link>https://now.naver.com/l/1734339</link>
-            <guid>https://now.naver.com/l/1734339</guid>
-            <pubDate>Wed, 13 Jul 2022 04:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[07월 18일(월) 19:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220713_91/1657686508227SIkql_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 갈라콘서트 <더 레전드> (네이버 공연 live beta)]]></title>
