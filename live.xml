@@ -4,9 +4,17 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 03:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 04:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NOW] 요한 부르주아 <위대한 유령>]]></title>
+            <link>https://now.naver.com/l/1734063</link>
+            <guid>https://now.naver.com/l/1734063</guid>
+            <pubDate>Wed, 13 Jul 2022 04:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[07월 14일(목) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220713_219/1657686638531udkea_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요안 부르주아 '위대한 유령' 앵콜 중계]]></title>
             <link>https://blog.naver.com/lgartscenter/222799932519</link>
@@ -31,6 +39,14 @@
             <pubDate>Thu, 30 Jun 2022 16:24:32 GMT</pubDate>
             <content:encoded><![CDATA[07월 14일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220701_240/1656602804184omEin_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NOW] 뮤지컬 <전설의 리틀 농구장> 공연실황]]></title>
+            <link>https://now.naver.com/l/1734339</link>
+            <guid>https://now.naver.com/l/1734339</guid>
+            <pubDate>Wed, 13 Jul 2022 04:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[07월 18일(월) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220713_91/1657686508227SIkql_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7/21 <금호아티스트> 김수연 Piano]]></title>
