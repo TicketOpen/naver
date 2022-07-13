@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,14 @@
             <pubDate>Wed, 13 Jul 2022 04:34:53 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(월) 19:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220713_91/1657686508227SIkql_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 갈라콘서트 <더 레전드> (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/art_cbs/222808826972</link>
+            <guid>https://blog.naver.com/art_cbs/222808826972</guid>
+            <pubDate>Wed, 13 Jul 2022 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[07월 18일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_66/EJIL1_1657613071194tIrDW_PNG/1657613071176.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[7/21 <금호아티스트> 김수연 Piano (네이버 공연 live beta)]]></title>
