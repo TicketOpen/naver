@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 14:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 15:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작뮤지컬 <이상한 나라의 아빠>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-615</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-615</guid>
-            <pubDate>Mon, 04 Jul 2022 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220704_124/1656945721027XgGmz_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[제3회 자라섬 온라인 올라잇 재즈 페스티벌]]></title>
             <link>https://tv.naver.com/l/110452</link>
@@ -22,14 +14,6 @@
             <pubDate>Mon, 04 Jul 2022 15:19:44 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220704_167/1656946013372WuyGq_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 <이상한 나라의 아빠>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-615</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-615</guid>
-            <pubDate>Mon, 04 Jul 2022 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220704_124/1656945721027XgGmz_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제3회 자라섬 온라인 올라잇 재즈 페스티벌]]></title>
