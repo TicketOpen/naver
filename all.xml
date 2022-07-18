@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 09:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 10:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[두산인문극장 2022 연극 <당선자 없음> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/v/27941791</link>
-            <guid>https://tv.naver.com/v/27941791</guid>
-            <pubDate>Sun, 17 Jul 2022 05:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[07월 17일(일) 13:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220717_87/1658033604643sbGiJ_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <전설의 리틀 농구단> 공연 실황 생중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/111055</link>
-            <guid>https://tv.naver.com/l/111055</guid>
-            <pubDate>Thu, 14 Jul 2022 15:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[07월 18일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_18/i7DjO_1657689686501XowyH_JPEG/1657689686469.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[NOW] 뮤지컬 <전설의 리틀 농구장> 공연실황 (네이버 공연 live beta)]]></title>
             <link>https://now.naver.com/l/1734339</link>
