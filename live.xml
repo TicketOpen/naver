@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 10:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 11:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[7/21 <금호아티스트> 김수연 Piano]]></title>
-            <link>https://tv.naver.com/l/110738</link>
-            <guid>https://tv.naver.com/l/110738</guid>
-            <pubDate>Thu, 07 Jul 2022 09:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[07월 21일(목) 19:45]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220707_184/1657184839227bFOMd_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[세종문화회관 7월 천원의 행복 <국악관현악의 성장>]]></title>
             <link>https://tv.naver.com/l/111623</link>
