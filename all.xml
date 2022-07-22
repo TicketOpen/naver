@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 09:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 10:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,9 +18,9 @@
         <item>
             <title><![CDATA[후원
 											[8월 6일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/111314</link>
-            <guid>https://tv.naver.com/l/111314</guid>
-            <pubDate>Thu, 21 Jul 2022 16:22:30 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
+            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
+            <pubDate>Fri, 22 Jul 2022 10:19:27 GMT</pubDate>
             <content:encoded><![CDATA[08월 06일(토) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_14/o6N35_1657865146559Mt2GD_JPEG/1657865146539.jpg" length="0" type="image/jpg"/>
         </item>
@@ -36,9 +36,9 @@
         <item>
             <title><![CDATA[후원
 											[8월 7일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/111316</link>
-            <guid>https://tv.naver.com/l/111316</guid>
-            <pubDate>Thu, 21 Jul 2022 16:22:30 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
+            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
+            <pubDate>Fri, 22 Jul 2022 10:19:27 GMT</pubDate>
             <content:encoded><![CDATA[08월 07일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_100/Owcg1_1657865275504U5g7S_JPEG/1657865275459.jpg" length="0" type="image/jpg"/>
         </item>
