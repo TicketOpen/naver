@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Auctus: 성장] 국악관현악의 성장 (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/595996</link>
+            <guid>https://shoppinglive.naver.com/livebridge/595996</guid>
+            <pubDate>Mon, 25 Jul 2022 08:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[07월 25일(월) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220725_197/1658734788470XiHDR_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[세종문화회관 7월 천원의 행복 <국악관현악의 성장> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/111623</link>
@@ -68,12 +76,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_185/aPek9_1658730610449J9TTN_JPEG/1658730610429.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미라클라스 'RE:BOOT' 콘서트 실황 '미라클라스' 2022년 새롭게 'RE:BOOT' 하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
+            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
+            <pubDate>Fri, 22 Jul 2022 10:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220725_215/165873515438974XM0_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://tv.naver.com/l/110452</link>
             <guid>https://tv.naver.com/l/110452</guid>
             <pubDate>Mon, 04 Jul 2022 08:20:45 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220704_167/1656946013372WuyGq_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미라클라스 'RE:BOOT' 콘서트 실황 '미라클라스' 2022년 새롭게 'RE:BOOT' 하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
+            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
+            <pubDate>Fri, 22 Jul 2022 10:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220725_215/165873515438974XM0_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta ─ 하이라이트)]]></title>
