@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 11:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 12:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Auctus: 성장] 국악관현악의 성장 (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/595996</link>
-            <guid>https://shoppinglive.naver.com/livebridge/595996</guid>
-            <pubDate>Mon, 25 Jul 2022 08:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[07월 26일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220725_197/1658734788470XiHDR_PNG/1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 7월 천원의 행복 <국악관현악의 성장> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/111623</link>
-            <guid>https://tv.naver.com/l/111623</guid>
-            <pubDate>Tue, 19 Jul 2022 12:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[07월 26일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220719_30/1658232729763UErjq_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											[8월 6일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권 (네이버 공연 live beta)]]></title>
