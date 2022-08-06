@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 14:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 15:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[8월 6일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Fri, 22 Jul 2022 10:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[08월 06일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_14/o6N35_1657865146559Mt2GD_JPEG/1657865146539.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											[8월 7일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권]]></title>
@@ -93,6 +84,15 @@
             <pubDate>Sat, 06 Aug 2022 13:25:10 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <호프만의 이야기>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Sat, 06 Aug 2022 15:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
