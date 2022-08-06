@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 12:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 13:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Fri, 22 Jul 2022 10:19:27 GMT</pubDate>
             <content:encoded><![CDATA[08월 06일(토) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_14/o6N35_1657865146559Mt2GD_JPEG/1657865146539.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											[DAY1] 제3회 자라섬 온라인 올라잇 재즈 페스티벌]]></title>
-            <link>https://tv.naver.com/l/110452</link>
-            <guid>https://tv.naver.com/l/110452</guid>
-            <pubDate>Mon, 04 Jul 2022 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[08월 06일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_12/eziqM_1656906116546FXQ7P_JPEG/1656906116523.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -93,6 +84,15 @@
             <pubDate>Wed, 27 Jul 2022 04:53:58 GMT</pubDate>
             <content:encoded><![CDATA[08월 29일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											크레디아 프롬스 - 조성진 그리고 쇼팽]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
+            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
+            <pubDate>Sat, 06 Aug 2022 13:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
