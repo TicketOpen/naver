@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 12:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 13:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Fri, 22 Jul 2022 10:19:27 GMT</pubDate>
             <content:encoded><![CDATA[08월 07일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_100/Owcg1_1657865275504U5g7S_JPEG/1657865275459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											[DAY2] 제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/110456</link>
-            <guid>https://tv.naver.com/l/110456</guid>
-            <pubDate>Mon, 04 Jul 2022 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[08월 07일(일) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_12/eziqM_1656906116546FXQ7P_JPEG/1656906116523.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <서편제> 송스루 리허설 녹화중계 (네이버 공연 live beta)]]></title>
