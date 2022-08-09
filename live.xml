@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 11:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 12:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼']]></title>
-            <link>https://blog.naver.com/ksoblog/222794940632</link>
-            <guid>https://blog.naver.com/ksoblog/222794940632</guid>
-            <pubDate>Mon, 18 Jul 2022 11:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 실내악 시리즈 <브람스 판타지>]]></title>
             <link>https://blog.naver.com/ksoblog/222821132290</link>
