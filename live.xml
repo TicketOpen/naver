@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,14 @@
             <pubDate>Wed, 27 Jul 2022 04:53:58 GMT</pubDate>
             <content:encoded><![CDATA[08월 15일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_217/1658896916050cy9Ei_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준]]></title>
+            <link>https://blog.naver.com/artmplus/222828090496</link>
+            <guid>https://blog.naver.com/artmplus/222828090496</guid>
+            <pubDate>Thu, 11 Aug 2022 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220811_289/1660202459423GyMrL_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[후원
