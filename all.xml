@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 10:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 11:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[국립심포니오케스트라 실내악 시리즈 <브람스 판타지> (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/ksoblog/222821132290</link>
-            <guid>https://blog.naver.com/ksoblog/222821132290</guid>
-            <pubDate>Mon, 25 Jul 2022 07:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[08월 12일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_185/aPek9_1658730610449J9TTN_JPEG/1658730610429.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <경종수정실록> 1차 중계 8/15 오후 8시 (네이버 공연 live beta)]]></title>
