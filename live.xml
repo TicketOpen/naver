@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 10:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 11:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,15 @@
             <pubDate>Wed, 27 Jul 2022 04:53:58 GMT</pubDate>
             <content:encoded><![CDATA[08월 22일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_16/1658897031232OxRuq_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											NAVER ONSTAGE 로컬 라이브 보드_장풍파랑 051]]></title>
+            <link>https://booking.naver.com/booking/12/bizes/197542/items/4568902</link>
+            <guid>https://booking.naver.com/booking/12/bizes/197542/items/4568902</guid>
+            <pubDate>Thu, 18 Aug 2022 11:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[08월 28일(일) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_70/bU1LV_1660715876435SHMsJ_JPEG/1660715876389.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
