@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 10:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,15 @@
             <pubDate>Wed, 27 Jul 2022 04:53:58 GMT</pubDate>
             <content:encoded><![CDATA[08월 29일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/640289</link>
+            <guid>https://shoppinglive.naver.com/livebridge/640289</guid>
+            <pubDate>Tue, 23 Aug 2022 10:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_97/1661247347906LTMWS_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -85,10 +94,10 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <무인도 탈출기> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <title><![CDATA[뮤지컬 <무인도 탈출기>상상의 마법, 우리들의 극중극 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
             <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Tue, 23 Aug 2022 09:16:19 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -117,10 +126,10 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <무인도 탈출기> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <title><![CDATA[뮤지컬 <무인도 탈출기>상상의 마법, 우리들의 극중극 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
             <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Tue, 23 Aug 2022 09:16:19 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
         </item>
