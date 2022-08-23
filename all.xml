@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,6 +52,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											오페라 <호프만의 이야기> (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -76,6 +85,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <무인도 탈출기> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -98,6 +115,14 @@
             <pubDate>Wed, 27 Jul 2022 04:53:58 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <무인도 탈출기> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지 (네이버 공연 live beta ─ 하이라이트)]]></title>

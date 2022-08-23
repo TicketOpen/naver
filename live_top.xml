@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 29 Jul 2022 10:18:57 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <무인도 탈출기>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지]]></title>
@@ -46,6 +54,14 @@
             <pubDate>Fri, 29 Jul 2022 10:18:57 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <무인도 탈출기>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지]]></title>
