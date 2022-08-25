@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 01:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,18 +55,18 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <은밀하게 위대하게:THE LAST>]]></title>
-            <link>https://tv.naver.com/l/113999</link>
-            <guid>https://tv.naver.com/l/113999</guid>
-            <pubDate>Wed, 24 Aug 2022 05:42:11 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 25 Aug 2022 04:10:05 GMT</pubDate>
             <content:encoded><![CDATA[09월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_181/KF336_1661144817862B5JGx_JPEG/1661144817837.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <은밀하게 위대하게:THE LAST>]]></title>
-            <link>https://tv.naver.com/l/113998</link>
-            <guid>https://tv.naver.com/l/113998</guid>
-            <pubDate>Wed, 24 Aug 2022 05:42:11 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 25 Aug 2022 04:10:05 GMT</pubDate>
             <content:encoded><![CDATA[09월 20일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_46/nJAy5_1661144717251qbQnV_JPEG/1661144717230.jpg" length="0" type="image/jpg"/>
         </item>
