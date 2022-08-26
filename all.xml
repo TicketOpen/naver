@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,12 +89,20 @@
         </item>
         <item>
             <title><![CDATA[후원
-											오페라 <호프만의 이야기> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/22(목) (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[09월 22일(목) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_32/pURLK_1660874873274edeX9_JPEG/1660874873222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
             <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220826_128/1661502830289YrKjY_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -119,6 +127,14 @@
             <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <홀연했던 사나이>1년을 잠들어 있던 그 사나이의 마지막 상영회 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -129,6 +145,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220729_287/1659088591359lNfDa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220826_128/1661502830289YrKjY_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
             <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
@@ -151,6 +175,14 @@
             <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <홀연했던 사나이>1년을 잠들어 있던 그 사나이의 마지막 상영회 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지 (네이버 공연 live beta ─ 하이라이트)]]></title>
