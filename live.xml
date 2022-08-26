@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <pubDate>Wed, 27 Jul 2022 04:53:58 GMT</pubDate>
             <content:encoded><![CDATA[08월 29일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8월 천원의행복 모던 국악 콘서트 <진면목>]]></title>
+            <link>https://tv.naver.com/l/114510</link>
+            <guid>https://tv.naver.com/l/114510</guid>
+            <pubDate>Fri, 26 Aug 2022 04:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220826_6/16614789566589FMbY_JPEG/1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
