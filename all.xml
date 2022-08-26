@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 07:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 08:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,6 +77,15 @@
             <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
             <content:encoded><![CDATA[09월 20일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_46/nJAy5_1661144717251qbQnV_JPEG/1661144717230.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/21(수) (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[09월 21일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_171/B2Q0A_1660874827147nqWbu_JPEG/1660874827106.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
