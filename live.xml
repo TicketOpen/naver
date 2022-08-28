@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 05:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 06:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											NAVER ONSTAGE 로컬 라이브 보드_장풍파랑 051]]></title>
-            <link>https://booking.naver.com/booking/12/bizes/197542/items/4568902</link>
-            <guid>https://booking.naver.com/booking/12/bizes/197542/items/4568902</guid>
-            <pubDate>Thu, 18 Aug 2022 11:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[08월 28일(일) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_70/bU1LV_1660715876435SHMsJ_JPEG/1660715876389.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <경종수정실록> 3차 중계 8/29 오후 8시]]></title>
@@ -95,6 +86,15 @@
             <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[09월 22일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_32/pURLK_1660874873274edeX9_JPEG/1660874873222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/23(금)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
