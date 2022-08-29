@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 14:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 15:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 3차 중계 8/29 오후 8시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Jul 2022 04:53:58 GMT</pubDate>
-            <content:encoded><![CDATA[08월 29일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[8월 천원의행복 모던 국악 콘서트 <진면목>]]></title>
             <link>https://tv.naver.com/l/114510</link>
@@ -95,6 +86,15 @@
             <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <호프만의 이야기>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 29 Aug 2022 15:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
