@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 15:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 16:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <pubDate>Tue, 23 Aug 2022 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 K-Arts 오디션 전통예술원]]></title>
+            <link>https://blog.naver.com/karts_/222862262051</link>
+            <guid>https://blog.naver.com/karts_/222862262051</guid>
+            <pubDate>Tue, 30 Aug 2022 16:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[09월 06일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_168/r4UZI_1661869849399qbvwP_JPEG/1661869849368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
