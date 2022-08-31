@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 15:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 16:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											크레디아 프롬스 - 조성진 그리고 쇼팽]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
-            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
-            <pubDate>Sat, 06 Aug 2022 13:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											늦여름 특집 뮤지컬 무인도 탈출기]]></title>
