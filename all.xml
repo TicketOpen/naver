@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 12:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 13:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220826_128/1661502830289YrKjY_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
-            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220727_89/165891213882522jRv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <무인도 탈출기>상상의 마법, 우리들의 극중극 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
             <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
@@ -134,14 +126,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220826_128/1661502830289YrKjY_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/klassica</link>
-            <guid>https://patron.naver.com/ntv/c/intro/klassica</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220727_89/165891213882522jRv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <무인도 탈출기>상상의 마법, 우리들의 극중극 (네이버 공연 live beta ─ 하이라이트)]]></title>
