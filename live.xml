@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 23:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 01:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,15 @@
             <pubDate>Thu, 25 Aug 2022 04:10:05 GMT</pubDate>
             <content:encoded><![CDATA[09월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_181/KF336_1661144817862B5JGx_JPEG/1661144817837.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] 뮤지컬 <여신님이 보고 계셔> 9월 19일 중계]]></title>
+            <link>https://tv.naver.com/l/114523</link>
+            <guid>https://tv.naver.com/l/114523</guid>
+            <pubDate>Fri, 02 Sep 2022 01:45:08 GMT</pubDate>
+            <content:encoded><![CDATA[09월 19일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_84/P5xIa_16614917573404ibi6_JPEG/1661491757289.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -68,6 +77,15 @@
             <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] 뮤지컬 <여신님이 보고 계셔> 9월 26일 중계]]></title>
+            <link>https://tv.naver.com/l/114540</link>
+            <guid>https://tv.naver.com/l/114540</guid>
+            <pubDate>Fri, 02 Sep 2022 01:45:08 GMT</pubDate>
+            <content:encoded><![CDATA[09월 26일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_221/cr2r6_16614980680349KAIY_JPEG/1661498067987.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
