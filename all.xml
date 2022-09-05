@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 14:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 15:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 K-Arts 오디션 전통예술원 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/karts_/222862262051</link>
@@ -95,6 +86,15 @@
             <pubDate>Thu, 25 Aug 2022 12:33:30 GMT</pubDate>
             <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/114541</link>
+            <guid>https://tv.naver.com/l/114541</guid>
+            <pubDate>Mon, 05 Sep 2022 15:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
