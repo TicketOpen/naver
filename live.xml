@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 11:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 12:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[146회 아트엠콘서트 피아니스트 류준희 & 도연수]]></title>
-            <link>https://blog.naver.com/artmplus/222864984210</link>
-            <guid>https://blog.naver.com/artmplus/222864984210</guid>
-            <pubDate>Tue, 13 Sep 2022 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[09월 15일(목) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220913_190/1663036388786Uh6Q0_JPEG/1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 19일 중계]]></title>
@@ -94,6 +86,15 @@
             <pubDate>Wed, 14 Sep 2022 12:35:54 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <여신님이 보고 계셔> 10월 11일 중계]]></title>
+            <link>https://tv.naver.com/l/114542</link>
+            <guid>https://tv.naver.com/l/114542</guid>
+            <pubDate>Thu, 15 Sep 2022 12:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 11일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_232/G4lOV_1661498389621AedUn_JPEG/1661498389597.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
