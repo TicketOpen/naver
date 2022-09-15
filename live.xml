@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 14:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 15:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,9 +55,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 26일 중계]]></title>
-            <link>https://tv.naver.com/l/114540</link>
-            <guid>https://tv.naver.com/l/114540</guid>
-            <pubDate>Fri, 02 Sep 2022 01:45:08 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:24:11 GMT</pubDate>
             <content:encoded><![CDATA[09월 26일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_221/cr2r6_16614980680349KAIY_JPEG/1661498067987.jpg" length="0" type="image/jpg"/>
         </item>
@@ -81,18 +81,18 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계]]></title>
-            <link>https://tv.naver.com/l/114541</link>
-            <guid>https://tv.naver.com/l/114541</guid>
-            <pubDate>Wed, 14 Sep 2022 12:35:54 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:24:11 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 10월 11일 중계]]></title>
-            <link>https://tv.naver.com/l/114542</link>
-            <guid>https://tv.naver.com/l/114542</guid>
-            <pubDate>Thu, 15 Sep 2022 12:39:03 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:24:11 GMT</pubDate>
             <content:encoded><![CDATA[10월 11일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_232/G4lOV_1661498389621AedUn_JPEG/1661498389597.jpg" length="0" type="image/jpg"/>
         </item>
