@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 01:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정]]></title>
+            <link>https://tv.naver.com/l/115756</link>
+            <guid>https://tv.naver.com/l/115756</guid>
+            <pubDate>Fri, 16 Sep 2022 04:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[09월 26일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_207/xPX2n_1663148345918dxEcn_JPEG/1663148345881.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 26일 중계]]></title>
             <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
             <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
@@ -86,15 +95,6 @@
             <pubDate>Thu, 15 Sep 2022 14:24:11 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <여신님이 보고 계셔> 10월 11일 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
-            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
-            <pubDate>Thu, 15 Sep 2022 14:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[10월 11일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_232/G4lOV_1661498389621AedUn_JPEG/1661498389597.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
