@@ -4,9 +4,17 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 04:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Fri, 16 Sep 2022 06:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220916_53/1663307099563RNstW_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <여신님이 보고 계셔>여신님, 나 보여요? 미리 만나는 뮤지컬]]></title>
             <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
@@ -38,6 +46,14 @@
             <pubDate>Fri, 29 Jul 2022 10:18:57 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220729_287/1659088591359lNfDa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Fri, 16 Sep 2022 06:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220916_53/1663307099563RNstW_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <여신님이 보고 계셔>여신님, 나 보여요? 미리 만나는 뮤지컬]]></title>
