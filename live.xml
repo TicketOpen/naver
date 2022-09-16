@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 06:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 07:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,14 @@
             <pubDate>Fri, 26 Aug 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[09월 21일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_171/B2Q0A_1660874827147nqWbu_JPEG/1660874827106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <마이 버킷 리스트>]]></title>
+            <link>https://tv.naver.com/l/115839</link>
+            <guid>https://tv.naver.com/l/115839</guid>
+            <pubDate>Fri, 16 Sep 2022 07:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[09월 21일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_214/OE5JG_1663231426891oQJeg_JPEG/1663231426880.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -86,15 +94,6 @@
             <pubDate>Tue, 06 Sep 2022 06:14:12 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_264/PeOeb_1662430607204nf4vC_JPEG/1662430607143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
-            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
-            <pubDate>Thu, 15 Sep 2022 14:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
