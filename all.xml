@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 12:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 13:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,14 +111,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220915_193/1663252112170OAvhd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 14 Sep 2022 14:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220826_128/1661502830289YrKjY_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <홀연했던 사나이>1년을 잠들어 있던 그 사나이의 마지막 상영회 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
             <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
@@ -149,14 +141,6 @@
             <pubDate>Thu, 15 Sep 2022 14:24:11 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220915_193/1663252112170OAvhd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 14 Sep 2022 14:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220826_128/1661502830289YrKjY_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <홀연했던 사나이>1년을 잠들어 있던 그 사나이의 마지막 상영회 (네이버 공연 live beta ─ 하이라이트)]]></title>
