@@ -1,75 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>네이버 공연 live beta ─ 하이라이트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 16:26:33 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Fri, 16 Sep 2022 06:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220916_53/1663307099563RNstW_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <여신님이 보고 계셔>여신님, 나 보여요? 미리 만나는 뮤지컬]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
-            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
-            <pubDate>Thu, 15 Sep 2022 15:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220915_193/1663252112170OAvhd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <홀연했던 사나이>1년을 잠들어 있던 그 사나이의 마지막 상영회]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 29 Jul 2022 10:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220729_287/1659088591359lNfDa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Fri, 16 Sep 2022 06:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220916_53/1663307099563RNstW_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <여신님이 보고 계셔>여신님, 나 보여요? 미리 만나는 뮤지컬]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
-            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
-            <pubDate>Thu, 15 Sep 2022 15:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220915_193/1663252112170OAvhd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <홀연했던 사나이>1년을 잠들어 있던 그 사나이의 마지막 상영회]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 29 Jul 2022 10:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220729_287/1659088591359lNfDa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://live.naver.com/</id>
+    <title>네이버 공연 live beta ─ 하이라이트</title>
+    <updated>2022-09-20T17:26:54.182Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://live.naver.com/favicon.ico</icon>
+</feed>
