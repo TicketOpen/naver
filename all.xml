@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 09:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 10:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_221/cr2r6_16614980680349KAIY_JPEG/1661498067987.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <템플> 전막 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/116199</link>
+            <guid>https://tv.naver.com/l/116199</guid>
+            <pubDate>Tue, 20 Sep 2022 10:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[09월 28일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_53/hndUi_16636687405357RJV8_JPEG/1663668740506.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											오페라 <호프만의 이야기> (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
@@ -85,15 +93,6 @@
             <pubDate>Wed, 14 Sep 2022 14:24:42 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_264/PeOeb_1662430607204nf4vC_JPEG/1662430607143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
-            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
-            <pubDate>Thu, 15 Sep 2022 14:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정 (네이버 공연 live beta ─ 하이라이트)]]></title>
