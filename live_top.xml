@@ -1,8 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://live.naver.com/</id>
-    <title>네이버 공연 live beta ─ 하이라이트</title>
-    <updated>2022-11-06T03:23:29.993Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://live.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 공연 live beta ─ 하이라이트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 06 Nov 2022 04:26:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://patron.naver.com/ntv/c/intro/plent</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plent</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221101_149/1667277151621YYSAJ_JPEG/700X400_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <서편제> 온라인 스트리밍뮤지컬 서편제 마지막 시즌 공연실황 최초중계!]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/page1</link>
+            <guid>https://patron.naver.com/ntv/c/intro/page1</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221026_64/1666789360185UnzbN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <더 라스트맨>좀비와 생존 대결을 펼치는 생존자의 이야기]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221019_27/1666169825435StPgB_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <번지점프를 하다>한번만 더 우연히 내게 찾아와 주기를]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221101_71/16672808577922D0xI_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <메리셸리>우리가 두려워하는 모든 것 너머에는 자유가 있다.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/beautifulway21</link>
+            <guid>https://patron.naver.com/ntv/c/intro/beautifulway21</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220930_8/16645149740097ckgk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <link>https://patron.naver.com/ntv/c/intro/plent</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plent</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221101_149/1667277151621YYSAJ_JPEG/700X400_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <서편제> 온라인 스트리밍뮤지컬 서편제 마지막 시즌 공연실황 최초중계!]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/page1</link>
+            <guid>https://patron.naver.com/ntv/c/intro/page1</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221026_64/1666789360185UnzbN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <더 라스트맨>좀비와 생존 대결을 펼치는 생존자의 이야기]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221019_27/1666169825435StPgB_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <번지점프를 하다>한번만 더 우연히 내게 찾아와 주기를]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221101_71/16672808577922D0xI_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <메리셸리>우리가 두려워하는 모든 것 너머에는 자유가 있다.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/beautifulway21</link>
+            <guid>https://patron.naver.com/ntv/c/intro/beautifulway21</guid>
+            <pubDate>Sun, 06 Nov 2022 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220930_8/16645149740097ckgk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
