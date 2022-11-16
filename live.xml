@@ -1,8 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://live.naver.com/</id>
-    <title>네이버 공연 live beta</title>
-    <updated>2022-11-16T16:25:32.713Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://live.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 공연 live beta</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:26:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <메리셸리> 온라인 스트리밍]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/beautifulway21</link>
+            <guid>https://patron.naver.com/ntv/c/intro/beautifulway21</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[11월 21일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_226/Dpn37_1664174617876T7Rwk_JPEG/1664174617857.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웰컴K-스테이지] 10주차 <사춤2-렛츠 댄스 크레이지>]]></title>
+            <link>https://tv.naver.com/l/119532</link>
+            <guid>https://tv.naver.com/l/119532</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[11월 23일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_174/CVwEb_1667544300374Wzd0c_JPEG/1667544300355.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_11/28 (월) 20:00]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[11월 28일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_88/1WfyW_1666775374833ozjiK_JPEG/1666775374804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <라 보엠>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[12월 03일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_241/6Ism5_1665463065552jzfx8_JPEG/1665463065473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_124/Fsn8U_1667869906025IxslE_JPEG/1667869906000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅳ '천지창조']]></title>
+            <link>https://blog.naver.com/ksoblog/222910108760</link>
+            <guid>https://blog.naver.com/ksoblog/222910108760</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[12월 09일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_30/zAQJp_1667809366190zV5ku_JPEG/1667809366152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											댄스 콘서트 <희노애락: THE ROAD> 네이버 후원 라이브]]></title>
+            <link>https://tv.naver.com/l/119996</link>
+            <guid>https://tv.naver.com/l/119996</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_13/2ppJ6_1668061000139j9hax_JPEG/1668061000120.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
