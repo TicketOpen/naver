@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 01:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:01:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
             <content:encoded><![CDATA[11월 28일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221026_88/1WfyW_1666775374833ozjiK_JPEG/1666775374804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11월 천원의 행복 <하프 & 타악기 앙상블 콘서트>]]></title>
+            <link>https://tv.naver.com/l/120894</link>
+            <guid>https://tv.naver.com/l/120894</guid>
+            <pubDate>Wed, 23 Nov 2022 03:01:51 GMT</pubDate>
+            <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_121/GySIl_1669170587774yc0sP_JPEG/1669170587741.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
