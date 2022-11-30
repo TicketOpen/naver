@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,27 +54,27 @@
         <item>
             <title><![CDATA[후원
 											댄스 콘서트 <희노애락: THE ROAD> 네이버 후원 라이브]]></title>
-            <link>https://tv.naver.com/l/119996</link>
-            <guid>https://tv.naver.com/l/119996</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_13/2ppJ6_1668061000139j9hax_JPEG/1668061000120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <개와 고양이의 시간> 녹화중계]]></title>
-            <link>https://tv.naver.com/l/120927</link>
-            <guid>https://tv.naver.com/l/120927</guid>
-            <pubDate>Tue, 29 Nov 2022 09:15:31 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Wed, 30 Nov 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_199/K0f9i_1669188250297WnnK6_JPEG/1669188250264.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <개와 고양이의 시간> 녹화중계]]></title>
-            <link>https://tv.naver.com/l/120928</link>
-            <guid>https://tv.naver.com/l/120928</guid>
-            <pubDate>Tue, 29 Nov 2022 09:15:31 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Wed, 30 Nov 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
         </item>

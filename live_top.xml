@@ -4,9 +4,25 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <개와 고양이의 시간>그날 서로를 알아본 건 검은 고양이와 검은 개]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Wed, 30 Nov 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221130_277/1669787782736Dpnox_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 <라보엠> 전세계 연말 인기 작품, 크리스마스 오페라]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 30 Nov 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221130_10/1669786780121XpCNX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <랭보> 영어 자막 지원, 온라인 중계!]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
@@ -16,12 +32,44 @@
             <enclosure url="https://g-grafolio.pstatic.net/20221114_136/1668395804540s5A3s_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[댄스 콘서트 <희노애락: THE ROAD>]]></title>
+            <link>https://tv.naver.com/l/119996</link>
+            <guid>https://tv.naver.com/l/119996</guid>
+            <pubDate>Wed, 30 Nov 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221130_106/1669787454776espCu_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <개와 고양이의 시간>그날 서로를 알아본 건 검은 고양이와 검은 개]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Wed, 30 Nov 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221130_277/1669787782736Dpnox_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 <라보엠> 전세계 연말 인기 작품, 크리스마스 오페라]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 30 Nov 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221130_10/1669786780121XpCNX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <랭보> 영어 자막 지원, 온라인 중계!]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:11 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221114_136/1668395804540s5A3s_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댄스 콘서트 <희노애락: THE ROAD>]]></title>
+            <link>https://tv.naver.com/l/119996</link>
+            <guid>https://tv.naver.com/l/119996</guid>
+            <pubDate>Wed, 30 Nov 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221130_106/1669787454776espCu_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
