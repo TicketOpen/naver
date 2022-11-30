@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 04:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 05:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
             <content:encoded><![CDATA[12월 03일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221011_241/6Ism5_1665463065552jzfx8_JPEG/1665463065473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_86/yevbx_1669682883954MH8EA_JPEG/1669682883946.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -32,6 +41,15 @@
             <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
             <content:encoded><![CDATA[12월 09일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221107_30/zAQJp_1667809366190zV5ku_JPEG/1667809366152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_153/45Tnh_1669683010932Htvjy_JPEG/1669683010919.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
