@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,15 +50,6 @@
             <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
             <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_153/45Tnh_1669683010932Htvjy_JPEG/1669683010919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											댄스 콘서트 <희노애락: THE ROAD> 네이버 후원 라이브]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[12월 12일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_13/2ppJ6_1668061000139j9hax_JPEG/1668061000120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
