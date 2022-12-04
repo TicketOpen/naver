@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 01:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 02:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <클래스> ver.무자막 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/v/31237630</link>
+            <guid>https://tv.naver.com/v/31237630</guid>
+            <pubDate>Sun, 04 Dec 2022 02:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(일) 11:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221201_156/1669870351524WzETI_JPEG/23916f1c-711c-11ed-a2f9-d4f5ef5a9532_01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <클래스> 전막 중계 ver.한글자막 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/v/31238128</link>
+            <guid>https://tv.naver.com/v/31238128</guid>
+            <pubDate>Sun, 04 Dec 2022 02:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(일) 11:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221201_64/1669870278878qD2Av_JPEG/23916f1c-711c-11ed-a2f9-d4f5ef5a9532_01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00 (네이버 공연 live beta)]]></title>
