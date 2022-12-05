@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 16:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 18:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도) (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_124/Fsn8U_1667869906025IxslE_JPEG/1667869906000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅳ '천지창조' (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/ksoblog/222910108760</link>
@@ -92,6 +83,15 @@
             <pubDate>Mon, 05 Dec 2022 15:15:55 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											Happy Opera Day ④ 국립오페라단 오페라 <라 보엠> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/120066</link>
+            <guid>https://tv.naver.com/l/120066</guid>
+            <pubDate>Mon, 05 Dec 2022 18:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(일) 17:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221204_208/1670142866195U5Pcg_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <개와 고양이의 시간>그날 서로를 알아본 건 검은 고양이와 검은 개 (네이버 공연 live beta ─ 하이라이트)]]></title>
