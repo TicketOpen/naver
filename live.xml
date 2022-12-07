@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 15:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 16:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,9 +43,9 @@
         <item>
             <title><![CDATA[후원
 											마이클 리&라민 카림루 콘서트 온라인 중계]]></title>
-            <link>https://tv.naver.com/l/121682</link>
-            <guid>https://tv.naver.com/l/121682</guid>
-            <pubDate>Tue, 06 Dec 2022 02:41:19 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/bluestages</link>
+            <guid>https://patron.naver.com/ntv/c/intro/bluestages</guid>
+            <pubDate>Wed, 07 Dec 2022 16:20:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_54/UiBz9_1670291674052Q5Xvv_JPEG/1670291674039.jpg" length="0" type="image/jpg"/>
         </item>

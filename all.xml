@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 15:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 16:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,9 +43,9 @@
         <item>
             <title><![CDATA[후원
 											마이클 리&라민 카림루 콘서트 온라인 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/121682</link>
-            <guid>https://tv.naver.com/l/121682</guid>
-            <pubDate>Tue, 06 Dec 2022 02:41:19 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/bluestages</link>
+            <guid>https://patron.naver.com/ntv/c/intro/bluestages</guid>
+            <pubDate>Wed, 07 Dec 2022 16:20:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_54/UiBz9_1670291674052Q5Xvv_JPEG/1670291674039.jpg" length="0" type="image/jpg"/>
         </item>
@@ -102,12 +102,28 @@
             <enclosure url="https://g-grafolio.pstatic.net/20221130_277/1669787782736Dpnox_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마이클 리&라민 카림루 콘서트다시 만나는 월드 뮤지컬 스타 콘서트! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/bluestages</link>
+            <guid>https://patron.naver.com/ntv/c/intro/bluestages</guid>
+            <pubDate>Wed, 07 Dec 2022 16:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221208_61/1670429690148CHCm3_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <개와 고양이의 시간>그날 서로를 알아본 건 검은 고양이와 검은 개 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ateod</link>
             <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
             <pubDate>Wed, 30 Nov 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221130_277/1669787782736Dpnox_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이클 리&라민 카림루 콘서트다시 만나는 월드 뮤지컬 스타 콘서트! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/bluestages</link>
+            <guid>https://patron.naver.com/ntv/c/intro/bluestages</guid>
+            <pubDate>Wed, 07 Dec 2022 16:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221208_61/1670429690148CHCm3_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
