@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 11:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 12:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <미아 파밀리아> 온라인 스트리밍]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[12월 20일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_236/SWiz9_1670478938745vOFB7_JPEG/1670478938724.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/21 (수) 20:00]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
@@ -77,21 +86,12 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
+											연극 <인어;바다를 부른 여인> 온라인 스트리밍]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											Happy Opera Day ③ 국립오페라단 오페라 <라 트라비아타>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Tue, 06 Dec 2022 02:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
