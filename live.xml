@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 12:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 13:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅳ '천지창조']]></title>
-            <link>https://blog.naver.com/ksoblog/222910108760</link>
-            <guid>https://blog.naver.com/ksoblog/222910108760</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[12월 09일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_30/zAQJp_1667809366190zV5ku_JPEG/1667809366152.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <리골레토>]]></title>
             <link>https://tv.naver.com/l/120062</link>
@@ -92,6 +84,15 @@
             <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
             <content:encoded><![CDATA[12월 21일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_91/qAGxs_1669943496196MXUq7_JPEG/1669943496188.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 <인어;바다를 부른 여인> 온라인 스트리밍]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
