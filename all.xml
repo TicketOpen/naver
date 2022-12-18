@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 14:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 15:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <트레이스 유> : 김경수, 박규원 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
-            <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_1/01D9k_1669720679898LRYAi_JPEG/1669720679857.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <영웅> 시츠프로브 최초 공개! (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/122287</link>
@@ -93,6 +84,15 @@
             <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											Happy Opera Day ③ 국립오페라단 오페라 <라 트라비아타> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 06 Dec 2022 02:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미아 파밀리아> 온라인 스트리밍뉴욕의 깊은 밤, 외로운 발길이 향하는 곳 (네이버 공연 live beta ─ 하이라이트)]]></title>
