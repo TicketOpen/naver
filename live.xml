@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 01:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 02:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_264/3jmtw_1670493973660nxEQI_PNG/1670493973650.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											조수빈의 아트라이브,]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/783412</link>
+            <guid>https://shoppinglive.naver.com/livebridge/783412</guid>
+            <pubDate>Mon, 19 Dec 2022 02:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221219_62/1671412855039XUjOR_JPEG/111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											연극 <인어;바다를 부른 여인> 온라인 스트리밍]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -83,15 +92,6 @@
             <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
