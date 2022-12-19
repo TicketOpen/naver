@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 12:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 13:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,14 +31,6 @@
             <pubDate>Wed, 07 Dec 2022 16:20:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_54/UiBz9_1670291674052Q5Xvv_JPEG/1670291674039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CBS창사68주년콘서트 Thank You : 토마스 햄슨 & 윤홍천 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/art_cbs/222943187214</link>
-            <guid>https://blog.naver.com/art_cbs/222943187214</guid>
-            <pubDate>Sun, 04 Dec 2022 09:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_30/W5tCj_1669878679514nERfb_PNG/1669878679485.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -92,6 +84,15 @@
             <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 05:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home” (네이버 공연 live beta ─ 하이라이트)]]></title>
