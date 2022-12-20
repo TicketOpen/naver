@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 12:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 13:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 08 Dec 2022 12:27:17 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221219_177/16714130344101GMJ9_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <미아 파밀리아> 온라인 스트리밍뉴욕의 깊은 밤, 외로운 발길이 향하는 곳]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221208_210/1670500628951qTbpP_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계]]></title>
@@ -62,14 +54,6 @@
             <pubDate>Thu, 08 Dec 2022 12:27:17 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221219_177/16714130344101GMJ9_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <미아 파밀리아> 온라인 스트리밍뉴욕의 깊은 밤, 외로운 발길이 향하는 곳]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221208_210/1670500628951qTbpP_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계]]></title>
