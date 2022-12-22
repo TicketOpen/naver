@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 12:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 13:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											조수빈의 아트라이브, (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/783412</link>
-            <guid>https://shoppinglive.naver.com/livebridge/783412</guid>
-            <pubDate>Mon, 19 Dec 2022 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221219_62/1671412855039XUjOR_JPEG/111.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 <인어;바다를 부른 여인> 온라인 스트리밍 (네이버 공연 live beta)]]></title>
@@ -96,6 +87,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_287/8XM4w_1670493978585QONgY_PNG/1670493978576.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> 김종구, 강상준: (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[01월 02일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_263/sEQ3h_16697238375097R4Gp_JPEG/1669723837467.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home” (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -110,14 +110,6 @@
             <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <인어;바다를 부른 여인>어른을 위한 현대판 잔혹 동화 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221208_293/1670500903672yfkQ2_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <개와 고양이의 시간>그날 서로를 알아본 건 검은 고양이와 검은 개 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -150,14 +142,6 @@
             <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <인어;바다를 부른 여인>어른을 위한 현대판 잔혹 동화 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221208_293/1670500903672yfkQ2_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <개와 고양이의 시간>그날 서로를 알아본 건 검은 고양이와 검은 개 (네이버 공연 live beta ─ 하이라이트)]]></title>
