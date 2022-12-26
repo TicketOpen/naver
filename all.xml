@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 14:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 15:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <개와 고양이의 시간> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Wed, 30 Nov 2022 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>' (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/122572</link>
