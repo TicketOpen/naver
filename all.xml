@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 12:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 13:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 27 Dec 2022 05:12:54 GMT</pubDate>
             <content:encoded><![CDATA[12월 27일(화) 19:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221227_193/16721170463971lGkk_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>' (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/122572</link>
-            <guid>https://tv.naver.com/l/122572</guid>
-            <pubDate>Tue, 20 Dec 2022 15:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[12월 27일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_121/QJi7s_1671413143041yWrUb_JPEG/1671413143024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑 (네이버 공연 live beta)]]></title>
