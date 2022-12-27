@@ -4,25 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 09:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 10:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home”]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221219_177/16714130344101GMJ9_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
-            <pubDate>Sun, 11 Dec 2022 11:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑]]></title>
             <link>https://tv.naver.com/l/123021</link>
@@ -74,6 +58,22 @@
 										</div>
 									</a>]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221227_159/1672132323284OD1sd_JPEG/ver2._688x386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home”]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Thu, 08 Dec 2022 12:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221219_177/16714130344101GMJ9_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Sun, 11 Dec 2022 11:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
