@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 03:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 04:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,9 @@
         </item>
         <item>
             <title><![CDATA[무용 <물속 골리앗> 온라인 스트리밍]]></title>
-            <link>https://tv.naver.com/l/122294</link>
-            <guid>https://tv.naver.com/l/122294</guid>
-            <pubDate>Mon, 26 Dec 2022 06:17:47 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
             <content:encoded><![CDATA[12월 27일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_255/qvTKQ_1671008223594cM2TD_JPEG/1671008223559.jpg" length="0" type="image/jpg"/>
         </item>
