@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 10:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 11:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,24 +60,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_186/guHD1_1670311753094FnWkB_JPEG/1670311753047.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://tv.naver.com/l/123021</link>
-            <guid>https://tv.naver.com/l/123021</guid>
-            <pubDate>Tue, 27 Dec 2022 01:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/l/123021" class="video">
-										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20221227_159/1672132323284OD1sd_JPEG/ver2._688x386.jpg" alt="한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑 이미지">
-										<div class="text-info-box" style="opacity: 1;">
-											<p class="date ellipsis">12/28(수) 오후 7시</p>
-											<div class="text-info">
-												
-												
-												<p class="sub-title ellipsis2">한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑</p>
-											</div>
-										</div>
-									</a>]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221227_159/1672132323284OD1sd_JPEG/ver2._688x386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home” (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -92,24 +74,6 @@
             <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://tv.naver.com/l/123021</link>
-            <guid>https://tv.naver.com/l/123021</guid>
-            <pubDate>Tue, 27 Dec 2022 01:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/l/123021" class="video">
-										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20221227_159/1672132323284OD1sd_JPEG/ver2._688x386.jpg" alt="한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑 이미지">
-										<div class="text-info-box" style="opacity:0;">
-											<p class="date ellipsis">12/28(수) 오후 7시</p>
-											<div class="text-info">
-												
-												
-												<p class="sub-title ellipsis2">한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑</p>
-											</div>
-										</div>
-									</a>]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221227_159/1672132323284OD1sd_JPEG/ver2._688x386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home” (네이버 공연 live beta ─ 하이라이트)]]></title>
