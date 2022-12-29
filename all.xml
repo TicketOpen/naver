@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 14:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 15:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용]뮤지컬 <스페셜 딜리버리> 온라인 스트리밍 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[12월 29일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_275/w5TOm_1670942964882eK860_JPEG/1670942964865.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_RE:BOOT 032 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/121929</link>
@@ -60,28 +51,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_40/pwE9K_1672211725455C204I_JPEG/1672211725447.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home” (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221219_177/16714130344101GMJ9_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
             <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home” (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221219_177/16714130344101GMJ9_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>

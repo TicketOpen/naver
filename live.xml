@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 14:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 15:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용]뮤지컬 <스페셜 딜리버리> 온라인 스트리밍]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[12월 29일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_275/w5TOm_1670942964882eK860_JPEG/1670942964865.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_RE:BOOT 032]]></title>
             <link>https://tv.naver.com/l/121929</link>
