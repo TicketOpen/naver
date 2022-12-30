@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 05:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 06:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,7 +17,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <트레이스 유> 김종구, 강상준:]]></title>
+											뮤지컬 <트레이스 유> : 김종구, 강상준 ver.]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
             <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
@@ -26,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <트레이스 유> : 김경수, 이해준]]></title>
+											뮤지컬 <트레이스 유> : 김경수, 이해준 ver.]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
             <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
@@ -35,12 +35,21 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <트레이스 유> : 이율, 박규원]]></title>
+											뮤지컬 <트레이스 유> : 이율, 박규원 ver.]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
             <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
             <content:encoded><![CDATA[01월 09일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_186/guHD1_1670311753094FnWkB_JPEG/1670311753047.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> : 김종구, 이해준 ver.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[01월 15일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_199/HrI6Z_1670842636111XVVX8_JPEG/1670842636074.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대한민국뮤지컬페스티벌 - 제7회 한국뮤지컬어워즈]]></title>
@@ -49,6 +58,33 @@
             <pubDate>Thu, 29 Dec 2022 10:14:34 GMT</pubDate>
             <content:encoded><![CDATA[01월 16일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_40/pwE9K_1672211725455C204I_JPEG/1672211725447.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> : 김경수, 박규원 ver.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[01월 22일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_195/HW9wi_1670842748371OWLx2_JPEG/1670842748334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> : 이율, 이해준 ver.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[01월 23일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_222/j7N3v_1670842841741PmklU_JPEG/1670842841713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> : 김종구, 박규원 ver.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[01월 30일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_174/TxwHR_1670842926437CfXan_JPEG/1670842926398.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
