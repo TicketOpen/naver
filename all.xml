@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 14:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 15:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <트레이스 유> : 김종구, 강상준 ver. (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
-            <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[01월 02일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_263/sEQ3h_16697238375097R4Gp_JPEG/1669723837467.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2023 신년음악회 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/123303</link>
