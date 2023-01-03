@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 08:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <용의자 X의 헌신> 후원라이브_2023.01.10 (화) 20:00 (네이버 공연 live beta)]]></title>
+											뮤지컬 <용의자 X의 헌신> : 김종구, 오종혁, 안시하 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
             <pubDate>Tue, 03 Jan 2023 07:13:29 GMT</pubDate>
@@ -44,7 +44,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <용의자 X의 헌신> 후원라이브_2023.01.12 (목) 20:00 (네이버 공연 live beta)]]></title>
+											뮤지컬 <용의자 X의 헌신> : 최재웅, 박민성, 안시하 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
             <pubDate>Tue, 03 Jan 2023 07:13:29 GMT</pubDate>
@@ -96,12 +96,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_174/TxwHR_1670842926437CfXan_JPEG/1670842926398.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Tue, 03 Jan 2023 07:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230103_239/1672729901546a3Syw_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
             <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Tue, 03 Jan 2023 07:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230103_239/1672729901546a3Syw_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>

@@ -4,9 +4,17 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 08:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Tue, 03 Jan 2023 08:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230103_239/1672729901546a3Syw_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
@@ -14,6 +22,14 @@
             <pubDate>Sun, 11 Dec 2022 11:11:42 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Tue, 03 Jan 2023 08:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230103_239/1672729901546a3Syw_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계]]></title>
