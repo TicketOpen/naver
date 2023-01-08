@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 14:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 15:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <트레이스 유> : 김경수, 이해준 ver.]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
-            <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[01월 08일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_125/8juMl_1669723922193ESwsU_JPEG/1669723922171.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <트레이스 유> : 이율, 박규원 ver.]]></title>
