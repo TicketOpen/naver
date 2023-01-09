@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 14:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 15:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <트레이스 유> : 이율, 박규원 ver. (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
-            <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[01월 09일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_186/guHD1_1670311753094FnWkB_JPEG/1670311753047.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <용의자 X의 헌신> : 김종구, 오종혁, 안시하 (네이버 공연 live beta)]]></title>
