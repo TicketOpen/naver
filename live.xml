@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 14:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 15:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <용의자 X의 헌신> : 김종구, 오종혁, 안시하]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Tue, 03 Jan 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[01월 10일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_29/KB3Vx_1672290597317dQICc_JPEG/1672290597294.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <용의자 X의 헌신> : 최재웅, 박민성, 안시하]]></title>
