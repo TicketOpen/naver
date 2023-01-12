@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 14:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 15:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <용의자 X의 헌신> : 최재웅, 박민성, 안시하 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Tue, 03 Jan 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[01월 12일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_239/JWJkh_1672290753295MQ896_JPEG/1672290753261.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <트레이스 유> : 김종구, 이해준 ver. (네이버 공연 live beta)]]></title>
