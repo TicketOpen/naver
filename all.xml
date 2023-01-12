@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 07:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 08:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> 1/30 오후 7시 30분 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[01월 30일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_254/EJpkV_1673485650218BNOTD_JPEG/1673485650183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <트레이스 유> : 김종구, 박규원 ver. (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
@@ -78,6 +87,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_74/sDWFA_1673485737547qqgqN_JPEG/1673485737533.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 은밀하게 위대하게:THE LAST전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230112_184/1673511395629SOr5y_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
@@ -92,6 +109,14 @@
             <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 은밀하게 위대하게:THE LAST전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230112_184/1673511395629SOr5y_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식 (네이버 공연 live beta ─ 하이라이트)]]></title>
