@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 06:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,6 +67,15 @@
             <pubDate>Mon, 19 Dec 2022 15:16:53 GMT</pubDate>
             <content:encoded><![CDATA[01월 30일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_174/TxwHR_1670842926437CfXan_JPEG/1670842926398.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> 2/5 오후 7시 30분]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[02월 05일(일) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_74/sDWFA_1673485737547qqgqN_JPEG/1673485737533.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
