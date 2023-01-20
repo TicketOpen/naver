@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 01:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 02:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,7 +27,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <은밀하게 위대하게:THE LAST> 1/30 오후 7시 30분]]></title>
+											뮤지컬 <은밀하게 위대하게:THE LAST>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
             <pubDate>Thu, 12 Jan 2023 07:13:17 GMT</pubDate>
@@ -45,12 +45,39 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <은밀하게 위대하게:THE LAST> 2/5 오후 7시 30분]]></title>
+											뮤지컬 <은밀하게 위대하게:THE LAST>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
             <pubDate>Thu, 12 Jan 2023 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[02월 05일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_74/sDWFA_1673485737547qqgqN_JPEG/1673485737533.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <해적> 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/124448</link>
+            <guid>https://tv.naver.com/l/124448</guid>
+            <pubDate>Fri, 20 Jan 2023 02:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[02월 06일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_129/nP0W4_1674130403273uvnEv_JPEG/1674130403257.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <해적> 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/124447</link>
+            <guid>https://tv.naver.com/l/124447</guid>
+            <pubDate>Fri, 20 Jan 2023 02:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[02월 13일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_129/ALCMz_1674130435919IrJQ6_JPEG/1674130435886.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <해적> 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/124449</link>
+            <guid>https://tv.naver.com/l/124449</guid>
+            <pubDate>Fri, 20 Jan 2023 02:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[02월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_131/9NioF_1674130488864l7NEu_JPEG/1674130488823.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
