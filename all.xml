@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 10:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 11:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,29 +55,37 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <해적> 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/124448</link>
-            <guid>https://tv.naver.com/l/124448</guid>
-            <pubDate>Fri, 20 Jan 2023 02:45:37 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Sat, 21 Jan 2023 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[02월 06일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_129/nP0W4_1674130403273uvnEv_JPEG/1674130403257.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <해적> 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/124447</link>
-            <guid>https://tv.naver.com/l/124447</guid>
-            <pubDate>Fri, 20 Jan 2023 02:45:37 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Sat, 21 Jan 2023 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[02월 13일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_129/ALCMz_1674130435919IrJQ6_JPEG/1674130435886.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <해적> 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/124449</link>
-            <guid>https://tv.naver.com/l/124449</guid>
-            <pubDate>Fri, 20 Jan 2023 02:45:37 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Sat, 21 Jan 2023 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[02월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_131/9NioF_1674130488864l7NEu_JPEG/1674130488823.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 뮤지컬 <해적> 공연실황 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Sat, 21 Jan 2023 11:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230121_106/1674297000102tieaf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 은밀하게 위대하게:THE LAST전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -94,6 +102,14 @@
             <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 뮤지컬 <해적> 공연실황 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Sat, 21 Jan 2023 11:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230121_106/1674297000102tieaf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 은밀하게 위대하게:THE LAST전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
