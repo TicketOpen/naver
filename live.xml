@@ -4,9 +4,25 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 14:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 15:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 강훈 X 특별전 '합스부르크 600년, 그 매혹의 걸작들']]></title>
+            <link>https://tv.naver.com/l/124450</link>
+            <guid>https://tv.naver.com/l/124450</guid>
+            <pubDate>Wed, 25 Jan 2023 15:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[01월 27일(금) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_291/jj3sF_1674029459444w7lL9_JPEG/1674029459419.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NOW] <합스부르크 600년, 매혹의 걸작들> 전시 중계]]></title>
+            <link>https://now.naver.com/s/now.artlive</link>
+            <guid>https://now.naver.com/s/now.artlive</guid>
+            <pubDate>Wed, 25 Jan 2023 15:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[01월 27일(금) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230125_227/1674657874447wyH6o_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <은밀하게 위대하게:THE LAST>]]></title>
