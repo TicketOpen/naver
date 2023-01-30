@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Thu, 12 Jan 2023 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[01월 30일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_254/EJpkV_1673485650218BNOTD_JPEG/1673485650183.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <트레이스 유> : 김종구, 박규원 ver. (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
-            <pubDate>Fri, 09 Dec 2022 08:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[01월 30일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_174/TxwHR_1670842926437CfXan_JPEG/1670842926398.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
