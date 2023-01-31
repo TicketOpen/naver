@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 05:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 06:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,12 +27,39 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <용의자 X의 헌신> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Tue, 31 Jan 2023 06:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[02월 07일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_71/YQoSk_1673506220837y6im1_JPEG/1673506220813.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <용의자 X의 헌신> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Tue, 31 Jan 2023 06:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[02월 09일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_148/osbCM_167350635247634Ak1_JPEG/1673506352449.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <해적> 녹화 중계 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
             <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
             <pubDate>Sat, 21 Jan 2023 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[02월 13일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_129/ALCMz_1674130435919IrJQ6_JPEG/1674130435886.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <용의자 X의 헌신> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Tue, 31 Jan 2023 06:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[02월 15일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_53/C8dAX_1673506429370ifNFz_JPEG/1673506429330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
