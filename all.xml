@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 16:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 17:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Thu, 12 Jan 2023 07:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[02월 05일(일) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_74/sDWFA_1673485737547qqgqN_JPEG/1673485737533.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <해적> 녹화 중계 (네이버 공연 live beta)]]></title>
