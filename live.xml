@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 14:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 15:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <용의자 X의 헌신>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Tue, 31 Jan 2023 06:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[02월 15일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_53/C8dAX_1673506429370ifNFz_JPEG/1673506429330.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <해적> 녹화 중계]]></title>
