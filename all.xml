@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 13:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 14:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,28 +43,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230214_293/1676356447950D8xWp_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 뮤지컬 <해적> 공연실황 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Sat, 21 Jan 2023 11:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230121_106/1674297000102tieaf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <블랙메리포핀스>아시아를 사로잡은 대한민국 심리추리스릴러 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
             <pubDate>Tue, 14 Feb 2023 07:14:36 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230214_293/1676356447950D8xWp_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 뮤지컬 <해적> 공연실황 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Sat, 21 Jan 2023 11:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230121_106/1674297000102tieaf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
