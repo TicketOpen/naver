@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 13:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 14:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,22 +33,6 @@
             <pubDate>Fri, 03 Mar 2023 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <블랙메리포핀스>아시아를 사로잡은 대한민국 심리추리스릴러 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
-            <pubDate>Tue, 14 Feb 2023 07:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230214_293/1676356447950D8xWp_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <블랙메리포핀스>아시아를 사로잡은 대한민국 심리추리스릴러 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
-            <pubDate>Tue, 14 Feb 2023 07:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230214_293/1676356447950D8xWp_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
