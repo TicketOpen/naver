@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 10:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 11:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <pubDate>Tue, 14 Feb 2023 07:14:36 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 카파이즘 실황녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/127264</link>
+            <guid>https://tv.naver.com/l/127264</guid>
+            <pubDate>Mon, 06 Mar 2023 11:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[03월 27일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_172/8tvNI_1678095020469j8hE9_JPEG/1678095020456.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
