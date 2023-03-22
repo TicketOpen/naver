@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 06:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 07:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
             <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
             <content:encoded><![CDATA[03월 28일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_125/xCpVQ_1678255822590l8egn_JPEG/1678255822470.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20230322_129/1679467414853bNxbW_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -41,14 +41,14 @@
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
             <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
             <content:encoded><![CDATA[03월 30일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_119/HwcnY_1678255700895luOe5_JPEG/1678255700865.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20230322_125/1679467473039OCXv2_JPEG/1111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											<판소리 쑛스토리 - 모파상篇> 공연실황 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/127943</link>
-            <guid>https://tv.naver.com/l/127943</guid>
-            <pubDate>Fri, 17 Mar 2023 05:13:33 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
             <content:encoded><![CDATA[04월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_2/TAXr8_167895590433800q14_JPEG/1678955904323.jpg" length="0" type="image/jpg"/>
         </item>
