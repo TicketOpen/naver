@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 15:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 16:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 카파이즘 실황녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neverending</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neverending</guid>
-            <pubDate>Tue, 07 Mar 2023 12:29:36 GMT</pubDate>
-            <content:encoded><![CDATA[03월 26일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_139/5zciG_1678112322184dWdfx_JPEG/1678112322153.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <라흐마니노프> 가든 콘서트 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/128353</link>
