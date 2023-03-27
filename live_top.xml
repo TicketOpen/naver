@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 13:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 14:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작 뮤지컬 <카파이즘> 전설적인 종군기자 로버트 카파를 만들어낸 두 사람의 이야기]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neverending</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neverending</guid>
-            <pubDate>Tue, 07 Mar 2023 12:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230307_254/1678190821407HNm0m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[(무용) Recall; 불러오기]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -30,14 +22,6 @@
             <pubDate>Thu, 23 Mar 2023 05:13:40 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작 뮤지컬 <카파이즘> 전설적인 종군기자 로버트 카파를 만들어낸 두 사람의 이야기]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neverending</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neverending</guid>
-            <pubDate>Tue, 07 Mar 2023 12:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230307_254/1678190821407HNm0m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(무용) Recall; 불러오기]]></title>
