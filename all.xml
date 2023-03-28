@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 14:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											'RE:오리지널리티' 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[03월 28일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230322_129/1679467414853bNxbW_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											'Recall; 불러오기' 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
