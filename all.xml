@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 23:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 01:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,15 @@
             <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
             <content:encoded><![CDATA[04월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_2/TAXr8_167895590433800q14_JPEG/1678955904323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											On the Rock 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[04월 13일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_85/HYnem_16796198740912C5q9_JPEG/1679619874084.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
