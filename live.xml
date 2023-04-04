@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 12:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 13:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											<판소리 쑛스토리 - 모파상篇> 공연실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[04월 04일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_2/TAXr8_167895590433800q14_JPEG/1678955904323.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[창작산실 오페라 <피가로의 이혼> 공연실황 녹화중계]]></title>
             <link>https://tv.naver.com/l/128974</link>
