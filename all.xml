@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 06:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 07:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,6 +95,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_120/7ItIZ_1681089753596bPs4l_JPEG/1681089753583.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <비더슈탄트> 녹화 중계국내 최초 본격 펜싱 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
+            <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230410_249/1681109918390mEwN1_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(무용) On the Rock "오르거나 버티거나" (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -109,6 +117,14 @@
             <pubDate>Fri, 03 Mar 2023 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <비더슈탄트> 녹화 중계국내 최초 본격 펜싱 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
+            <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230410_249/1681109918390mEwN1_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(무용) On the Rock "오르거나 버티거나" (네이버 공연 live beta ─ 하이라이트)]]></title>
