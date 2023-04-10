@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 04:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 05:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,23 @@
             <pubDate>Fri, 03 Mar 2023 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023서울재즈페스타] JAZZ all Stars]]></title>
+            <link>https://tv.naver.com/l/129256</link>
+            <guid>https://tv.naver.com/l/129256</guid>
+            <pubDate>Mon, 10 Apr 2023 05:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[04월 30일(일) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_298/3PYtB_1681102373865JLrXG_JPEG/1681102373842.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<창작 실내악 음악극 붕(鵬)새의 꿈> 공연실황]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[05월 04일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_157/KMce5_1680844903381OGUP7_JPEG/1680844903364.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
