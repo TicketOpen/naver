@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 13:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 14:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작산실 오페라 <피가로의 이혼> 공연실황 녹화중계]]></title>
-            <link>https://tv.naver.com/l/128974</link>
-            <guid>https://tv.naver.com/l/128974</guid>
-            <pubDate>Mon, 03 Apr 2023 11:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[04월 11일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_50/A71DA_1680516721299abB1o_JPEG/1680516721271.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											On the Rock 공연실황 녹화중계]]></title>
@@ -93,6 +85,15 @@
             <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
             <content:encoded><![CDATA[04월 30일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_120/7ItIZ_1681089753596bPs4l_JPEG/1681089753583.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<비더슈탄트> 5월1일(월)오후7시30분]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
+            <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[05월 01일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_118/X06gt_1681089784109Lvr8o_JPEG/1681089784090.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
