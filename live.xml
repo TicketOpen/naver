@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 12:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 13:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											On the Rock 공연실황 녹화중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[04월 13일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_85/HYnem_16796198740912C5q9_JPEG/1679619874084.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<비더슈탄트> 4월16일(일)오후7시30분]]></title>
@@ -94,6 +85,15 @@
             <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
             <content:encoded><![CDATA[05월 01일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_118/X06gt_1681089784109Lvr8o_JPEG/1681089784090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<창작 실내악 음악극 붕(鵬)새의 꿈> 공연실황]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 13 Mar 2023 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[05월 04일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_157/KMce5_1680844903381OGUP7_JPEG/1680844903364.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
