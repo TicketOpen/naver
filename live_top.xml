@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 04:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Tue, 18 Apr 2023 04:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230418_240/1681788482178jHEUq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <비더슈탄트> 녹화 중계국내 최초 본격 펜싱 뮤지컬]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
@@ -38,6 +46,14 @@
             <pubDate>Thu, 23 Mar 2023 05:13:40 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Tue, 18 Apr 2023 04:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230418_240/1681788482178jHEUq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
