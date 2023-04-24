@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 15:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 16:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<비더슈탄트> 4월24일(월)오후7시30분 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
-            <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[04월 24일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_293/VC5fW_1681089710811pNsSz_JPEG/1681089710794.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <미궁(迷宮)의 설계자> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/129267</link>
@@ -88,9 +79,9 @@
         <item>
             <title><![CDATA[후원
 											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/129393</link>
-            <guid>https://tv.naver.com/l/129393</guid>
-            <pubDate>Mon, 24 Apr 2023 02:32:04 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 17 Apr 2023 04:16:17 GMT</pubDate>
             <content:encoded><![CDATA[05월 11일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_145/Jmpui_16823001299035Yk5z_JPEG/1682300129877.jpg" length="0" type="image/jpg"/>
         </item>
