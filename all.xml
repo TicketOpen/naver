@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 12:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 13:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <견고딕-걸> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/129268</link>
-            <guid>https://tv.naver.com/l/129268</guid>
-            <pubDate>Fri, 21 Apr 2023 02:30:22 GMT</pubDate>
-            <content:encoded><![CDATA[04월 27일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_54/dmgYY_1682037260436c2w4d_JPEG/1682037260392.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											오페라 <맥베스> (네이버 공연 live beta)]]></title>
