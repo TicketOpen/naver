@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 08:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 09:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											오페라 <맥베스> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 03 Mar 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[[2023서울재즈페스타] JAZZ all Stars (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/129256</link>
@@ -94,20 +85,21 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_189/DbqKR_1682576213175TAPGx_JPEG/1682576213141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬<은하철도의 밤>실황 중계-5/29(월) 윤승우, 김리현 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/130039</link>
+            <guid>https://tv.naver.com/l/130039</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[05월 29일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_102/Q0wra_1682576390161EHVmk_JPEG/1682576390114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <비더슈탄트> 녹화 중계국내 최초 본격 펜싱 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
             <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230410_249/1681109918390mEwN1_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립오페라단 <맥베스> 녹화중계셰익스피어를 사랑한 베르디의 역작 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 03 Mar 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -124,14 +116,6 @@
             <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230410_249/1681109918390mEwN1_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립오페라단 <맥베스> 녹화중계셰익스피어를 사랑한 베르디의 역작 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 03 Mar 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루 (네이버 공연 live beta ─ 하이라이트)]]></title>

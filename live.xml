@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 08:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 09:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											오페라 <맥베스>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 03 Mar 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[[2023서울재즈페스타] JAZZ all Stars]]></title>
             <link>https://tv.naver.com/l/129256</link>
@@ -92,6 +83,15 @@
             <pubDate>Fri, 28 Apr 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[05월 22일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_189/DbqKR_1682576213175TAPGx_JPEG/1682576213141.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<은하철도의 밤>실황 중계-5/29(월) 윤승우, 김리현]]></title>
+            <link>https://tv.naver.com/l/130039</link>
+            <guid>https://tv.naver.com/l/130039</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[05월 29일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_102/Q0wra_1682576390161EHVmk_JPEG/1682576390114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
