@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 15:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 16:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<비더슈탄트> 5월1일(월)오후7시30분]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
-            <pubDate>Mon, 10 Apr 2023 06:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[05월 01일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_118/X06gt_1681089784109Lvr8o_JPEG/1681089784090.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											[후원전용] 연극 <엠비제트컴퍼니-빵야> 공연실황]]></title>
