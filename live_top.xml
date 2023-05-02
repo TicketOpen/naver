@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>네이버 공연 live beta ─ 하이라이트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 12:26:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Tue, 18 Apr 2023 04:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230418_240/1681788482178jHEUq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Tue, 18 Apr 2023 04:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230418_240/1681788482178jHEUq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://live.naver.com/</id>
+    <title>네이버 공연 live beta ─ 하이라이트</title>
+    <updated>2023-05-02T13:16:57.096Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://live.naver.com/favicon.ico</icon>
+</feed>
