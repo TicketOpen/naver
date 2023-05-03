@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 01:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 02:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 26 Apr 2023 23:13:40 GMT</pubDate>
             <content:encoded><![CDATA[05월 04일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_275/7A1hZ_1682496046289cWcwK_JPEG/1682496046258.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<제9회 DIMF 뮤지컬스타> 파이널라운드 생중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/130781</link>
+            <guid>https://tv.naver.com/l/130781</guid>
+            <pubDate>Wed, 03 May 2023 02:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[05월 07일(일) 14:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_35/eZXav_1683076508354KiGVt_JPEG/1683076508317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <엑스트라 연대기> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
