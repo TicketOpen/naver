@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 04:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 05:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,14 @@
             <pubDate>Fri, 28 Apr 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[05월 16일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_203/4q8Vc_1682654963578Y0X72_JPEG/1682654963564.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무용  공연실황 녹화중계]]></title>
+            <link>https://tv.naver.com/l/129271</link>
+            <guid>https://tv.naver.com/l/129271</guid>
+            <pubDate>Wed, 03 May 2023 05:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[05월 18일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_187/LCHEY_1683089284940LW03b_JPEG/1683089284885.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
