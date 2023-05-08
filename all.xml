@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 06:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,6 +25,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_145/Jmpui_16823001299035Yk5z_JPEG/1682300129877.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
+            <pubDate>Mon, 08 May 2023 06:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[05월 14일(일) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_177/u8BL7_168351288665629Gsy_JPEG/1683512886632.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
+            <pubDate>Mon, 08 May 2023 06:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[05월 15일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_68/sZbdl_16835134607338Y0eu_JPEG/1683513460716.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[창작오페라 <피싱> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/129270</link>
             <guid>https://tv.naver.com/l/129270</guid>
@@ -33,7 +51,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_203/4q8Vc_1682654963578Y0X72_JPEG/1682654963564.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무용  공연실황 녹화중계 (네이버 공연 live beta)]]></title>
+            <title><![CDATA[무용 < THE ROAD > 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/129271</link>
             <guid>https://tv.naver.com/l/129271</guid>
             <pubDate>Wed, 03 May 2023 05:13:18 GMT</pubDate>
@@ -68,6 +86,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬<세종 1446>스승의 날, 세종대왕 탄신일 기념! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
+            <pubDate>Mon, 08 May 2023 06:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230508_128/16835258362384j9qy_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <은하철도의 밤>우리는 함께 꿈을 꿨다. 난 그곳을… (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
@@ -82,6 +108,14 @@
             <pubDate>Mon, 17 Apr 2023 04:16:17 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230503_119/1683085476978lQx76_JPEG/688X386_111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬<세종 1446>스승의 날, 세종대왕 탄신일 기념! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
+            <pubDate>Mon, 08 May 2023 06:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230508_128/16835258362384j9qy_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <은하철도의 밤>우리는 함께 꿈을 꿨다. 난 그곳을… (네이버 공연 live beta ─ 하이라이트)]]></title>
