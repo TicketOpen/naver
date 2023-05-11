@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 13:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 14:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 17 Apr 2023 04:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[05월 11일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_145/Jmpui_16823001299035Yk5z_JPEG/1682300129877.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2023 서울드럼페스티벌 드럼경연대회 '더 드러머' (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/131218</link>
