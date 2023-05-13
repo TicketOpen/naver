@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 07:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 08:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 서울드럼페스티벌 드럼경연대회 '더 드러머' (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/131218</link>
-            <guid>https://tv.naver.com/l/131218</guid>
-            <pubDate>Thu, 11 May 2023 07:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[05월 13일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_119/z99Lx_1683785935942pt41A_JPEG/1683785935927.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta)]]></title>
