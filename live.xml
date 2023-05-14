@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 14:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <세종 1446> 후원 라이브]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[05월 14일(일) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_177/u8BL7_168351288665629Gsy_JPEG/1683512886632.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <세종 1446> 후원 라이브]]></title>
