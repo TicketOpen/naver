@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 13:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 17:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[05월 15일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_68/sZbdl_16835134607338Y0eu_JPEG/1683513460716.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[창작오페라 <피싱> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/129270</link>
@@ -91,20 +82,21 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230512_186/8RlkV_1683876901165xNCqw_JPEG/1683876901149.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬<은하철도의 밤>실황 중계-6/05(월) 박좌헌, 정지우 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/130040</link>
+            <guid>https://tv.naver.com/l/130040</guid>
+            <pubDate>Mon, 15 May 2023 17:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <문스토리> 어른들을 위한 동화 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
             <pubDate>Fri, 28 Apr 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230512_89/16838848129219nWdE_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬<세종 1446>스승의 날, 세종대왕 탄신일 기념! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230508_128/16835258362384j9qy_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <은하철도의 밤>우리는 함께 꿈을 꿨다. 난 그곳을… (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -121,14 +113,6 @@
             <pubDate>Fri, 28 Apr 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230512_89/16838848129219nWdE_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬<세종 1446>스승의 날, 세종대왕 탄신일 기념! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230508_128/16835258362384j9qy_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <은하철도의 밤>우리는 함께 꿈을 꿨다. 난 그곳을… (네이버 공연 live beta ─ 하이라이트)]]></title>
