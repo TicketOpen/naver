@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 23:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 01:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230503_187/LCHEY_1683089284940LW03b_JPEG/1683089284885.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <일기 쓰는 남자>  제17회 DIMF 창작지원작]]></title>
+            <link>https://tv.naver.com/l/131046</link>
+            <guid>https://tv.naver.com/l/131046</guid>
+            <pubDate>Mon, 15 May 2023 01:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[05월 20일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_245/wajZw_1683537642979mle5e_JPEG/1683537642959.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <왕자대전> 제17회 DIMF 창작지원작]]></title>
+            <link>https://tv.naver.com/l/131047</link>
+            <guid>https://tv.naver.com/l/131047</guid>
+            <pubDate>Mon, 15 May 2023 01:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[05월 21일(일) 14:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_137/9oepQ_1683537769141Ua0R9_JPEG/1683537769116.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
@@ -40,6 +56,14 @@
             <pubDate>Fri, 28 Apr 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[05월 22일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_189/DbqKR_1682576213175TAPGx_JPEG/1682576213141.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬  제17회 DIMF 창작지원작]]></title>
+            <link>https://tv.naver.com/l/131285</link>
+            <guid>https://tv.naver.com/l/131285</guid>
+            <pubDate>Mon, 15 May 2023 01:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[05월 28일(일) 14:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_239/ZBKMP_1683876583717d2Dkc_JPEG/1683876583695.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -51,22 +75,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_102/Q0wra_1682576390161EHVmk_JPEG/1682576390114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬<은하철도의 밤>실황 중계-6/05(월) 박좌헌, 정지우]]></title>
-            <link>https://tv.naver.com/l/130040</link>
-            <guid>https://tv.naver.com/l/130040</guid>
-            <pubDate>Sun, 30 Apr 2023 13:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬  제17회 DIMF 창작지원작]]></title>
+            <link>https://tv.naver.com/l/131286</link>
+            <guid>https://tv.naver.com/l/131286</guid>
+            <pubDate>Mon, 15 May 2023 01:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[06월 03일(토) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_244/7tBTm_1683876752950gMwRV_JPEG/1683876752932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬<문스토리>실황 중계-6/12(월) PM8]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 28 Apr 2023 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[06월 12일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_68/ZgW2H_1683776153460uKzRH_JPEG/1683776153427.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <애프터 라이프> 제17회 DIMF 공식초청작]]></title>
+            <link>https://tv.naver.com/l/131287</link>
+            <guid>https://tv.naver.com/l/131287</guid>
+            <pubDate>Mon, 15 May 2023 01:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[06월 04일(일) 14:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_186/8RlkV_1683876901165xNCqw_JPEG/1683876901149.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
