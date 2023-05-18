@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 12:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 13:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[무용 < THE ROAD > 공연실황 녹화중계]]></title>
-            <link>https://tv.naver.com/l/129271</link>
-            <guid>https://tv.naver.com/l/129271</guid>
-            <pubDate>Wed, 03 May 2023 05:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[05월 18일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_187/LCHEY_1683089284940LW03b_JPEG/1683089284885.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <일기 쓰는 남자>  제17회 DIMF 창작지원작]]></title>
             <link>https://tv.naver.com/l/131046</link>
@@ -89,6 +81,15 @@
             <pubDate>Mon, 15 May 2023 17:12:10 GMT</pubDate>
             <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<문스토리>실황 중계-6/12(월) PM8]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Fri, 28 Apr 2023 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[06월 12일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_68/ZgW2H_1683776153460uKzRH_JPEG/1683776153427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
