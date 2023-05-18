@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230503_18/1683085361418NtsrB_JPEG/688X386_eunha.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국립오페라단 <일 트로바토레>오페라의 제왕 타이틀의 시작]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 18 May 2023 03:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230518_29/1684377254895TaFfe_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <문스토리> 어른들을 위한 동화]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
@@ -38,6 +46,14 @@
             <pubDate>Wed, 03 May 2023 04:15:21 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230503_18/1683085361418NtsrB_JPEG/688X386_eunha.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 <일 트로바토레>오페라의 제왕 타이틀의 시작]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 18 May 2023 03:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230518_29/1684377254895TaFfe_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
