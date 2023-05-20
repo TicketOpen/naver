@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 12:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 13:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제17회 DIMF <개막축하공연>  LIVE]]></title>
-            <link>https://tv.naver.com/l/131615</link>
-            <guid>https://tv.naver.com/l/131615</guid>
-            <pubDate>Thu, 18 May 2023 02:31:01 GMT</pubDate>
-            <content:encoded><![CDATA[05월 20일(토) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_47/j88WB_16843764558822psls_JPEG/1684376455871.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <왕자대전> 제17회 DIMF 창작지원작]]></title>
             <link>https://tv.naver.com/l/131047</link>
