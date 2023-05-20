@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 08:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 09:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <일기 쓰는 남자>  제17회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/131046</link>
-            <guid>https://tv.naver.com/l/131046</guid>
-            <pubDate>Mon, 15 May 2023 01:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[05월 20일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_245/wajZw_1683537642979mle5e_JPEG/1683537642959.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[제17회 DIMF <개막축하공연>  LIVE (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/131615</link>
@@ -90,6 +82,15 @@
             <pubDate>Fri, 28 Apr 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[06월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_68/ZgW2H_1683776153460uKzRH_JPEG/1683776153427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <일 트로바토레> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 18 May 2023 03:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[06월 24일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230515_114/1684126677339Gzi9q_JPEG/880X495_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <문스토리> 어른들을 위한 동화 (네이버 공연 live beta ─ 하이라이트)]]></title>
