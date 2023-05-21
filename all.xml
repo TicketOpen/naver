@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 07:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 08:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <왕자대전> 제17회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/131047</link>
-            <guid>https://tv.naver.com/l/131047</guid>
-            <pubDate>Mon, 15 May 2023 01:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[05월 21일(일) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_137/9oepQ_1683537769141Ua0R9_JPEG/1683537769116.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원 (네이버 공연 live beta)]]></title>
