@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 13:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 14:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											창작산실 연극 <빵야> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/131021</link>
-            <guid>https://tv.naver.com/l/131021</guid>
-            <pubDate>Tue, 23 May 2023 08:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[05월 23일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_42/cY5Ep_1683512777667KpY6k_JPEG/1683512777548.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <할란카운티> 프레스콜 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/131851</link>
