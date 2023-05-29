@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 15:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 16:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<은하철도의 밤>실황 중계-5/29(월) 윤승우, 김리현]]></title>
-            <link>https://tv.naver.com/l/130039</link>
-            <guid>https://tv.naver.com/l/130039</guid>
-            <pubDate>Sat, 29 Apr 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[05월 29일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_102/Q0wra_1682576390161EHVmk_JPEG/1682576390114.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 쿠로이 저택엔 누가 살고 있을까? 미디어콜 중계]]></title>
             <link>https://tv.naver.com/l/132032</link>
