@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 12:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 13:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 02 Jun 2023 04:16:01 GMT</pubDate>
             <content:encoded><![CDATA[06월 02일(금) 13:13]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230602_20/1685679296619DFSEG_JPEG/1111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 < The Tempest > 제17회 DIMF 창작지원작]]></title>
-            <link>https://tv.naver.com/l/131286</link>
-            <guid>https://tv.naver.com/l/131286</guid>
-            <pubDate>Mon, 15 May 2023 01:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[06월 03일(토) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_244/7tBTm_1683876752950gMwRV_JPEG/1683876752932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <애프터 라이프> 제17회 DIMF 공식초청작]]></title>
