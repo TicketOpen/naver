@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 04:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <당선자 없음> (무자막) (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/v/36547155</link>
-            <guid>https://tv.naver.com/v/36547155</guid>
-            <pubDate>Fri, 02 Jun 2023 04:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[06월 02일(금) 13:10]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230602_225/16856792062896D5gC_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <당선자 없음> (한글자막) (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/v/36547240</link>
-            <guid>https://tv.naver.com/v/36547240</guid>
-            <pubDate>Fri, 02 Jun 2023 04:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[06월 02일(금) 13:13]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230602_20/1685679296619DFSEG_JPEG/1111.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2023 뮤지컬 <시카고> 프레스콜 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/132358</link>
