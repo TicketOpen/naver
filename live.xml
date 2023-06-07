@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 02:52:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 03:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,12 +26,57 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <미아 파밀리아> 중계 -6/18(일) 8시]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
+            <pubDate>Wed, 07 Jun 2023 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[06월 18일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_252/ut4XW_1685953920441y8uhH_JPEG/1685953920406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <미아 파밀리아> 중계 -6/19(월) 8시]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
+            <pubDate>Wed, 07 Jun 2023 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[06월 19일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_122/kDrLl_1686048362191uvK6t_JPEG/1686048362161.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											오페라 <일 트로바토레>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
             <pubDate>Thu, 25 May 2023 14:12:50 GMT</pubDate>
             <content:encoded><![CDATA[06월 24일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230515_114/1684126677339Gzi9q_JPEG/880X495_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <미아 파밀리아> 중계 -6/25(일) 8시]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
+            <pubDate>Wed, 07 Jun 2023 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[06월 25일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_263/KuetP_1686048489680TwUNQ_JPEG/1686048489663.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <미아 파밀리아> 중계 -6/26(월) 8시]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
+            <pubDate>Wed, 07 Jun 2023 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[06월 26일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_22/IXX8v_1686048566282KzxVM_JPEG/1686048566257.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <미아 파밀리아> 중계 -7/2(일) 8시]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
+            <pubDate>Wed, 07 Jun 2023 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[07월 02일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_143/spNhL_1686048738518ytdJm_JPEG/1686048738485.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
