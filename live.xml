@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,29 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬<박열>실황 중계-7/3(월) 김재범,이정화,권용국]]></title>
-            <link>https://tv.naver.com/l/133138</link>
-            <guid>https://tv.naver.com/l/133138</guid>
-            <pubDate>Fri, 16 Jun 2023 05:12:31 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
             <content:encoded><![CDATA[07월 03일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_240/qVWR7_1686717585989vXETs_JPEG/1686717585939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<박열>실황 중계-7/10(월) 김순택, 최지혜, 정지우]]></title>
-            <link>https://tv.naver.com/l/133139</link>
-            <guid>https://tv.naver.com/l/133139</guid>
-            <pubDate>Fri, 16 Jun 2023 05:12:31 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
             <content:encoded><![CDATA[07월 10일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_193/F7rHw_1686716310150QugU0_JPEG/1686716310113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<박열>실황 중계-7/17(월) 백기범, 허혜진, 문경초]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[07월 17일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_83/tMck7_1686718019021iwCzs_JPEG/1686718018982.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
