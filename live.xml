@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 14:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 15:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미아 파밀리아> 중계 -6/18(일) 8시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Wed, 07 Jun 2023 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[06월 18일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_252/ut4XW_1685953920441y8uhH_JPEG/1685953920406.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <미아 파밀리아> 중계 -6/19(월) 8시]]></title>
