@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,12 +45,39 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <삼총사> 녹화 중계 - 7.12 WED]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
+            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
+            <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[07월 12일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬<박열>실황 중계-7/17(월) 백기범, 허혜진, 문경초]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
             <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
             <content:encoded><![CDATA[07월 17일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_83/tMck7_1686718019021iwCzs_JPEG/1686718018982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <삼총사> 녹화 중계 - 7.20 THU]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
+            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
+            <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <삼총사> 녹화 중계 - 7.24 MON]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
+            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
+            <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[07월 24일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
