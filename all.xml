@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 03:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 04:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,7 +99,7 @@
             <title><![CDATA[뮤지컬 <삼총사> 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
             <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 03:03:25 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230626_214/168774829765926Uwk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -123,7 +123,7 @@
             <title><![CDATA[뮤지컬 <삼총사> 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
             <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 03:03:25 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230626_214/168774829765926Uwk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
