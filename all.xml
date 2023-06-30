@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 13:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 14:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
             <content:encoded><![CDATA[07월 03일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_240/qVWR7_1686717585989vXETs_JPEG/1686717585939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <라흐 헤스트> 생중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/134090</link>
+            <guid>https://tv.naver.com/l/134090</guid>
+            <pubDate>Fri, 30 Jun 2023 14:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[07월 04일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_62/QzDrz_1688115799419f12hL_JPEG/1688115799365.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
