@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 01:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 02:56:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,6 +59,24 @@
             <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
             <content:encoded><![CDATA[07월 17일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_83/tMck7_1686718019021iwCzs_JPEG/1686718018982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/132782</link>
+            <guid>https://tv.naver.com/l/132782</guid>
+            <pubDate>Mon, 03 Jul 2023 02:56:06 GMT</pubDate>
+            <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_272/x3OGw_1686725232489pJALj_JPEG/1686725232448.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/132783</link>
+            <guid>https://tv.naver.com/l/132783</guid>
+            <pubDate>Mon, 03 Jul 2023 02:56:06 GMT</pubDate>
+            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_296/W40e7_1686188513726DBuEN_JPEG/1686188513653.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
