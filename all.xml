@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 23:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 01:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,18 +54,18 @@
         <item>
             <title><![CDATA[후원
 											[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/132782</link>
-            <guid>https://tv.naver.com/l/132782</guid>
-            <pubDate>Mon, 03 Jul 2023 02:56:06 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 26 Jun 2023 07:14:34 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_272/x3OGw_1686725232489pJALj_JPEG/1686725232448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/132783</link>
-            <guid>https://tv.naver.com/l/132783</guid>
-            <pubDate>Mon, 03 Jul 2023 02:56:06 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 26 Jun 2023 07:14:34 GMT</pubDate>
             <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_296/W40e7_1686188513726DBuEN_JPEG/1686188513653.jpg" length="0" type="image/jpg"/>
         </item>
@@ -86,6 +86,15 @@
             <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
             <content:encoded><![CDATA[07월 24일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극<인사이드> 실황 중계-7/31(월) 김도빈, 윤소호, 류인 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/134254</link>
+            <guid>https://tv.naver.com/l/134254</guid>
+            <pubDate>Tue, 04 Jul 2023 01:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[07월 31일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_222/ppORs_1688386784119Gjgu9_JPEG/1688386784088.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <청춘소음> 정 없고 답 없는 이 세상. 어떻게 살아가야 할까? (네이버 공연 live beta ─ 하이라이트)]]></title>
