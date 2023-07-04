@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 14:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 15:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <라흐 헤스트> 생중계]]></title>
-            <link>https://tv.naver.com/l/134090</link>
-            <guid>https://tv.naver.com/l/134090</guid>
-            <pubDate>Fri, 30 Jun 2023 14:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[07월 04일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_62/QzDrz_1688115799419f12hL_JPEG/1688115799365.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<박열>실황 중계-7/10(월) 김순택, 최지혜, 정지우]]></title>
