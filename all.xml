@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 15:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 16:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,9 +82,9 @@
         <item>
             <title><![CDATA[후원
 											연극<인사이드> 실황 중계-7/31(월) 김도빈, 윤소호, 류인 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/134254</link>
-            <guid>https://tv.naver.com/l/134254</guid>
-            <pubDate>Tue, 04 Jul 2023 01:21:26 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
             <content:encoded><![CDATA[07월 31일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_222/ppORs_1688386784119Gjgu9_JPEG/1688386784088.jpg" length="0" type="image/jpg"/>
         </item>
