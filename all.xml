@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 14:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 15:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<박열>실황 중계-7/10(월) 김순택, 최지혜, 정지우 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[07월 10일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_193/F7rHw_1686716310150QugU0_JPEG/1686716310113.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <삼총사> 녹화 중계 - 7.12 WED (네이버 공연 live beta)]]></title>
