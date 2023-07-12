@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 14:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 15:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <삼총사> 녹화 중계 - 7.12 WED (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
-            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[07월 12일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											[후원전용] <청춘소음> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
