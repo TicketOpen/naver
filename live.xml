@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 14:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 15:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <청춘소음> 공연실황 녹화중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 07:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[07월 13일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_261/IR6gO_1686725133425iyguC_JPEG/1686725133404.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<박열>실황 중계-7/17(월) 백기범, 허혜진, 문경초]]></title>
