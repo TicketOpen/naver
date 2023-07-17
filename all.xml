@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 12:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 13:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,28 +62,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_222/ppORs_1688386784119Gjgu9_JPEG/1688386784088.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <박열> 온라인 중계 후원라이브 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230616_66/1686900066265nqoWq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <삼총사> 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
             <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
             <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230626_214/168774829765926Uwk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <박열> 온라인 중계 후원라이브 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230616_66/1686900066265nqoWq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <삼총사> 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
