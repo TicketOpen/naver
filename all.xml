@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 12:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 13:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,28 +52,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230721_148/1689910429943oVa1j_JPEG/688X386_1111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <삼총사> 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
-            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230626_214/168774829765926Uwk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <윌리엄과 윌리엄의 윌리엄들> 공연 실황 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
             <pubDate>Mon, 26 Jun 2023 07:14:34 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230721_148/1689910429943oVa1j_JPEG/688X386_1111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <삼총사> 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
-            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 03:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230626_214/168774829765926Uwk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
