@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 01:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,15 @@
             <pubDate>Fri, 16 Jun 2023 06:17:13 GMT</pubDate>
             <content:encoded><![CDATA[07월 31일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_222/ppORs_1688386784119Gjgu9_JPEG/1688386784088.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <라 트라비아타>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 25 Jul 2023 02:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
