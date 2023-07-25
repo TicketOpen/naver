@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 13:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 14:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <윌리엄과 윌리엄의 윌리엄들> 공연실황중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 07:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[07월 25일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_287/LN9vc_1686188711014SVd78_JPEG/1686188710947.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											[후원전용] <하얀 봄> 공연실황 녹화중계]]></title>
