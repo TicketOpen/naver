@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 14:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 15:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <하얀 봄> 공연실황 녹화중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 07:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[07월 27일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_247/jc5VG_1687401814473HyyFn_JPEG/1687401814440.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극<인사이드> 실황 중계-7/31(월) 김도빈, 윤소호, 류인]]></title>
