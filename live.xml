@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 21:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 22:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,9 +63,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일]]></title>
-            <link>https://tv.naver.com/l/137253</link>
-            <guid>https://tv.naver.com/l/137253</guid>
-            <pubDate>Fri, 18 Aug 2023 03:13:11 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Sun, 20 Aug 2023 04:14:34 GMT</pubDate>
             <content:encoded><![CDATA[09월 17일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230817_77/hJI7x_16922527141596CYfj_JPEG/1692252714119.jpg" length="0" type="image/jpg"/>
         </item>

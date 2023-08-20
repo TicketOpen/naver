@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 21:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 22:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 01 Aug 2023 08:25:43 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230801_102/1690877705815LQsmo_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <스모크> 녹화중계박제가 되어버린 천재 시인]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Sun, 20 Aug 2023 22:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230821_68/1692568173831BL9iP_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <라 트라비아타> 영원한 스테디셀러의 새로운 탄생]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Tue, 01 Aug 2023 08:25:43 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230801_102/1690877705815LQsmo_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <스모크> 녹화중계박제가 되어버린 천재 시인]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Sun, 20 Aug 2023 22:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230821_68/1692568173831BL9iP_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <라 트라비아타> 영원한 스테디셀러의 새로운 탄생]]></title>
