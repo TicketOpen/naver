@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 14:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 15:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <웨스턴 스토리> 1차 중계 8/21 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 01 Aug 2023 08:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[08월 21일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_254/jdisq_1690808536921NgogW_JPEG/1690808536884.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <웨스턴 스토리> 2차 중계 8/28 오후 8시 (네이버 공연 live beta)]]></title>
