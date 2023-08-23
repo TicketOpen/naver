@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 11:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 12:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,14 @@
             <pubDate>Tue, 01 Aug 2023 08:25:37 GMT</pubDate>
             <content:encoded><![CDATA[09월 04일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_80/0Kwv6_1690811314398dEF6m_JPEG/1690811314387.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청와대에서 펼쳐지는 '2023 블루하우스 콘서트' (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/137663</link>
+            <guid>https://tv.naver.com/l/137663</guid>
+            <pubDate>Wed, 23 Aug 2023 12:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[09월 10일(일) 17:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230823_33/1692789251609KAOOJ_PNG/1692778128361.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
