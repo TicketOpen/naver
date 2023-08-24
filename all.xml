@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 06:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											연극 헤르츠클란_CAST: 김경수 장은아 강찬 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
+            <pubDate>Thu, 24 Aug 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[09월 11일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
@@ -62,12 +71,30 @@
         </item>
         <item>
             <title><![CDATA[후원
+											연극 헤르츠클란_CAST: 조풍래, 손유동, 허영손, 안창용 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
+            <pubDate>Thu, 24 Aug 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[09월 18일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											오페라 <라 트라비아타> (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
             <pubDate>Tue, 25 Jul 2023 02:44:51 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
+            <pubDate>Thu, 24 Aug 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[09월 25일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <웨스턴 스토리>현상금 사냥꾼이 벌이는 유쾌한 사기극! (네이버 공연 live beta ─ 하이라이트)]]></title>
