@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 15:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 16:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극 헤르츠클란_CAST: 김경수 장은아 강찬 (네이버 공연 live beta)]]></title>
+											연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
             <pubDate>Thu, 24 Aug 2023 07:11:49 GMT</pubDate>
