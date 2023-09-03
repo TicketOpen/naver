@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 14:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 15:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <웨스턴 스토리> 3차 중계 9/3 오후 8시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 16 Aug 2023 17:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[09월 03일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_169/7Hqyz_16908094444628cfek_JPEG/1690809444428.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <웨스턴 스토리> 4차 중계 9/4 오후 8시]]></title>
