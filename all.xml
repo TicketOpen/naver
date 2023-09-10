@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 14:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 스모크_9.10(일) PM 8 - 김경수 장은아 강찬 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Sun, 20 Aug 2023 04:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[09월 10일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_131/kQAYZ_1692252571567LRi3G_JPEG/1692252571546.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리 (네이버 공연 live beta)]]></title>
