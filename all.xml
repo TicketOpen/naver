@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 08:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 09:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,42 @@
             <pubDate>Thu, 24 Aug 2023 07:11:49 GMT</pubDate>
             <content:encoded><![CDATA[09월 25일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <랭보>(2022) - 10/9(월) 윤소호 정상윤 정지우 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[10월 09일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_189/tbsyg_1694245329678u2XLi_JPEG/1694245329661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <랭보>(2022) - 10/16(월) 정욱진 김종구 문경초 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[10월 16일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_125/Rl51b_1694245418176tEbKh_JPEG/1694245417995.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <랭보>(2022) - 10/23(월) 박정원 김경수 정지우 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[10월 23일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_32/epmaf_1694245457732Eutzz_JPEG/1694245457712.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <헤르츠클란> 녹화중계과거와 현실로 오가며 찾아 나서는 진정한 '나'에게로 이르는 길 (네이버 공연 live beta ─ 하이라이트)]]></title>
