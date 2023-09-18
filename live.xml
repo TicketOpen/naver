@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 05:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 06:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,14 @@
             <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
             <content:encoded><![CDATA[10월 09일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_189/tbsyg_1694245329678u2XLi_JPEG/1694245329661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웰컴K-스테이지] 1회차 <윌리엄과 윌리엄의 윌리엄들>]]></title>
+            <link>https://tv.naver.com/l/139201</link>
+            <guid>https://tv.naver.com/l/139201</guid>
+            <pubDate>Mon, 18 Sep 2023 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[10월 16일(월) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_197/zXjWA_1694773185403ozrsh_JPEG/1694773185380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
