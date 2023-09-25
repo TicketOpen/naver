@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 15:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 16:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Fri, 22 Sep 2023 12:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[09월 25일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <랭보>(2022) - 10/9(월) 윤소호 정상윤 정지우]]></title>
