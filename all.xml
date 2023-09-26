@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_125/Rl51b_1694245418176tEbKh_JPEG/1694245417995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[웰컴K-스테이지] 2회차 <뮤직드라마 당신만이> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/139810</link>
+            <guid>https://tv.naver.com/l/139810</guid>
+            <pubDate>Tue, 26 Sep 2023 03:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[10월 17일(화) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_74/3anei_1695610271182dNFsi_JPEG/1695610271138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웰컴K-스테이지] 3회차 <난설> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/139811</link>
+            <guid>https://tv.naver.com/l/139811</guid>
+            <pubDate>Tue, 26 Sep 2023 03:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[10월 18일(수) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_158/XJZ9E_1695610514362rNia8_JPEG/1695610514283.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웰컴K-스테이지] 4회차 <올드위키드송> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/139812</link>
+            <guid>https://tv.naver.com/l/139812</guid>
+            <pubDate>Tue, 26 Sep 2023 03:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[10월 23일(월) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_232/8EkaE_1695610645105MgDvW_JPEG/1695610645092.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											뮤지컬 <랭보>(2022) - 10/23(월) 박정원 김경수 정지우 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
@@ -41,6 +65,22 @@
             <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
             <content:encoded><![CDATA[10월 23일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_32/epmaf_1694245457732Eutzz_JPEG/1694245457712.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웰컴K-스테이지] 5회차 <김종욱 찾기> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/139813</link>
+            <guid>https://tv.naver.com/l/139813</guid>
+            <pubDate>Tue, 26 Sep 2023 03:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[10월 24일(화) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웰컴K-스테이지] 마지막 6회차 <매직 드로잉 쇼 두들팝> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/139814</link>
+            <guid>https://tv.naver.com/l/139814</guid>
+            <pubDate>Tue, 26 Sep 2023 03:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[10월 25일(수) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_105/w96mP_1695610837927tkFvT_JPEG/1695610837893.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
