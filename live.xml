@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 16:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 17:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/9(월) 윤소호 정상윤 정지우]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Fri, 22 Sep 2023 12:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[10월 09일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_189/tbsyg_1694245329678u2XLi_JPEG/1694245329661.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <경종수정실록> 1차 중계 10/10 오후 8시]]></title>
@@ -91,6 +82,14 @@
             <pubDate>Fri, 22 Sep 2023 12:24:28 GMT</pubDate>
             <content:encoded><![CDATA[10월 23일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_32/epmaf_1694245457732Eutzz_JPEG/1694245457712.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웰컴K-스테이지] 5회차 <김종욱 찾기>]]></title>
+            <link>https://tv.naver.com/l/139813</link>
+            <guid>https://tv.naver.com/l/139813</guid>
+            <pubDate>Mon, 09 Oct 2023 17:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[10월 24일(화) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
