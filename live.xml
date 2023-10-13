@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 08:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 09:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,6 +58,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_158/XJZ9E_1695610514362rNia8_JPEG/1695610514283.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬<타오르는 어둠 속에서> 공연 실황 생중계]]></title>
+            <link>https://tv.naver.com/l/140793</link>
+            <guid>https://tv.naver.com/l/140793</guid>
+            <pubDate>Fri, 13 Oct 2023 09:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[10월 21일(토) 21:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_54/dVfpU_1697165067374Ml2UY_JPEG/1697165067360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[웰컴K-스테이지] 4회차 <올드위키드송>]]></title>
             <link>https://tv.naver.com/l/139812</link>
             <guid>https://tv.naver.com/l/139812</guid>
@@ -81,15 +89,6 @@
             <pubDate>Mon, 09 Oct 2023 17:12:34 GMT</pubDate>
             <content:encoded><![CDATA[10월 24일(화) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 3차 중계 10/24 오후 8시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[10월 24일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_76/WIhgG_16953498631042g3A9_JPEG/1695349863087.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
