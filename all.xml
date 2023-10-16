@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 16:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 17:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/16(월) 정욱진 김종구 문경초 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[10월 16일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_125/Rl51b_1694245418176tEbKh_JPEG/1694245417995.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 2회차 <뮤직드라마 당신만이> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/139810</link>
@@ -90,6 +81,14 @@
             <pubDate>Mon, 16 Oct 2023 13:17:39 GMT</pubDate>
             <content:encoded><![CDATA[10월 25일(수) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_105/w96mP_1695610837927tkFvT_JPEG/1695610837893.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬<타오르는 어둠 속에서> 공연 실황 생중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/140794</link>
+            <guid>https://tv.naver.com/l/140794</guid>
+            <pubDate>Mon, 16 Oct 2023 17:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[10월 30일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_11/3B4Be_1697165306845rjt8w_JPEG/1697165306832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
