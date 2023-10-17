@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 13:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 14:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[웰컴K-스테이지] 2회차 <뮤직드라마 당신만이>]]></title>
-            <link>https://tv.naver.com/l/139810</link>
-            <guid>https://tv.naver.com/l/139810</guid>
-            <pubDate>Tue, 26 Sep 2023 03:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[10월 17일(화) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_74/3anei_1695610271182dNFsi_JPEG/1695610271138.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <경종수정실록> 2차 중계 10/17 오후 8시]]></title>
@@ -89,6 +81,15 @@
             <pubDate>Mon, 16 Oct 2023 17:12:31 GMT</pubDate>
             <content:encoded><![CDATA[10월 30일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231013_11/3B4Be_1697165306845rjt8w_JPEG/1697165306832.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Fri, 22 Sep 2023 12:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
