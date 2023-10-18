@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 13:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 14:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[웰컴K-스테이지] 3회차 <난설>]]></title>
-            <link>https://tv.naver.com/l/139811</link>
-            <guid>https://tv.naver.com/l/139811</guid>
-            <pubDate>Tue, 26 Sep 2023 03:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[10월 18일(수) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_158/XJZ9E_1695610514362rNia8_JPEG/1695610514283.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬<타오르는 어둠 속에서> 공연 실황 생중계]]></title>
             <link>https://tv.naver.com/l/140793</link>
