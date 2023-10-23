@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 16:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 17:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/23(월) 박정원 김경수 정지우 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[10월 23일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_32/epmaf_1694245457732Eutzz_JPEG/1694245457712.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 5회차 <김종욱 찾기> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/139813</link>
@@ -92,6 +83,15 @@
             <guid>https://tv.naver.com/l/141288</guid>
             <pubDate>Mon, 23 Oct 2023 14:13:34 GMT</pubDate>
             <content:encoded><![CDATA[11월 13일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/141290</link>
+            <guid>https://tv.naver.com/l/141290</guid>
+            <pubDate>Mon, 23 Oct 2023 17:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
