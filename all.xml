@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 13:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 14:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[웰컴K-스테이지] 5회차 <김종욱 찾기> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/139813</link>
-            <guid>https://tv.naver.com/l/139813</guid>
-            <pubDate>Mon, 09 Oct 2023 17:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[10월 24일(화) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <경종수정실록> 3차 중계 10/24 오후 8시 (네이버 공연 live beta)]]></title>
@@ -111,14 +103,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20231020_140/1697786157167gBeHN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <경종수정실록> 공연실황기록되지 않은, 기록할 수 없었던 그 날. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231017_165/1697514915499UnaAv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
@@ -133,14 +117,6 @@
             <pubDate>Fri, 20 Oct 2023 00:56:08 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231020_140/1697786157167gBeHN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <경종수정실록> 공연실황기록되지 않은, 기록할 수 없었던 그 날. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231017_165/1697514915499UnaAv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
