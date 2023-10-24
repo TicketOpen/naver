@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 14:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 15:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 3차 중계 10/24 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[10월 24일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_76/WIhgG_16953498631042g3A9_JPEG/1695349863087.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 마지막 6회차 <매직 드로잉 쇼 두들팝> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/139814</link>
