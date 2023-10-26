@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 04:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 05:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,15 +23,6 @@
             <pubDate>Fri, 22 Sep 2023 12:24:28 GMT</pubDate>
             <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <신의 손가락> 10/31 오후 8시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Fri, 20 Oct 2023 00:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[10월 31일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_187/6DhWN_1697107876255bQf4Y_JPEG/1697107876235.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
