@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 16:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 17:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											가장 사적인 콘서트 <강다니엘: 마이 퍼레이드> (네이버 공연 live beta)]]></title>
