@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 13:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 14:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,28 +61,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <안나, 차이코프스키>나는 악보를 쓰고 당신은 가사를 쓰는 거에요. 그렇게 어두운 밤을 함께 견뎌요. (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
             <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
             <pubDate>Tue, 24 Oct 2023 07:12:32 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231027_131/1698393993943KKKiq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <안나, 차이코프스키>나는 악보를 쓰고 당신은 가사를 쓰는 거에요. 그렇게 어두운 밤을 함께 견뎌요. (네이버 공연 live beta ─ 하이라이트)]]></title>
