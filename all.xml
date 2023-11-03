@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 06:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 07:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <pubDate>Tue, 24 Oct 2023 07:12:32 GMT</pubDate>
             <content:encoded><![CDATA[11월 06일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											가장 사적인 시사회 "사랑의 불시착: 라이브 인 서울" (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/142048</link>
-            <guid>https://tv.naver.com/l/142048</guid>
-            <pubDate>Thu, 02 Nov 2023 00:56:05 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일(일) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_229/xeNwv_1698832313067tWyeT_JPEG/1698832313026.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[후원
