@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 11:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 12:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <pubDate>Tue, 24 Oct 2023 07:12:32 GMT</pubDate>
             <content:encoded><![CDATA[11월 06일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <렌트> 시츠프로브 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/142090</link>
+            <guid>https://tv.naver.com/l/142090</guid>
+            <pubDate>Fri, 03 Nov 2023 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[11월 07일(화) 18:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_148/IKglA_1698889881454kid0p_JPEG/1698889881434.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
