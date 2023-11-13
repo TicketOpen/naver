@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 14:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <안나, 차이코프스키> : 박규원, 최서연, 안재영, 김지온, 송상훈, 손지원, 곽나윤, 홍기범]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 24 Oct 2023 07:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[11월 13일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범]]></title>
