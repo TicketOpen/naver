@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 04:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 05:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,9 +28,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <킴즈> 11/28일 오후 8시]]></title>
-            <link>https://tv.naver.com/l/142533</link>
-            <guid>https://tv.naver.com/l/142533</guid>
-            <pubDate>Mon, 13 Nov 2023 06:16:54 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Wed, 15 Nov 2023 05:12:25 GMT</pubDate>
             <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
         </item>
