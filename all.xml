@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 01:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 02:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <잘못된 성장의 사례> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/v/42940726</link>
+            <guid>https://tv.naver.com/v/42940726</guid>
+            <pubDate>Fri, 17 Nov 2023 02:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일(금) 10:58]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231117_90/1700186576658Xa2I9_PNG/23091814264826916353.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범 (네이버 공연 live beta)]]></title>
