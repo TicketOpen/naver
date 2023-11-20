@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 14:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 15:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,15 +14,6 @@
             <pubDate>Fri, 17 Nov 2023 02:29:00 GMT</pubDate>
             <content:encoded><![CDATA[11월 17일(금) 10:58]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231117_90/1700186576658Xa2I9_PNG/23091814264826916353.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 24 Oct 2023 07:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -88,28 +79,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_214/cya7U_1700191734495tyvtE_JPEG/1700191734467.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <안나, 차이코프스키>나는 악보를 쓰고 당신은 가사를 쓰는 거에요. 그렇게 어두운 밤을 함께 견뎌요. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 24 Oct 2023 07:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231027_131/1698393993943KKKiq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <아가사> 온라인 중계 앵콜영국 대표 추리소설 작가 '아가사 크리스티'의 실종 실화를 바탕 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
             <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
             <pubDate>Tue, 07 Nov 2023 05:12:29 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231107_143/16993339040944fRFv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <안나, 차이코프스키>나는 악보를 쓰고 당신은 가사를 쓰는 거에요. 그렇게 어두운 밤을 함께 견뎌요. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 24 Oct 2023 07:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231027_131/1698393993943KKKiq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <아가사> 온라인 중계 앵콜영국 대표 추리소설 작가 '아가사 크리스티'의 실종 실화를 바탕 (네이버 공연 live beta ─ 하이라이트)]]></title>
