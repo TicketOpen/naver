@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 00:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 02:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <잘못된 성장의 사례>]]></title>
-            <link>https://tv.naver.com/v/42940726</link>
-            <guid>https://tv.naver.com/v/42940726</guid>
-            <pubDate>Fri, 17 Nov 2023 02:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[11월 17일(금) 10:58]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231117_90/1700186576658Xa2I9_PNG/23091814264826916353.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.)]]></title>
