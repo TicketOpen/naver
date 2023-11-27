@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 14:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 15:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <루드윅:베토벤 더 피아노> 1차 중계 11/27(월) 20시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Fri, 24 Nov 2023 04:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[11월 27일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_87/8Vk2F_1700559751149p9MKV_JPEG/1700559751117.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <킴즈> 11/28일 오후 8시]]></title>
