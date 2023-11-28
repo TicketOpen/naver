@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 14:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 15:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <킴즈>완벽한 가족의 완벽한 반전!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 22 Nov 2023 20:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_286/1700558726712esvQJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</link>
@@ -46,14 +38,6 @@
             <pubDate>Tue, 28 Nov 2023 07:12:34 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <킴즈>완벽한 가족의 완벽한 반전!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 22 Nov 2023 20:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_286/1700558726712esvQJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신]]></title>

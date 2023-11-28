@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 14:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 15:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <킴즈> 11/28일 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 15 Nov 2023 05:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <사의찬미> 12/1 20:00 녹화중계 (네이버 공연 live beta)]]></title>
@@ -98,12 +89,13 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <킴즈>완벽한 가족의 완벽한 반전! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 15 Nov 2023 05:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_286/1700558726712esvQJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Fri, 24 Nov 2023 04:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -136,14 +128,6 @@
             <pubDate>Tue, 28 Nov 2023 07:12:29 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <킴즈>완벽한 가족의 완벽한 반전! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 15 Nov 2023 05:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_286/1700558726712esvQJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신 (네이버 공연 live beta ─ 하이라이트)]]></title>
