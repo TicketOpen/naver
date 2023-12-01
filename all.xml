@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 14:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 15:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <사의찬미> 12/1 20:00 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Mon, 20 Nov 2023 06:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 01일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_118/fWpqa_1700191624334aIB7I_JPEG/1700191624314.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <루드윅:베토벤 더 피아노> 2차 중계 12/4(월) 20시 (네이버 공연 live beta)]]></title>
@@ -96,6 +87,15 @@
             <pubDate>Fri, 24 Nov 2023 04:15:46 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 3차 중계 12/19(화) 오후 8시 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_220/peMmq_1700225788992n06tW_JPEG/1700225788955.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신 (네이버 공연 live beta ─ 하이라이트)]]></title>
