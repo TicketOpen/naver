@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 14:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 15:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 28 Nov 2023 08:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 7일(목) (네이버 공연 live beta)]]></title>
@@ -96,6 +87,15 @@
             <pubDate>Tue, 28 Nov 2023 07:12:29 GMT</pubDate>
             <content:encoded><![CDATA[12월 21일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_144/QIO6c_1701052733009GEfWg_JPEG/1701052732973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 12/22 20:00 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Mon, 20 Nov 2023 06:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신 (네이버 공연 live beta ─ 하이라이트)]]></title>
