@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 14:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 15:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											연극 헤르츠클란 녹화 중계_12월 7일(목)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[12월 07일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_170/DTtO6_1701052219729dMB7q_JPEG/1701052219692.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <배니싱> 12/8 20:00 녹화중계]]></title>
@@ -96,6 +87,15 @@
             <pubDate>Mon, 20 Nov 2023 06:17:42 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
+            <pubDate>Thu, 07 Dec 2023 15:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 27일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_159/HoeuQ_1701683991042Owga5_JPEG/1701683991022.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
