@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 14:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 15:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,14 +98,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231204_142/F7KX0_1701661013211rsW2Y_JPEG/1701661013181.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</guid>
-            <pubDate>Tue, 21 Nov 2023 10:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_291/17005584908838E3xa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
             <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
@@ -128,14 +120,6 @@
             <pubDate>Tue, 28 Nov 2023 07:12:29 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</guid>
-            <pubDate>Tue, 21 Nov 2023 10:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_291/17005584908838E3xa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립! (네이버 공연 live beta ─ 하이라이트)]]></title>
