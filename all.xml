@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 13:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 14:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <겨울나그네> 시츠프로브 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/144471</link>
-            <guid>https://tv.naver.com/l/144471</guid>
-            <pubDate>Mon, 11 Dec 2023 02:00:43 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(수) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231207_180/6FKXb_1701941918939BdiT5_JPEG/1701941918912.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 14일(목) (네이버 공연 live beta)]]></title>
@@ -93,6 +85,15 @@
             <pubDate>Wed, 13 Dec 2023 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(일) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231213_193/1702435274478jLHbc_JPEG/1701951138653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											Happy Opera Day ④ 국립오페라단 오페라 <라 트라비아타> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 13 Dec 2023 03:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(월) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231213_183/17024353474869YDwk_JPEG/1701951496200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립! (네이버 공연 live beta ─ 하이라이트)]]></title>
