@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 14:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 15:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 14 Dec 2023 04:16:05 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Wed, 22 Nov 2023 20:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_207/1700558259917iEBT5_JPEG/880X495_TV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <루드윅 : 베토벤 더 피아노>]]></title>
@@ -46,14 +38,6 @@
             <pubDate>Thu, 14 Dec 2023 04:16:05 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Wed, 22 Nov 2023 20:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_207/1700558259917iEBT5_JPEG/880X495_TV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <루드윅 : 베토벤 더 피아노>]]></title>
