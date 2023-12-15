@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 11:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 12:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,7 +17,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 <푸에르자 부르타> 네이버 생중계 (네이버 공연 live beta)]]></title>
+            <title><![CDATA[2023 <푸에르자 부르타> 네이버 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/144964</link>
             <guid>https://tv.naver.com/l/144964</guid>
             <pubDate>Fri, 15 Dec 2023 05:13:18 GMT</pubDate>
