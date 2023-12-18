@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 14:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 15:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 14 Dec 2023 04:16:05 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <루드윅 : 베토벤 더 피아노>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 28 Nov 2023 08:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231128_61/17011555838751Q9Ha_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <헤르츠클란>과거와 현실로 오가며 찾아 나서는 진정한 '나'에게로 이르는 길]]></title>
@@ -38,14 +30,6 @@
             <pubDate>Thu, 14 Dec 2023 04:16:05 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <루드윅 : 베토벤 더 피아노>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 28 Nov 2023 08:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231128_61/17011555838751Q9Ha_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <헤르츠클란>과거와 현실로 오가며 찾아 나서는 진정한 '나'에게로 이르는 길]]></title>

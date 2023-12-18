@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 14:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 15:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <와일드 그레이> 3차 중계 12/19(화) 오후 8시]]></title>
@@ -94,6 +85,15 @@
             <pubDate>Fri, 15 Dec 2023 15:13:33 GMT</pubDate>
             <content:encoded><![CDATA[12월 28일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231204_142/F7KX0_1701661013211rsW2Y_JPEG/1701661013181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 12/29 20:00 녹화중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_214/cya7U_1700191734495tyvtE_JPEG/1700191734467.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
