@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 14:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 15:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											연극 헤르츠클란 녹화 중계_12월 21일(목) (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_144/QIO6c_1701052733009GEfWg_JPEG/1701052732973.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <팔리아치&외투> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/144085</link>
@@ -104,28 +95,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <헤르츠클란>과거와 현실로 오가며 찾아 나서는 진정한 '나'에게로 이르는 길 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <이토록 보통의> 배리어프리 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
             <pubDate>Thu, 14 Dec 2023 04:16:05 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <헤르츠클란>과거와 현실로 오가며 찾아 나서는 진정한 '나'에게로 이르는 길 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

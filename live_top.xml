@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 14:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 15:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,28 +16,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <헤르츠클란>과거와 현실로 오가며 찾아 나서는 진정한 '나'에게로 이르는 길]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <이토록 보통의> 배리어프리 중계]]></title>
             <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
             <pubDate>Thu, 14 Dec 2023 04:16:05 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <헤르츠클란>과거와 현실로 오가며 찾아 나서는 진정한 '나'에게로 이르는 길]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
