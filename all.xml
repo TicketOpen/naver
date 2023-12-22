@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 10:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 11:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,15 +14,6 @@
             <pubDate>Wed, 13 Dec 2023 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(금) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231213_193/1702435068845kgVHb_JPEG/1701411423320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <사의찬미> 12/22 20:00 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <토스카> (네이버 공연 live beta)]]></title>
