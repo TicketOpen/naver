@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 13:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 14:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <토스카>]]></title>
-            <link>https://tv.naver.com/l/144089</link>
-            <guid>https://tv.naver.com/l/144089</guid>
-            <pubDate>Wed, 13 Dec 2023 03:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 23일(토) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231213_168/1702435168333IStoC_JPEG/1701413342733.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											Happy Opera Day ③ 국립오페라단 오페라 <서부의 아가씨>]]></title>
