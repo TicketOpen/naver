@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 14:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 15:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											Happy Opera Day ④ 국립오페라단 오페라 <라 트라비아타>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Wed, 13 Dec 2023 03:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(월) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231213_183/17024353474869YDwk_JPEG/1701951496200.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막]]></title>
