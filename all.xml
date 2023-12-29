@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 14:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 15:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <사의찬미> 12/29 20:00 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[12월 29일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_214/cya7U_1700191734495tyvtE_JPEG/1700191734467.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											가장 사적인 클래식 - 로열 오페라 하우스 발레 돈키호테 (네이버 공연 live beta)]]></title>
@@ -43,14 +34,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231228_160/mQ50N_1703727855995TxzMi_JPEG/1703727855975.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_207/1700558259917iEBT5_JPEG/880X495_TV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[로열 오페라 하우스 발레 돈키호테가장 사적인 클래식 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
             <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
@@ -65,14 +48,6 @@
             <pubDate>Tue, 26 Dec 2023 06:16:58 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231226_158/1703573026215XfUd0_PNG/1111.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Sun, 10 Dec 2023 19:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_207/1700558259917iEBT5_JPEG/880X495_TV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로열 오페라 하우스 발레 돈키호테가장 사적인 클래식 (네이버 공연 live beta ─ 하이라이트)]]></title>
