@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 14:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 15:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <레드북> 01월 07일 18:00 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Tue, 26 Dec 2023 06:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[01월 07일(일) 18:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231226_267/1703561953878YV8RI_PNG/1111.PNG" length="0" type="image/PNG"/>
-        </item>
         <item>
             <title><![CDATA[2024 신년음악회]]></title>
             <link>https://tv.naver.com/l/146081</link>
