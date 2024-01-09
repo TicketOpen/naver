@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 09:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 10:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 신년음악회]]></title>
-            <link>https://tv.naver.com/l/146081</link>
-            <guid>https://tv.naver.com/l/146081</guid>
-            <pubDate>Fri, 05 Jan 2024 04:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[01월 09일(화) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240103_212/iNaJ9_1704275190346QdHn0_JPEG/1704275190332.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[대한민국뮤지컬페스티벌 - 제8회 한국뮤지컬어워즈]]></title>
             <link>https://tv.naver.com/l/145695</link>
