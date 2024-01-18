@@ -4,17 +4,53 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 23:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 00:59:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[후원
-											가장 사적인 클래식 -로열 발레단 (네이버 공연 live beta)]]></title>
+											가장 사적인 클래식 -로열 발레단 <호두까기인형> (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
             <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
             <pubDate>Fri, 05 Jan 2024 17:12:48 GMT</pubDate>
             <content:encoded><![CDATA[01월 20일(토) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240105_192/gJvSt_1704442297338KerGi_JPEG/1704442297264.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <해적> 2월 19일(월) 오후 7시 실황 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/146807</link>
+            <guid>https://tv.naver.com/l/146807</guid>
+            <pubDate>Thu, 18 Jan 2024 00:59:31 GMT</pubDate>
+            <content:encoded><![CDATA[02월 19일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240116_209/fL94y_1705386340231tVyNA_JPEG/1705386340211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <해적> 2월 26일(월) 오후 7시 실황 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/146808</link>
+            <guid>https://tv.naver.com/l/146808</guid>
+            <pubDate>Thu, 18 Jan 2024 00:59:31 GMT</pubDate>
+            <content:encoded><![CDATA[02월 26일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240116_147/lbUHS_1705386878190O8Lwl_JPEG/1705386878170.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <해적> 3월 4일(월) 오후 7시 실황 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/146809</link>
+            <guid>https://tv.naver.com/l/146809</guid>
+            <pubDate>Thu, 18 Jan 2024 00:59:31 GMT</pubDate>
+            <content:encoded><![CDATA[03월 04일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240116_51/uf0uG_1705387264102t7dw8_JPEG/1705387264073.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <해적> 3월 11일(월) 오후 7시 실황 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/146810</link>
+            <guid>https://tv.naver.com/l/146810</guid>
+            <pubDate>Thu, 18 Jan 2024 00:59:31 GMT</pubDate>
+            <content:encoded><![CDATA[03월 11일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240116_201/nFs4P_1705387363557AVkrt_JPEG/1705387363542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
