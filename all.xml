@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 13:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 14:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,22 +51,6 @@
             <pubDate>Thu, 18 Jan 2024 00:59:31 GMT</pubDate>
             <content:encoded><![CDATA[03월 11일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240116_201/nFs4P_1705387363557AVkrt_JPEG/1705387363542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 사적인 클래식 -로열 발레단 <호두까기인형> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene?rewardId=pat-t-add-848</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene?rewardId=pat-t-add-848</guid>
-            <pubDate>Thu, 18 Jan 2024 02:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240118_114/1705539559833XBNNg_JPEG/1704450379223.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 사적인 클래식 -로열 발레단 <호두까기인형> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene?rewardId=pat-t-add-848</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene?rewardId=pat-t-add-848</guid>
-            <pubDate>Thu, 18 Jan 2024 02:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240118_114/1705539559833XBNNg_JPEG/1704450379223.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
