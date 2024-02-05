@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 14:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 15:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,28 +53,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240116_201/nFs4P_1705387363557AVkrt_JPEG/1705387363542.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <레드북> 녹화중계 나는, 나를 말하는 사람 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Mon, 22 Jan 2024 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231226_158/1703573026215XfUd0_PNG/1111.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <해적> 우리한테 마지막 항해란건 없어 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
             <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
             <pubDate>Tue, 23 Jan 2024 06:18:10 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240124_245/1706027636170gaCCl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <레드북> 녹화중계 나는, 나를 말하는 사람 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Mon, 22 Jan 2024 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231226_158/1703573026215XfUd0_PNG/1111.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <해적> 우리한테 마지막 항해란건 없어 (네이버 공연 live beta ─ 하이라이트)]]></title>
