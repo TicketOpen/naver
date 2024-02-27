@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 03:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 04:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://g-grafolio.pstatic.net/20240124_245/1706027636170gaCCl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <미오 프라텔로>거절할 수 없는 제안을 하지]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Tue, 23 Jan 2024 17:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240227_152/1709005691303FxIeT_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <해적> 우리한테 마지막 항해란건 없어]]></title>
             <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
             <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
             <pubDate>Tue, 23 Jan 2024 17:12:29 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240124_245/1706027636170gaCCl_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미오 프라텔로>거절할 수 없는 제안을 하지]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Tue, 23 Jan 2024 17:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240227_152/1709005691303FxIeT_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
