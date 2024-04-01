@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 03:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 04:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,14 @@
             <pubDate>Tue, 23 Jan 2024 06:18:10 GMT</pubDate>
             <content:encoded><![CDATA[04월 01일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240207_45/67rvB_1707290921494a6Lu8_JPEG/1707290921475.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 <파가니니> 가든콘서트]]></title>
+            <link>https://tv.naver.com/l/151188</link>
+            <guid>https://tv.naver.com/l/151188</guid>
+            <pubDate>Mon, 01 Apr 2024 04:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[04월 02일(화) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240401_284/ydyFZ_1711936074251WePOo_JPEG/1711936074221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
