@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 10:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 11:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 뮤지컬 <파가니니> 가든콘서트]]></title>
-            <link>https://tv.naver.com/l/151188</link>
-            <guid>https://tv.naver.com/l/151188</guid>
-            <pubDate>Mon, 01 Apr 2024 04:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[04월 02일(화) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240401_284/ydyFZ_1711936074251WePOo_JPEG/1711936074221.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <미오 프라텔로> 4월 8일(월) 오후 7시 녹화 중계]]></title>
