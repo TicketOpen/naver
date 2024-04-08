@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 10:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 11:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,14 @@
             <pubDate>Tue, 23 Jan 2024 06:18:10 GMT</pubDate>
             <content:encoded><![CDATA[04월 08일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240207_232/iLPL3_1707291041602vO1xR_JPEG/1707291041588.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미스트> 공연 실황 생중계]]></title>
+            <link>https://tv.naver.com/l/151651</link>
+            <guid>https://tv.naver.com/l/151651</guid>
+            <pubDate>Mon, 08 Apr 2024 11:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[04월 11일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240408_81/0kpby_1712570621053u3YzL_JPEG/1712570621016.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
