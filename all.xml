@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 02:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 03:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,15 @@
             <pubDate>Mon, 08 Apr 2024 07:14:20 GMT</pubDate>
             <content:encoded><![CDATA[04월 25일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240405_276/erl7q_1712325698595I1Q78_JPEG/1712325698570.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <안테모사> 4월 29일 20:00 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/makingaperformance</link>
+            <guid>https://patron.naver.com/ntv/c/intro/makingaperformance</guid>
+            <pubDate>Thu, 11 Apr 2024 03:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[04월 29일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240403_145/wXdME_1712130099936XRJDN_JPEG/1712130099919.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작산실 음악 <시선 si, Sonne!> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
