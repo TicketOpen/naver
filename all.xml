@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 08:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 09:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											오페라 <한여름 밤의 꿈> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Thu, 21 Mar 2024 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[04월 13일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240311_31/D90xh_1710142294822SGIud_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <22년2개월> 04월 15일 19:00 녹화 중계 (네이버 공연 live beta)]]></title>
@@ -92,14 +83,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240405_281/CA5z1_1712326152477FpINw_JPEG/1712326152470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립오페라단 <한여름 밤의 꿈> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Thu, 21 Mar 2024 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240321_238/1711006190827Hmli2_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <22년2개월> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ateod</link>
             <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
@@ -114,14 +97,6 @@
             <pubDate>Thu, 11 Apr 2024 03:13:58 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240411_262/1712821351782c8e0S_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립오페라단 <한여름 밤의 꿈> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Thu, 21 Mar 2024 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240321_238/1711006190827Hmli2_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <22년2개월> (네이버 공연 live beta ─ 하이라이트)]]></title>
