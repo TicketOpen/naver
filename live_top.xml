@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 13:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 14:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <22년2개월>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Thu, 11 Apr 2024 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240411_15/1712821514918ctD7M_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <안테모사>사소한 모든 것들이 의미 있어지는 곳!]]></title>
             <link>https://patron.naver.com/ntv/c/intro/makingaperformance</link>
@@ -22,14 +14,6 @@
             <pubDate>Thu, 11 Apr 2024 08:16:59 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240411_262/1712821351782c8e0S_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <22년2개월>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Thu, 11 Apr 2024 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240411_15/1712821514918ctD7M_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <안테모사>사소한 모든 것들이 의미 있어지는 곳!]]></title>
