@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 11:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 12:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작산실 무용 "Yaras" 공연실황 녹화중계]]></title>
-            <link>https://tv.naver.com/l/151408</link>
-            <guid>https://tv.naver.com/l/151408</guid>
-            <pubDate>Mon, 08 Apr 2024 07:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[04월 16일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240404_198/h47Qg_1712205311371QAViU_JPEG/1712205311352.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[창작산실 전통예술 <만중삭만> 공연실황 녹화중계]]></title>
             <link>https://tv.naver.com/l/151522</link>
