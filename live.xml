@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 12:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 13:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작산실 전통예술 <물의 놀이> 공연실황 녹화중계]]></title>
-            <link>https://tv.naver.com/l/151524</link>
-            <guid>https://tv.naver.com/l/151524</guid>
-            <pubDate>Mon, 08 Apr 2024 07:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[04월 25일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240405_276/erl7q_1712325698595I1Q78_JPEG/1712325698570.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안테모사> 4월 29일 20:00 녹화 중계]]></title>
