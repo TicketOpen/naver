@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 06:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,8 +33,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240405_281/CA5z1_1712326152477FpINw_JPEG/1712326152470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											창작산실 전통예술 <밤쩌> 공연실황 녹화중계]]></title>
+            <title><![CDATA[창작산실 전통예술 <밤쩌> 공연실황 녹화중계]]></title>
             <link>https://tv.naver.com/l/152626</link>
             <guid>https://tv.naver.com/l/152626</guid>
             <pubDate>Fri, 26 Apr 2024 05:13:10 GMT</pubDate>
@@ -50,6 +49,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_150/WId0C_1714007324560PHd2A_JPEG/1714007324544.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[창작산실 음악 <크로스 콘체르토 프로젝트> 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/152628</link>
+            <guid>https://tv.naver.com/l/152628</guid>
+            <pubDate>Fri, 26 Apr 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[05월 14일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_146/vHCC0_1714007546219ADFro_JPEG/1714007546196.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작산실 연극 <화전> 공연실황 녹화중계]]></title>
+            <link>https://tv.naver.com/l/152629</link>
+            <guid>https://tv.naver.com/l/152629</guid>
+            <pubDate>Fri, 26 Apr 2024 06:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[05월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_292/8vj56_1714007698646d5QLc_JPEG/1714007698632.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작산실 무용  공연실황 녹화중계]]></title>
+            <link>https://tv.naver.com/l/152630</link>
+            <guid>https://tv.naver.com/l/152630</guid>
+            <pubDate>Fri, 26 Apr 2024 06:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[05월 23일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_225/CxYD3_1714007957281jRLXJ_JPEG/1714007957254.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											오페라 <죽음의 도시>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
@@ -57,6 +80,14 @@
             <pubDate>Fri, 26 Apr 2024 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[05월 25일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240417_144/saNxL_1713328740823GAeTm_PNG/1713328740726.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창작산실 음악  공연실황 녹화중계]]></title>
+            <link>https://tv.naver.com/l/152631</link>
+            <guid>https://tv.naver.com/l/152631</guid>
+            <pubDate>Fri, 26 Apr 2024 06:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[05월 28일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_201/jNuJo_1714008142588mUTxM_JPEG/1714008142570.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
