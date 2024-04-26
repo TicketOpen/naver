@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 04:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 05:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,6 +31,32 @@
             <pubDate>Thu, 11 Apr 2024 11:12:08 GMT</pubDate>
             <content:encoded><![CDATA[05월 02일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240405_281/CA5z1_1712326152477FpINw_JPEG/1712326152470.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작산실 전통예술 <밤쩌> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/152626</link>
+            <guid>https://tv.naver.com/l/152626</guid>
+            <pubDate>Fri, 26 Apr 2024 05:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[05월 07일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_108/YI2zK_1714007026180Oy6IJ_JPEG/1714007026157.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작산실 무용 <애니멀> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/152627</link>
+            <guid>https://tv.naver.com/l/152627</guid>
+            <pubDate>Fri, 26 Apr 2024 05:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[05월 09일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_150/WId0C_1714007324560PHd2A_JPEG/1714007324544.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <죽음의 도시> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Fri, 26 Apr 2024 05:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[05월 25일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240417_144/saNxL_1713328740823GAeTm_PNG/1713328740726.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <안테모사>사소한 모든 것들이 의미 있어지는 곳! (네이버 공연 live beta ─ 하이라이트)]]></title>
