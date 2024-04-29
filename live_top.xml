@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>네이버 공연 live beta ─ 하이라이트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 13:14:57 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <안테모사>사소한 모든 것들이 의미 있어지는 곳!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/makingaperformance</link>
-            <guid>https://patron.naver.com/ntv/c/intro/makingaperformance</guid>
-            <pubDate>Thu, 11 Apr 2024 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240411_262/1712821351782c8e0S_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <안테모사>사소한 모든 것들이 의미 있어지는 곳!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/makingaperformance</link>
-            <guid>https://patron.naver.com/ntv/c/intro/makingaperformance</guid>
-            <pubDate>Thu, 11 Apr 2024 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240411_262/1712821351782c8e0S_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://live.naver.com/</id>
+    <title>네이버 공연 live beta ─ 하이라이트</title>
+    <updated>2024-04-29T14:13:50.429Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://live.naver.com/favicon.ico</icon>
+</feed>
