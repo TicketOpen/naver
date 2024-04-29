@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 06:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 07:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -65,7 +65,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_292/8vj56_1714007698646d5QLc_JPEG/1714007698632.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[창작산실 무용  공연실황 녹화중계]]></title>
+            <title><![CDATA[창작산실 무용 'The Line of Obsession' 공연실황 녹화중계]]></title>
             <link>https://tv.naver.com/l/152630</link>
             <guid>https://tv.naver.com/l/152630</guid>
             <pubDate>Fri, 26 Apr 2024 06:19:08 GMT</pubDate>
@@ -82,7 +82,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240417_144/saNxL_1713328740823GAeTm_PNG/1713328740726.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[창작산실 음악  공연실황 녹화중계]]></title>
+            <title><![CDATA[창작산실 음악 'In & Around C' 공연실황 녹화중계]]></title>
             <link>https://tv.naver.com/l/152631</link>
             <guid>https://tv.naver.com/l/152631</guid>
             <pubDate>Fri, 26 Apr 2024 06:19:08 GMT</pubDate>
