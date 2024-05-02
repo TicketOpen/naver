@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://live.naver.com/</id>
-    <title>네이버 공연 live beta ─ 하이라이트</title>
-    <updated>2024-05-02T13:14:00.068Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://live.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 공연 live beta ─ 하이라이트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 02 May 2024 14:12:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오페라 <죽음의 도시>  어느 날 죽은 아내가 찾아왔다.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 02 May 2024 14:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240502_124/1714658354648lrPUi_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페라 <죽음의 도시>  어느 날 죽은 아내가 찾아왔다.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 02 May 2024 14:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240502_124/1714658354648lrPUi_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
