@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 11:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 12:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작산실 무용 "a Dark room" 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/151526</link>
-            <guid>https://tv.naver.com/l/151526</guid>
-            <pubDate>Thu, 11 Apr 2024 11:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[05월 02일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240405_281/CA5z1_1712326152477FpINw_JPEG/1712326152470.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[창작산실 전통예술 <밤쩌> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/152626</link>
