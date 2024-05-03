@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 03:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 04:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,15 @@
             <pubDate>Fri, 26 Apr 2024 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[05월 09일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_150/WId0C_1714007324560PHd2A_JPEG/1714007324544.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <안테모사> 5월 13일 20:00 앵콜 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/makingaperformance</link>
+            <guid>https://patron.naver.com/ntv/c/intro/makingaperformance</guid>
+            <pubDate>Fri, 03 May 2024 04:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[05월 13일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240501_284/dru4w_1714491247997mQ3He_JPEG/1714491247958.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작산실 음악 <크로스 콘체르토 프로젝트> 녹화 중계]]></title>
@@ -80,14 +89,6 @@
             <pubDate>Mon, 29 Apr 2024 15:14:39 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_163/jDgdW_1714008344796jz0Sj_JPEG/1714008344774.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작산실 창작오페라 <이상의 날개> 공연실황 녹화중계]]></title>
-            <link>https://tv.naver.com/l/152636</link>
-            <guid>https://tv.naver.com/l/152636</guid>
-            <pubDate>Tue, 30 Apr 2024 13:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_280/fu3Fe_17140086239146RQHR_JPEG/1714008623883.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
