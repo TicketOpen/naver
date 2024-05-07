@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 14:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 15:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작산실 전통예술 <밤쩌> 공연실황 녹화중계]]></title>
-            <link>https://tv.naver.com/l/152626</link>
-            <guid>https://tv.naver.com/l/152626</guid>
-            <pubDate>Fri, 26 Apr 2024 05:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[05월 07일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_108/YI2zK_1714007026180Oy6IJ_JPEG/1714007026157.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[창작산실 무용 <애니멀> 공연실황 녹화중계]]></title>
             <link>https://tv.naver.com/l/152627</link>
@@ -89,6 +81,14 @@
             <pubDate>Mon, 29 Apr 2024 15:14:39 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_163/jDgdW_1714008344796jz0Sj_JPEG/1714008344774.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작산실 창작오페라 <이상의 날개> 공연실황 녹화중계]]></title>
+            <link>https://tv.naver.com/l/152636</link>
+            <guid>https://tv.naver.com/l/152636</guid>
+            <pubDate>Tue, 07 May 2024 15:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[06월 04일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_280/fu3Fe_17140086239146RQHR_JPEG/1714008623883.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
