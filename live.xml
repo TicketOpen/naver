@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 13:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 14:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작산실 음악 <크로스 콘체르토 프로젝트> 녹화 중계]]></title>
-            <link>https://tv.naver.com/l/152628</link>
-            <guid>https://tv.naver.com/l/152628</guid>
-            <pubDate>Fri, 26 Apr 2024 06:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[05월 14일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_146/vHCC0_1714007546219ADFro_JPEG/1714007546196.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[창작산실 연극 <화전> 공연실황 녹화중계]]></title>
             <link>https://tv.naver.com/l/152629</link>
