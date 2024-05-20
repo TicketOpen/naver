@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 14:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 15:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용]창작뮤지컬 <여기, 피화당> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Tue, 14 May 2024 12:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[05월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240502_33/vIlm1_1714622817967J0LQo_PNG/1714622817931.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[창작산실 무용 'The Line of Obsession' 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/152630</link>
