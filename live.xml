@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 13:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 14:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작산실 무용 'The Line of Obsession' 공연실황 녹화중계]]></title>
-            <link>https://tv.naver.com/l/152630</link>
-            <guid>https://tv.naver.com/l/152630</guid>
-            <pubDate>Fri, 26 Apr 2024 06:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[05월 23일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_225/CxYD3_1714007957281jRLXJ_JPEG/1714007957254.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											오페라 <죽음의 도시>]]></title>
@@ -92,6 +84,15 @@
             <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
             <content:encoded><![CDATA[06월 07일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240517_59/AliUt_1715948304590xai6u_JPEG/1715948304551.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 06/14 20:00 녹화중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[06월 14일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240517_33/gUHml_1715948355354Oh0TI_JPEG/1715948355337.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
