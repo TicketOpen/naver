@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 05:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 06:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240507_101/lV0iN_1715076676322dpdj1_JPEG/1715076676296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <22년2개월> 05월 27일 19:00 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[05월 27일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240516_216/uDecj_1715848536463B1clE_PNG/1715848536415.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[창작산실 음악 'In & Around C' 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/152631</link>
             <guid>https://tv.naver.com/l/152631</guid>
@@ -50,12 +59,39 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_163/jDgdW_1714008344796jz0Sj_JPEG/1714008344774.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 06/03 20:00 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[06월 03일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240517_237/Y4Xjc_1715948250363qjwhE_JPEG/1715948250348.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[창작산실 창작오페라 <이상의 날개> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/152636</link>
             <guid>https://tv.naver.com/l/152636</guid>
             <pubDate>Tue, 07 May 2024 15:13:17 GMT</pubDate>
             <content:encoded><![CDATA[06월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_280/fu3Fe_17140086239146RQHR_JPEG/1714008623883.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 06/06 20:00 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[06월 06일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240517_294/5hTam_1715948281567Yi6hR_JPEG/1715948281553.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 06/07 20:00 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[06월 07일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240517_59/AliUt_1715948304590xai6u_JPEG/1715948304551.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오페라 <죽음의 도시>  어느 날 죽은 아내가 찾아왔다. (네이버 공연 live beta ─ 하이라이트)]]></title>
