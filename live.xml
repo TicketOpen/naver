@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 02:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 03:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,6 +75,24 @@
             <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
             <content:encoded><![CDATA[06월 21일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240517_192/u7xPP_1715948386899xkEHk_JPEG/1715948386884.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <후크> 7월 1일(월) 오후 7시 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/154232</link>
+            <guid>https://tv.naver.com/l/154232</guid>
+            <pubDate>Tue, 28 May 2024 03:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[07월 01일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240523_1/fFJ5n_1716462251102i8dSc_JPEG/1716462251051.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <후크> 7월 8일(월) 오후 7시 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/154234</link>
+            <guid>https://tv.naver.com/l/154234</guid>
+            <pubDate>Tue, 28 May 2024 03:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[07월 08일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240523_190/jIPDY_1716462372836YNMNV_JPEG/1716462372796.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
