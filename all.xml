@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 14:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 15:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <사의찬미> 06/03 20:00 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[06월 03일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240517_237/Y4Xjc_1715948250363qjwhE_JPEG/1715948250348.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[창작산실 창작오페라 <이상의 날개> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/152636</link>
