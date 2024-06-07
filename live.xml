@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 01:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 02:31:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,15 @@
             <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
             <content:encoded><![CDATA[06월 14일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240517_33/gUHml_1715948355354Oh0TI_JPEG/1715948355337.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											가장 사적인 클래식 - 로열 발레단 <백조의 호수>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
+            <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
+            <pubDate>Fri, 07 Jun 2024 02:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[06월 15일(토) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240604_176/sbxAg_1717497209260YL2es_JPEG/1717497209235.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[후원
