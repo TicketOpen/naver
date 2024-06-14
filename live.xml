@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 14:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 15:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <사의찬미> 06/14 20:00 녹화중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[06월 14일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240517_33/gUHml_1715948355354Oh0TI_JPEG/1715948355337.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											가장 사적인 클래식 - 로열 발레단 <백조의 호수>]]></title>
