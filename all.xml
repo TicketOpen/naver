@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 12:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 13:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,28 +53,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240523_232/YrpFm_1716462445123Co17n_JPEG/1716462445070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영국 로열 발레단 <백조의 호수> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 07 Jun 2024 02:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240607_262/17177230762364mQ2Q_JPEG/1717497209235.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <사의 찬미>"우린 새로운 세상으로 갈 거야. 준비됐어?" (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
             <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
             <pubDate>Thu, 23 May 2024 06:20:07 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240527_275/1716813850037QsgL7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 로열 발레단 <백조의 호수> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 07 Jun 2024 02:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240607_262/17177230762364mQ2Q_JPEG/1717497209235.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <사의 찬미>"우린 새로운 세상으로 갈 거야. 준비됐어?" (네이버 공연 live beta ─ 하이라이트)]]></title>
