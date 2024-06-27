@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 05:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 06:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <title><![CDATA[뮤지컬 <후크>세상에서 가장 신나는 놀이 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
             <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Thu, 27 Jun 2024 05:15:22 GMT</pubDate>
+            <pubDate>Thu, 27 Jun 2024 05:15:18 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240627_42/1719462788761I4YlR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -90,7 +90,7 @@
             <title><![CDATA[뮤지컬 <후크>세상에서 가장 신나는 놀이 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
             <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Thu, 27 Jun 2024 05:15:22 GMT</pubDate>
+            <pubDate>Thu, 27 Jun 2024 05:15:18 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240627_42/1719462788761I4YlR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
