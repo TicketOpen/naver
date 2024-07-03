@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 05:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 06:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,9 +28,9 @@
         <item>
             <title><![CDATA[후원
 											여름이었다 특집 <무인도 탈출기> 2020초연ver 녹화 중계]]></title>
-            <link>https://tv.naver.com/l/156411</link>
-            <guid>https://tv.naver.com/l/156411</guid>
-            <pubDate>Wed, 03 Jul 2024 05:14:52 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
             <content:encoded><![CDATA[07월 12일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240701_7/N1Ziz_17198259725737sk65_JPEG/1719825972552.jpg" length="0" type="image/jpg"/>
         </item>
@@ -46,9 +46,9 @@
         <item>
             <title><![CDATA[후원
 											여름이었다 특집 <무인도 탈출기> 2020초연ver 녹화 중계]]></title>
-            <link>https://tv.naver.com/l/156412</link>
-            <guid>https://tv.naver.com/l/156412</guid>
-            <pubDate>Wed, 03 Jul 2024 05:14:52 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
             <content:encoded><![CDATA[07월 16일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240701_219/JuvRU_1719826191260P7mWM_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
         </item>
