@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 11:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 12:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <애프터 라이프>  제18회 DIMF 공식초청작]]></title>
-            <link>https://tv.naver.com/l/156547</link>
-            <guid>https://tv.naver.com/l/156547</guid>
-            <pubDate>Wed, 03 Jul 2024 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[07월 07일(일) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240703_29/xpETN_1719992125273fHesx_JPEG/1719992125267.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <후크> 7월 8일(월) CAST : 손유동 동 현 정우연]]></title>
