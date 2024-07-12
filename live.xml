@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 14:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 15:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											여름이었다 특집 <무인도 탈출기> 2020초연ver 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[07월 12일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240701_7/N1Ziz_17198259725737sk65_JPEG/1719825972552.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <후크> 7월 15일(월) CAST : 박상혁 김지온 최미소]]></title>
