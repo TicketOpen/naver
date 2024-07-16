@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 01:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 02:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,7 @@
             <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
             <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
             <content:encoded><![CDATA[07월 16일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240701_219/JuvRU_1719826191260P7mWM_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20240716_156/1721095808998BLi0w_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -34,13 +34,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20240627_41/1719462591021abh9p_JPEG/1718592213874.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											무용 <토끼는 어디로 갔나요?>  공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/155588</link>
-            <guid>https://tv.naver.com/l/155588</guid>
-            <pubDate>Thu, 27 Jun 2024 05:15:18 GMT</pubDate>
+            <title><![CDATA[무용   공연실황 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/157137</link>
+            <guid>https://tv.naver.com/l/157137</guid>
+            <pubDate>Tue, 16 Jul 2024 02:33:56 GMT</pubDate>
             <content:encoded><![CDATA[08월 13일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240627_6/1719463427899nInTY_JPEG/1718592953023.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240715_96/CXYMM_1721008397009M0WJh_JPEG/1721008396976.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -59,6 +58,74 @@
             <pubDate>Sat, 06 Jul 2024 15:14:30 GMT</pubDate>
             <content:encoded><![CDATA[08월 20일(화) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240627_249/17194636207078Weo1_JPEG/1718596613078.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름이었다 특집 <무인도 탈출기> 2020초연 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240716_253/1721095836191x1x2g_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <키키의 경계성 인격장애 다이어리> 일반 버전 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://tv.naver.com/l/155586</link>
+            <guid>https://tv.naver.com/l/155586</guid>
+            <pubDate>Thu, 27 Jun 2024 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240716_241/1721096061445PGDeh_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작뮤지컬 <여기, 피화당> 공연실황 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://tv.naver.com/l/155593</link>
+            <guid>https://tv.naver.com/l/155593</guid>
+            <pubDate>Sat, 06 Jul 2024 15:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/l/155593" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20240716_175/17210962250726jJPv_JPEG/1719826191226.jpg" alt=" 창작뮤지컬 <여기, 피화당> 공연실황 이미지">
+										<div class="text-info-box" style="opacity: 1;">
+											<p class="date ellipsis">08월 20일(화) 오후 8시</p>
+											<div class="text-info">
+												
+												
+												<p class="sub-title ellipsis2"> 창작뮤지컬 &lt;여기, 피화당&gt; 공연실황</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240716_175/17210962250726jJPv_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름이었다 특집 <무인도 탈출기> 2020초연 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240716_253/1721095836191x1x2g_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <키키의 경계성 인격장애 다이어리> 일반 버전 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://tv.naver.com/l/155586</link>
+            <guid>https://tv.naver.com/l/155586</guid>
+            <pubDate>Thu, 27 Jun 2024 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240716_241/1721096061445PGDeh_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작뮤지컬 <여기, 피화당> 공연실황 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://tv.naver.com/l/155593</link>
+            <guid>https://tv.naver.com/l/155593</guid>
+            <pubDate>Sat, 06 Jul 2024 15:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/l/155593" class="video">
+										<img class="_lazyImage" src="https://g-grafolio.pstatic.net/20240716_175/17210962250726jJPv_JPEG/1719826191226.jpg" alt=" 창작뮤지컬 <여기, 피화당> 공연실황 이미지">
+										<div class="text-info-box" style="opacity:0;">
+											<p class="date ellipsis">08월 20일(화) 오후 8시</p>
+											<div class="text-info">
+												
+												
+												<p class="sub-title ellipsis2"> 창작뮤지컬 &lt;여기, 피화당&gt; 공연실황</p>
+											</div>
+										</div>
+									</a>]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240716_175/17210962250726jJPv_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
