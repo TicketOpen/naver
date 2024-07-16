@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 14:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 15:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											여름이었다 특집 <무인도 탈출기> 2020초연ver 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[07월 16일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240716_156/1721095808998BLi0w_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <키키의 경계성 인격장애 다이어리> 일반 버전 (네이버 공연 live beta)]]></title>
@@ -60,14 +51,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20240627_249/17194636207078Weo1_JPEG/1718596613078.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름이었다 특집 <무인도 탈출기> 2020초연 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240716_253/1721095836191x1x2g_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <키키의 경계성 인격장애 다이어리> 일반 버전 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://tv.naver.com/l/155586</link>
             <guid>https://tv.naver.com/l/155586</guid>
@@ -92,14 +75,6 @@
 										</div>
 									</a>]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240716_175/17210962250726jJPv_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름이었다 특집 <무인도 탈출기> 2020초연 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Wed, 03 Jul 2024 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240716_253/1721095836191x1x2g_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <키키의 경계성 인격장애 다이어리> 일반 버전 (네이버 공연 live beta ─ 하이라이트)]]></title>
