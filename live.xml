@@ -4,9 +4,18 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 01:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 02:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후원
+											가장 사적인 클래식 로열오페라하우스 안드레아 세니에]]></title>
+            <link>https://tv.naver.com/l/158076</link>
+            <guid>https://tv.naver.com/l/158076</guid>
+            <pubDate>Thu, 01 Aug 2024 02:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[08월 03일(토) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240731_256/9vrrB_1722428220702T1TWs_JPEG/1722428220669.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <키키의 경계성 인격장애 다이어리> 일반 버전]]></title>
