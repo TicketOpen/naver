@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 12:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 13:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,28 +87,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240719_2/MPhVH_17213667465914gdLj_JPEG/1721366746569.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬로 돌아온 웰메이드 드라마 <또!오해영> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Mon, 05 Aug 2024 05:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240805_75/1722830555107gTbnD_PNG/resizing.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[창작뮤지컬 <여기, 피화당> 공연실황 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
             <pubDate>Tue, 23 Jul 2024 04:17:36 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240716_175/17210962250726jJPv_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬로 돌아온 웰메이드 드라마 <또!오해영> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Mon, 05 Aug 2024 05:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240805_75/1722830555107gTbnD_PNG/resizing.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[창작뮤지컬 <여기, 피화당> 공연실황 (네이버 공연 live beta ─ 하이라이트)]]></title>
