@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 10:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 11:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <홍련> 공연 실황 생중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/158306</link>
-            <guid>https://tv.naver.com/l/158306</guid>
-            <pubDate>Tue, 06 Aug 2024 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[08월 13일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240805_120/BF1LW_1722850346322Y26m5_JPEG/1722850346289.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[무용 'Where is the Rabbit?'  공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/157137</link>
