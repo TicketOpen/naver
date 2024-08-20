@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 15:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											창작뮤지컬 <여기, 피화당> 공연실황 녹화중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Tue, 23 Jul 2024 04:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[08월 20일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240627_249/17194636207078Weo1_JPEG/1718596613078.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <해적> 8월 26일(월) 오후 7시 실황 녹화 재중계]]></title>
