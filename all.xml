@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 05:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 06:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,47 @@
             <pubDate>Fri, 19 Jul 2024 07:15:34 GMT</pubDate>
             <content:encoded><![CDATA[09월 09일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240719_2/MPhVH_17213667465914gdLj_JPEG/1721366746569.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레드밀> 9월 18일(수) 21시 LIVE 중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/vibestone88</link>
+            <guid>https://patron.naver.com/ntv/c/intro/vibestone88</guid>
+            <pubDate>Fri, 30 Aug 2024 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[09월 18일(수) 21:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240809_173/Vv0pd_1723193240685GkCGm_JPEG/1723193240651.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <트레드밀> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/vibestone88</link>
+            <guid>https://patron.naver.com/ntv/c/intro/vibestone88</guid>
+            <pubDate>Fri, 30 Aug 2024 06:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240830_168/1724996198577kOWEw_JPEG/1723193240651.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <해적> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Fri, 19 Jul 2024 07:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240830_299/17249964596059bdtD_JPEG/1721366722500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <트레드밀> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/vibestone88</link>
+            <guid>https://patron.naver.com/ntv/c/intro/vibestone88</guid>
+            <pubDate>Fri, 30 Aug 2024 06:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240830_168/1724996198577kOWEw_JPEG/1723193240651.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <해적> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
+            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
+            <pubDate>Fri, 19 Jul 2024 07:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240830_299/17249964596059bdtD_JPEG/1721366722500.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
