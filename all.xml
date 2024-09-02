@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 14:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 15:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <해적> 9월 2일(월) 오후 7시 실황 녹화 재중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Fri, 19 Jul 2024 07:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[09월 02일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240719_41/4fHVB_1721366722540SDY8j_JPEG/1721366722500.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <해적> 9월 9일(월) 오후 7시 실황 녹화 재중계 (네이버 공연 live beta)]]></title>
