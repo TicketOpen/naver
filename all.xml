@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 07:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 08:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,7 +81,7 @@
             <title><![CDATA[뮤지컬 <와일드 그레이> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
             <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Mon, 09 Sep 2024 07:15:44 GMT</pubDate>
+            <pubDate>Mon, 09 Sep 2024 07:15:39 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240909_175/1725865224309CKprT_JPEG/1724838823710.jpg" length="0" type="image/jpg"/>
         </item>
@@ -105,7 +105,7 @@
             <title><![CDATA[뮤지컬 <와일드 그레이> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
             <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Mon, 09 Sep 2024 07:15:44 GMT</pubDate>
+            <pubDate>Mon, 09 Sep 2024 07:15:39 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240909_175/1725865224309CKprT_JPEG/1724838823710.jpg" length="0" type="image/jpg"/>
         </item>
