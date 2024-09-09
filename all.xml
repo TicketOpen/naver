@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 12:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 13:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240828_221/SiIJ0_1724839879652J9WMD_JPEG/1724839879638.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <해적> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Fri, 19 Jul 2024 07:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240830_299/17249964596059bdtD_JPEG/1721366722500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <트레드밀> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/vibestone88</link>
             <guid>https://patron.naver.com/ntv/c/intro/vibestone88</guid>
@@ -84,14 +76,6 @@
             <pubDate>Mon, 09 Sep 2024 07:15:39 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240909_175/1725865224309CKprT_JPEG/1724838823710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <해적> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Fri, 19 Jul 2024 07:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240830_299/17249964596059bdtD_JPEG/1721366722500.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <트레드밀> (네이버 공연 live beta ─ 하이라이트)]]></title>
