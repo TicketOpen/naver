@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <트레드밀> 9월 18일(수) 21시 LIVE 중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/vibestone88</link>
-            <guid>https://patron.naver.com/ntv/c/intro/vibestone88</guid>
-            <pubDate>Fri, 30 Aug 2024 06:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[09월 18일(수) 21:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240809_173/Vv0pd_1723193240685GkCGm_JPEG/1723193240651.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <와일드 그레이> 1차 중계 9/23(월) 오후 8시 (네이버 공연 live beta)]]></title>
