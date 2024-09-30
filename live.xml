@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 14:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 15:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> 2차 중계 9/30(월) 오후 8시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Mon, 09 Sep 2024 07:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[09월 30일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240828_226/sNEY5_1724839325803slg9K_JPEG/1724839325772.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <와일드 그레이> 3차 중계 10/7(월) 오후 8시]]></title>
