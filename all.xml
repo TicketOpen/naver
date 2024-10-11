@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 05:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 06:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,24 @@
             <pubDate>Thu, 10 Oct 2024 02:48:43 GMT</pubDate>
             <content:encoded><![CDATA[10월 21일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20241004_139/lLNaW_1728026655819S3wX2_JPEG/1728026655726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <안나, 차이코프스키> 2차 중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Thu, 10 Oct 2024 02:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[10월 28일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241004_243/8KpAc_1728030805485Xfkfe_JPEG/1728030805458.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <안나, 차이코프스키> 3차 중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Thu, 10 Oct 2024 02:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[11월 04일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241004_249/x2HFz_1728030995994espjR_JPEG/1728030995970.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <와일드 그레이> (네이버 공연 live beta ─ 하이라이트)]]></title>
