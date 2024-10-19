@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Oct 2024 12:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 13:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[오페라  <탄호이저> ❝ 뜨겁게 기도하고 있는 저기 저사람은 누구인가? ❞]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 23 Sep 2024 04:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240923_277/1727064351530wgHY1_PNG/8j4cgqtr.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <안나, 차이코프스키>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
@@ -22,14 +14,6 @@
             <pubDate>Thu, 10 Oct 2024 03:21:30 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20241010_273/1728528886303nacq4_JPEG/5.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[오페라  <탄호이저> ❝ 뜨겁게 기도하고 있는 저기 저사람은 누구인가? ❞]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 23 Sep 2024 04:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20240923_277/1727064351530wgHY1_PNG/8j4cgqtr.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <안나, 차이코프스키>]]></title>
