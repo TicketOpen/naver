@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Oct 2024 14:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 15:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											오페라 <탄호이저> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 23 Sep 2024 04:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[10월 19일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240910_122/m6ojv_1725955090849n6StO_JPEG/1725955090716.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> 1차 중계 (네이버 공연 live beta)]]></title>
