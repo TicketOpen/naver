@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 10:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 11:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <안나, 차이코프스키> 1차 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Thu, 10 Oct 2024 02:48:43 GMT</pubDate>
-            <content:encoded><![CDATA[10월 21일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20241004_139/lLNaW_1728026655819S3wX2_JPEG/1728026655726.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> 2차 중계]]></title>
