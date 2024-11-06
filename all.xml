@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/naver/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-11-06T09:18:10.093Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 06 Nov 2024 10:17:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <개와 고양이의 시간> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Wed, 06 Nov 2024 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241031_54/mABCU_1730352180760i6XE4_PNG/1730352180745.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
