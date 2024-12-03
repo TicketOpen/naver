@@ -4,9 +4,45 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 08:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 09일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241115_209/muPpX_17316513840333YF2f_JPEG/1731651384013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241115_131/3BZ2o_1731651573992BAsVB_JPEG/1731651573976.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 23일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241115_131/V6x65_1731651819282TfG2L_JPEG/1731651819261.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241115_162/RmwxM_1731655020560gXt2S_JPEG/1731655020545.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <스파이> (네이버 공연 live beta)]]></title>
@@ -17,12 +53,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20241120_232/PC8vp_1732077301292xCD2G_JPEG/1732077301184.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <루드윅: 베토벤 더 피아노> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20241203_37/1733212777955SfRwC_JPEG/4.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 '스파이' (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
             <pubDate>Mon, 25 Nov 2024 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20241125_29/1732525746060H6ER0_JPEG/5.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <루드윅: 베토벤 더 피아노> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20241203_37/1733212777955SfRwC_JPEG/4.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 '스파이' (네이버 공연 live beta ─ 하이라이트)]]></title>
