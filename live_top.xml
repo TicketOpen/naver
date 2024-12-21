@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 11:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 12:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가장 사적인 클래식 로열 발레단 <이상한 나라의 앨리스>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 13 Dec 2024 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20241213_36/1734081166642qViVM_JPEG/1.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[가장 사적인 클래식 로열 발레단 <호두까기인형>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
@@ -38,14 +30,6 @@
             <pubDate>Mon, 25 Nov 2024 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20241125_29/1732525746060H6ER0_JPEG/5.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 사적인 클래식 로열 발레단 <이상한 나라의 앨리스>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 13 Dec 2024 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20241213_36/1734081166642qViVM_JPEG/1.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[가장 사적인 클래식 로열 발레단 <호두까기인형>]]></title>
