@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 07:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 08:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											가장 사적인 클래식 로열 발레단 <호두까기인형> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 13 Dec 2024 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(수) 13:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20241212_74/xfdhE_1733985405099inbl2_JPEG/1733985405074.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta)]]></title>
