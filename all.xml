@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 05:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 06:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,14 +35,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20241120_232/PC8vp_1732077301292xCD2G_JPEG/1732077301184.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가장 사적인 클래식 로열 발레단 <호두까기인형> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 13 Dec 2024 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20241213_45/1734081339810Nk6G0_JPEG/2.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <루드윅: 베토벤 더 피아노> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
             <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
@@ -57,14 +49,6 @@
             <pubDate>Mon, 25 Nov 2024 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20241125_29/1732525746060H6ER0_JPEG/5.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 사적인 클래식 로열 발레단 <호두까기인형> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
-            <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 13 Dec 2024 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20241213_45/1734081339810Nk6G0_JPEG/2.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <루드윅: 베토벤 더 피아노> (네이버 공연 live beta ─ 하이라이트)]]></title>
